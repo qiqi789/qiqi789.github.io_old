@@ -1,0 +1,13 @@
+---
+layout: post
+title: Modelling Software
+description: a list of machine learning software
+tags: software, mathematical 
+---
+
+- [Open Modelica]
+
+[Open Modelica]: http://www.openmodelica.org/
+
+test content.
+

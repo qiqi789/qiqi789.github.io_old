@@ -1,0 +1,242 @@
+html {
+    color: black;
+    /*font-family: 'Lucida Sans', 'Helvetica', 'Arial', sans-serif;*/
+    font:12pt georgia, "new york", "times new roman", times, serif;
+    /*font-size: 15px;*/
+    text-align: left;
+    background-color: white;
+    line-height: 22px;
+    
+}
+
+body {
+    margin: 0px;
+}
+
+div#header {
+    background: url("../images/font_blog_new.jpg") repeat-x top;
+    padding-top: 30px;
+    height: 50px;
+}
+
+div#header a {
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    display: inline;
+    width: 800px;
+    margin: 0px auto 0px auto;
+}
+
+div#wide-content {
+    background-color: white;
+    padding-bottom: 20px;
+    background: url("../images/background1.gif") repeat;
+}
+
+div#content-wide {
+   
+    margin: 0px auto 0px auto;
+    margin-left: 20px;
+    margin-right:20px;
+}
+
+div#content {
+   
+    margin: 0px auto 0px auto;
+    margin-left: 180px;
+    margin-right:20px;
+}
+
+div#TOC { 
+    font-size: 85%;
+    position: fixed;
+    display:block;
+    left: 10px;
+    top: 80px;
+    width: 170px;
+    height: 600px;
+    line-height: 12pt;
+    
+ }
+
+div#footer {
+    clear: both;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 20px;
+    background: rgb(102, 102, 102) url("../images/background2.gif") repeat;
+    height: 100px;
+    color: black;
+}
+
+div#footer a {
+    color: blue;
+}
+
+div#nav_side {
+  position:fixed; 
+  left:0px;
+  top: 280px;
+
+}
+
+.clustrmap {
+    text-align:center; 
+    position: fixed;
+    display: bloc;
+    left: 10px;
+    top: 550px;
+    overflow:auto;
+    border-style:solid;
+    border-color:gold;
+    border-width: thin;
+    padding: 1px;
+   
+}
+
+.clustrmap_2 { 
+  float: left;
+  width: auto;
+  display: block;
+
+ }
+
+div.left-column {
+    width: 50%;
+    float: left;
+    padding-right: 10px;
+    margin-right:auto;
+    
+}
+
+div.right-column {
+    width: 500px;
+    float: left;
+    padding-left: 10px;
+}
+
+div.tags {
+    font-size: 16px;
+}
+
+div.tag-cloud {
+    clear: both;
+    text-align: center;
+}
+
+h1 {
+    font-size: 27px;
+    font-weight: normal;
+    margin: 0px;
+    padding-top: 15px;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: normal;
+}
+
+h3 {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a {
+    color: black;
+}
+
+img {
+    border: none;
+    margin: 10px auto 10px auto;
+    display: block;
+}
+
+img.inline-image {
+    margin: 0px;
+    display: inline;
+}
+
+img.pretty {
+    margin: 10px;
+    display: inline;
+    float: left;
+}
+
+.soft {
+    color: rgb(100, 100, 100);
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+div#posts ul {
+    list-style-image: url("../images/book_picture.png");
+    padding-left: 1em;
+    margin-left: 1em;
+
+margin-left: auto;
+margin-right: auto;
+padding: 20px;
+-moz-column-count: 3;
+-moz-column-gap: 80px;
+-webkit-column-count: 3;
+-webkit-column-gap: 80px;
+-moz-column-rule-color: brown;
+-moz-column-rule-style: solid;
+-moz-column-rule-width: 5px;
+column-count: 3;
+column-gap: 80px;
+
+}
+
+ul {
+    list-style-image: url("../images/icon_li.png");
+    padding-left: 1em;
+    margin-left: 1em;
+}
+
+div#disqus_thread ul { 
+    list-style-image: none;
+}
+
+code {
+    font-family: "Courier New",monospace,serif;
+    font-size: 12pt;
+}
+
+pre code {
+    clear: both;
+    display: block;
+    padding: 8px;
+    margin-bottom: 2em;
+    background-color: #002b36;
+    color: #708182;
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 20px;
+}
+
+blockquote {
+    background: rgb(230, 230, 230) url("../images/quote-background.png") no-repeat top left;
+    font-family: serif;
+    padding: 5px 5px 5px 50px;
+    font-size: 18px;
+    font-style: italic;
+    border-radius: 20px;
+}
+
+p.caption {
+    font-size: 14px;
+    text-align: center;
+    color: rgb(100, 100, 100);
+}
+
+div.footnotes {
+    border-left: 1px dashed black;
+}
+
+div.footnotes hr {
+    display: none;
+}
