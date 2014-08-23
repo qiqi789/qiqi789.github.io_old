@@ -10,3 +10,8 @@ title: Object-oriented design and analysis
 - [A curated list of Scala frameworks, libraries and software](https://github.com/lauris/awesome-scala)
 - [Dean Wampler blogs about the connections between Spark, Scala and Akka](http://databricks.com/blog/2014/06/13/application-spotlight-typesafe.html)
 - [Scala - The Simple Parts, SFScala presentation by Odersky](http://www.slideshare.net/Odersky/scala-the-simple-parts)
+- [Parallel-lazy Performance: Java 8 vs Scala vs GS Collections](http://www.infoq.com/presentations/java-streams-scala-parallel-collections)
+- [Scala's Modular roots in ML](http://blog.pellucid.com/post/94532532890/scalas-modular-roots-by-dan-james-earlier-this)
+- [twitter/algebird](https://github.com/twitter/algebird)
+- [Why Scala is Taking Over the Big Data World](http://www.parleys.com/play/53a7d2c5e4b0543940d9e544/chapter11/about)
+- [Interview with Typesafe: 4 answers about the past, present and future of Scala development](http://zeroturnaround.com/rebellabs/interview-with-typesafe-4-answers-about-the-past-present-and-future-of-scala-development/)
