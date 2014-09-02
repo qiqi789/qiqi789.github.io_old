@@ -1,7 +1,8 @@
 ---
 layout: post
 title: AI course discussion 
-tag:人工智能
+tags:
+ - 人工智能
 ---
 
 ###人工智能导论课试用论坛
