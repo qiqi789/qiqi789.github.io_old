@@ -70,3 +70,8 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 - [twitter/algebird](https://github.com/twitter/algebird)
 - [Why Scala is Taking Over the Big Data World](http://www.parleys.com/play/53a7d2c5e4b0543940d9e544/chapter11/about)
 - [Interview with Typesafe: 4 answers about the past, present and future of Scala development](http://zeroturnaround.com/rebellabs/interview-with-typesafe-4-answers-about-the-past-present-and-future-of-scala-development/)
+- [Scala founder: Language due for 'fundamental rethink' - See more at: http://akamai.infoworld.com/t/java-programming/scala-founder-language-due-fundamental-rethink-249845?page=0,0#sthash.WGsjKu72.NngND9qv.dpuf](http://akamai.infoworld.com/t/java-programming/scala-founder-language-due-fundamental-rethink-249845?page=0,0)
+- [11 open source security tools catching fire on GitHub - See more at: http://akamai.infoworld.com/slideshow/163151/11-open-source-security-tools-catching-fire-github-249652#slide1](http://akamai.infoworld.com/slideshow/163151/11-open-source-security-tools-catching-fire-github-249652#slide1)
+- [Typesafe Puts Big Data to Work in Reactive Applications](http://www.typesafe.com/company/news/typesafe-puts-big-data-to-work-in-reactive-applications)
+- [What is Reactive Programming?](https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc)
+- [Apache Spark and the Typesafe Reactive Platform](http://typesafe.com/platform/reactive-big-data/spark)

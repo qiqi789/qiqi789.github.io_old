@@ -58,7 +58,7 @@ title: AI course
 |:---------:|:-------:|:---------|:------:|:------:|:--------:|
 |  1      | 9/1   | 人工智能简介；课程内容介绍    | [PDF](lecture01_introduction.pdf)   |     |  [数学自测题](math_test.pdf)  9/8号前电邮提交        |
 |  2      | 9/8   | 中秋节,没课                          |   |    |    |
-|  3      | 9/15  | 智能行为体和环境；基础搜索法   |   |    |   |
+|  3      | 9/15  | 智能行为体和环境；基础搜索法   | [PDF](lecture02_PDF.pdf)  |    |   |
 |  4      | 9/22  | A*搜索和启发式法；局部搜索；基于搜索的智能行为体 |   |    |   |
 |  5      | 9/29  | 博弈；约束满足问题           |   |    |   |
 |  6      | 10/6  | 命题逻辑：语法和推理；命题规划和逻辑智能行为体   |   |    |   |
@@ -80,5 +80,9 @@ title: AI course
 ### 参考
 - [AI Landscape](http://www.aaai.org/AILandscape)
 - [ACM's Computer Science 2013: Curriculum Guidelines for Undergraduate Programs in Computer Science](http://www.acm.org/education/CS2013-final-report.pdf)
+- [Book: Superintelligence, Nick Bostrom](http://www.amazon.com/gp/product/0199678111?tag=viglink20784-20&pldnSite=1)
+- [Best sellers in Artificial Intelligence](http://www.amazon.com/gp/bestsellers/books/491300/ref=zg_b_bs_491300_1)
+- [Machine intellience research institute](http://intelligence.org)
+- [Less Wrong Discussion](http://lesswrong.com/r/discussion/)
 
 
