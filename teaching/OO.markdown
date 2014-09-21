@@ -7,7 +7,7 @@ title: Object-oriented design and analysis
 
 ### 更新通知
 
-#### September 22, 2014		
+#### 2014/9/22		
 
 > 欢迎来到这学期的课程!
 
