@@ -72,7 +72,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 |  15     | 12/9  | Scala程序测试和ScalaTest          |   |    |   |
 |  16     | 12/16 | GUI编程              |   |    |   |
 |  17     | 12/23 | 用Scala实现的领域特定语言  |   |    |   |
-|  18     | 12/30 | 期末考试；最终编程设计答辩   |   |    |   |
+|  18     | 12/30 | Scala内容总结；最终编程设计答辩   |   |    |   |
 
 -------
 
