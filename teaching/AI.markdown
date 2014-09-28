@@ -67,7 +67,7 @@ title: AI course
 |  3      | 9/15  | 智能行为体和环境；基础搜索法   | [PDF](lecture02_PDF.pdf)  |    |   |
 |  4      | 9/22  | A*搜索和启发式法；局部搜索；基于搜索的智能行为体 | [PDF](lecture03_PDF.pdf)   | [作业1](HW1.pdf)   |   |
 |  5      | 9/29  | 博弈；约束满足问题           |   |    |   |
-|  6      | 10/6  | 命题逻辑：语法和推理；命题规划和逻辑智能行为体   |   |    | 移到9/28上，同一时间和地点  |
+|  6      | 10/6  | 命题逻辑：语法和推理；命题规划和逻辑智能行为体   | [PDF](lecture04.pdf)   |    | 移到9/28上，同一时间和地点  |
 |  7      | 10/13 | 一阶逻辑                   |   |    |   |
 |  8      | 10/20 | 概率；贝叶斯网络：语法和语义   |   |    |   |
 |  9      | 10/27 | 贝叶斯网络：精确推断和近似推断   |   |    |   |
@@ -84,6 +84,7 @@ title: AI course
 ------
 
 ### 参考
+- [Tools for Learning Artificial Intelligence](http://www.aispace.org/index.shtml)
 - [AI Landscape](http://www.aaai.org/AILandscape)
 - [ACM's Computer Science 2013: Curriculum Guidelines for Undergraduate Programs in Computer Science](http://www.acm.org/education/CS2013-final-report.pdf)
 - [Book: Superintelligence, Nick Bostrom](http://www.amazon.com/gp/product/0199678111?tag=viglink20784-20&pldnSite=1)
