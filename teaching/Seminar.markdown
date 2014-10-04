@@ -24,6 +24,7 @@ title: seminar lectures
 
 ### 参考
 [1]	G. Mone, "Beyond Hadoop," Commun. ACM, vol. 56, pp. 22-24, 2013.
+
 [2]	H. V. Jagadish, J. Gehrke, A. Labrinidis, Y. Papakonstantinou, J. M. Patel, R. Ramakrishnan, et al., "Big data and its technical challenges," Commun. ACM, vol. 57, pp. 86-94, 2014.
 
 [3]	J. Horey, E. Begoli, R. Gunasekaran, S.-H. Lim, and J. Nutaro, "Big data platforms as a service: challenges and approach," presented at the Proceedings of the 4th USENIX conference on Hot Topics in Cloud Ccomputing, Boston, MA, 2012.
