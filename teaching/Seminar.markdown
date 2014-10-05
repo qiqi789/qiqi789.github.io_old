@@ -15,14 +15,22 @@ title: seminar lectures
 |  10     | 11/7  | Scala 编程技术最新发展         |   |    |   
 |  11     | 11/14 | Spark简介    |   |    |   
 |  12     | 11/21 | 并行分布计算软件平台   |   |    |   
-|  13     | 11/28 | 大数据分析应用       |   |    |   
-|  14     | 12/5  | 并行算法          |   |    |   
-|  15     | 12/12  | 并行分布算法         |   |    |   
+|  13     | 11/28 | Scala与Hadoop      |   |    |   
+|  14     | 12/5  | 大数据分析应用       |   |    |   
+|  15     | 12/12  | 并行分布算法      |   |    |   
 
 
 -------
 
-### 参考
+### 编程讲解参考
+
+* [Apache Spark: An Introductory Workshop](https://github.com/deanwampler/spark-workshop)
+* [Programming Hadoop with Scala](https://github.com/deanwampler/scala-hadoop)
+* 
+
+-------
+
+### 参考文献
 [1]	G. Mone, "Beyond Hadoop," Commun. ACM, vol. 56, pp. 22-24, 2013.
 
 [2]	H. V. Jagadish, J. Gehrke, A. Labrinidis, Y. Papakonstantinou, J. M. Patel, R. Ramakrishnan, et al., "Big data and its technical challenges," Commun. ACM, vol. 57, pp. 86-94, 2014.
@@ -72,3 +80,15 @@ title: seminar lectures
 [24]	M. Odersky and T. Rompf, "Unifying functional and object-oriented programming with Scala," Communications of the ACM, vol. 57, pp. 76–86, 2014.
 
 [25]	M. Armbrust, A. Fox, R. Griffith, A. D. Joseph, R. Katz, A. Konwinski, et al., "A view of cloud computing," Commun. ACM, vol. 53, pp. 50-58, 2010.
+
+-------
+
+### 其他参考
+
+* [https://amplab.cs.berkeley.edu](http://ampcamp.berkeley.edu/big-data-mini-course/)
+* [Parallel programming may not be so daunting](http://newsoffice.mit.edu/2014/parallel-programming-may-not-be-so-daunting)
+* [http://prediction.io](http://prediction.io)
+* [Polyglot Programming](http://polyglotprogramming.com)
+* [Can MapR Keep Ahead of Hadoop Competitors?](http://www.forbes.com/sites/danwoods/2014/09/29/can-mapr-keep-ahead-of-hadoop-competitors/)
+* [Scaling Machine Learning](http://telruptive.com/tag/storm/)
+* [Spark, an alternative for fast data analytics](http://www.ibm.com/developerworks/library/os-spark/)
