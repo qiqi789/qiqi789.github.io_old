@@ -7,6 +7,10 @@ title: Object-oriented design and analysis
 
 ### 更新通知
 
+#### 2014/10/5
+
+> 课程展示的源代码，已被发布在 [myScalaCourse 源代码](https://github.com/qiqi789/myScalaCourse)
+
 #### 2014/9/22		
 
 > 欢迎来到这学期的课程!
