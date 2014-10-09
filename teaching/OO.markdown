@@ -29,7 +29,7 @@ title: Object-oriented design and analysis
 #### 课程形式：
 *以下安排可能会有变化。*
 
-* 讲课：计划17次（如下面的课程安排所列），每次3节课时
+* 讲课：计划18次（如下面的课程安排所列），每次3节课时
 * 作业：可能有笔答和编程两种形式
 * 考试：1次期末考试
 * 编程设计：1个最终编程设计，以小组完成（1-3人一组），最后有一个答辩
@@ -58,9 +58,9 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 
 | 学期周       |日期      |  内容    | 幻灯片  |作业     |  注释    |
 |:---------:|:-------:|:---------|:------:|:------:|:--------:|
-|  4      | 9/23  | 课程介绍；Scala简介；Scala安装和运行 | [PDF](lecture01.pdf)  |    | [lecture01.scala](lecture01.scala)  |
-|  4      | 9/26  | Scala基础介绍  | [PDF](lecture02.pdf)  |    | [lecture02.scala](lecture02.scala) [lecture02_2.scala](lecture02_2.scala)   |
-|  5      | 9/30  | 数据与抽象；类和对象；函数对象          | [PDF](lecture03.pdf)  |    | [lecture03.scala](lecture03.scala)   |
+|  4      | 9/23  | 课程介绍；Scala简介；Scala安装和运行 | [PDF](lecture01.pdf)  |    | 课堂演示代码，请见[这里](https://github.com/qiqi789/myScalaCourse) |
+|  4      | 9/26  | Scala基础介绍  | [PDF](lecture02.pdf)  |    |   |
+|  5      | 9/30  | 数据与抽象；类和对象；函数对象          | [PDF](lecture03.pdf)  |    |    |
 |  5      | 10/3  | 函数与函数估值；高阶函数          |   |    | 假期课取消，内容会被添加到其他课时里  |
 |  6      | 10/7  | 特征类；实例类 |   |    | 移到10月11日，同一时间和地点  |
 |  6      | 10/10 | 函数和闭包 ；控制层抽象   |   |    |   |

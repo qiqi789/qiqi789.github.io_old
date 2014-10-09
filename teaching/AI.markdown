@@ -3,6 +3,8 @@ layout: default
 title: AI course
 ---
 
+<ul class="breadcrumb"><li><a href="/teaching/">Teaching</a> <span class="divider">&rarr;</span></li><li><a href="/teaching/AI">AI</a> <span class="divider">&rarr;</span></li> </ul>
+
 ## 人工智能 （2014年秋季学期）
 
 ### 更新通知
