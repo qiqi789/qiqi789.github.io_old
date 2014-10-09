@@ -3,7 +3,7 @@ layout: default
 title: Object-oriented design and analysis
 ---
 
-<ul class="breadcrumb"><li><a href="/teaching/">Teaching</a> <span class="divider">&rarr;</span></li><li><a href="/teaching/OO/">Object-Oriented</a> <span class="divider">&rarr;</span></li> </ul>
+<ul class="breadcrumb"><li><a href="/teaching/">Teaching</a> <span class="divider"></span></li><li><a href="/teaching/OO/">Object-Oriented</a> <span class="divider"></span></li> </ul>
 
 ## 面向对象分析与设计（2014年秋季学期）
 
@@ -82,7 +82,12 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 
 -------
 
+### Scala问题解答帮助
+
+* [Scala-User group list](https://groups.google.com/forum/#!forum/scala-user)
+
 ### 参考
+
 - [Scala Named a "Top 10 Technology for Modern Developers"](http://www.marketwired.com/press-release/-1932289.htm)
 - [The Evolution of Scala by Odersky](http://www.slideshare.net/Odersky/scala-evolution)
 - [Scala Days 2014 Presentations](http://www.parleys.com/channel/53a7d269e4b0543940d9e535/presentations?sort=views&state=public)

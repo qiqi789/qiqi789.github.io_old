@@ -3,6 +3,8 @@ layout: default
 title: seminar lectures
 ---
 
+<ul class="breadcrumb"><li><a href="/teaching/">Teaching</a> <span class="divider">&rarr;</span></li><li><a href="/teaching/Seminar/">Seminar</a> <span class="divider">&rarr;</span></li> </ul>
+
 ## 计算机发展前沿讲座
 
 本系列讲座内容主要是围绕Scala编程语言技术，大数据分析处理和并行分布式计算领域的发展前沿技术。内容主要是来自于近期相关领域的文献的浏览和总结。
