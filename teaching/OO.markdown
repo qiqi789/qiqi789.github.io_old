@@ -3,6 +3,8 @@ layout: default
 title: Object-oriented design and analysis
 ---
 
+<ul class="breadcrumb"><li><a href="/teaching/">Teaching</a> <span class="divider">&rarr;</span></li><li><a href="/teaching/OO/">Object-Oriented</a> <span class="divider">&rarr;</span></li> </ul>
+
 ## 面向对象分析与设计（2014年秋季学期）
 
 ### 更新通知
