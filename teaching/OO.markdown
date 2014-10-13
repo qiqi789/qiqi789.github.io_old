@@ -9,6 +9,10 @@ title: Object-oriented design and analysis
 
 ### 更新通知
 
+#### 2014/10/13
+
+> 课程调整：10/14日的课临时移到了10/22。
+
 #### 2014/10/5
 
 > 课程展示的源代码，已被发布在 [myScalaCourse 源代码](https://github.com/qiqi789/myScalaCourse)
@@ -66,7 +70,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 |  5      | 10/3  | 函数与函数估值；高阶函数          |   |    | 假期课取消，内容会被添加到其他课时里  |
 |  6      | 10/7  | 特征类；实例类 | 见lecture04的第25到40页  |    | 移到10月11日，同一时间和地点  |
 |  6      | 10/10 | 函数和闭包 ；控制层抽象   | [PDF](lecture04.pdf)  |    |   |
-|  7      | 10/14 | 类型和模式匹配；类型参数化                |   |    |   |
+|  7      | 10/14 | 类型和模式匹配；类型参数化                |   |    | 临时移到了10/22上  |
 |  7      | 10/17 | 抽象成员；抽象与多态；组合与继承   |   |    |   |
 |  8      | 10/21 | 有状态的对象；对象相等性；隐形转化和参数   |   |    |   |
 |  9      | 10/28 | 用对象进行模块化编程     |   |    |   |
@@ -91,6 +95,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 
 ### 参考
 
+- [What Global Warming, Energy Efficiency and Erlang Have in Common](http://www.huffingtonpost.com/noah-gift/sqor-chief-technology-off_1_b_5960372.html?utm_hp_ref=technology&ir=Technology)
 - [Scala Named a "Top 10 Technology for Modern Developers"](http://www.marketwired.com/press-release/-1932289.htm)
 - [The Evolution of Scala by Odersky](http://www.slideshare.net/Odersky/scala-evolution)
 - [Scala Days 2014 Presentations](http://www.parleys.com/channel/53a7d269e4b0543940d9e535/presentations?sort=views&state=public)
