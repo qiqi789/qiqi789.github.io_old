@@ -90,11 +90,23 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 
 * [Scala-User group list](https://groups.google.com/forum/#!forum/scala-user)
 
+### Scala Libraries
+
+* [Breeze, a numerical processing library](https://github.com/scalanlp/breeze)
+* [Scalalab, matlab like, scientific programming environment](https://code.google.com/p/scalalab/)
+* [BIDMach, CPU and GPU-accelerated Machine Learning Library](https://github.com/BIDData/BIDMach)
+* [Lightweight Modular Staging (LMS)](http://scala-lms.github.io)
+
+
 
 -------
 
 ### 参考
 
+- [Three Reasons a Data Engineer Should Learn Scala](http://www.hakkalabs.co/articles/three-reasons-data-eng-learn-scala)
+- [Startup Crunches 100 Terabytes of Data in a Record 23 Minutes-->Spark](http://www.wired.com/2014/10/startup-crunches-100-terabytes-data-record-23-minutes/)
+- [Spark and the Typesafe Reactive Platform webminar](http://info.typesafe.com/spark-and-the-typesafe-reactive-platform.html?_ga=1.78214420.1813941616.1407271050)
+- [Scala Best Practices](https://github.com/alexandru/scala-best-practices/)
 - [What Global Warming, Energy Efficiency and Erlang Have in Common](http://www.huffingtonpost.com/noah-gift/sqor-chief-technology-off_1_b_5960372.html?utm_hp_ref=technology&ir=Technology)
 - [Scala Named a "Top 10 Technology for Modern Developers"](http://www.marketwired.com/press-release/-1932289.htm)
 - [The Evolution of Scala by Odersky](http://www.slideshare.net/Odersky/scala-evolution)
