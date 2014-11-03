@@ -86,7 +86,7 @@ title: AI course
 |  7      | 10/13 | 讲解作业1                 |   |    |   |  |
 |  8      | 10/20 | 博弈问题复习；约束满足问题  |   | [PDF](lecture06.pdf)   |   | |
 |  9      | 10/27 | 约束满足问题（继续）   |   | [PDF](lecture07.pdf)   | [作业2](HW2.pdf)  | |
-|  10     | 11/3  | 命题逻辑：语法和推理；命题规划和逻辑智能行为体；一阶逻辑         |   |    |   | |
+|  10     | 11/3  | 命题逻辑：语法和推理；命题规划和逻辑智能行为体        |   | [PDF](lecture08.pdf)   |   | |
 |  11     | 11/10 |  概率；贝叶斯网络：语法和语义 ；    |   |    |   | |
 |  12     | 11/17 |  贝叶斯网络：精确推断和近似推断；  |   |    |   | |
 |  13     | 11/24 | 马可夫模型；语音识别；决策论；马可夫决策过程 I ；马可夫决策过程 II；         |   |    |   | |
@@ -106,5 +106,6 @@ title: AI course
 - [Best sellers in Artificial Intelligence](http://www.amazon.com/gp/bestsellers/books/491300/ref=zg_b_bs_491300_1)
 - [Machine intellience research institute](http://intelligence.org)
 - [Less Wrong Discussion](http://lesswrong.com/r/discussion/)
+- [I, algorithm: A new dawn for artificial intelligence](http://www.cs.washington.edu/news/TheNewAI_NewScientist.pdf)
 
 
