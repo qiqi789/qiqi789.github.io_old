@@ -78,7 +78,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 |  7      | 10/17 | 抽象成员；抽象与多态；组合与继承   | [PDF](lecture06.pdf)  |    |   |
 |  8      | 10/21 | 有状态的对象；对象相等性；隐形转化和参数   | [PDF](lecture07.pdf)  |    |   |
 |  9      | 10/28 | 用对象进行模块化编程     | [PDF](lecture09.pdf)  |  [编程作业1](hw1.zip)  |   |
-|  10     | 11/4  | 惰性估值；For循环表达式；组合函数类库         |   |    |   |
+|  10     | 11/4  | 惰性估值；For循环表达式；组合函数类库         | [PDF](lecture10.pdf)  |    |   |
 |  11     | 11/11 | 函数式设计模式     |   |    |   |
 |  12     | 11/18 | 输入输出影响；XML文件处理   |   |    |   |
 |  13     | 11/25 | 列表类和其他集合类        |   |    |   |
@@ -101,6 +101,10 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 * [BIDMach, CPU and GPU-accelerated Machine Learning Library](https://github.com/BIDData/BIDMach)
 * [Lightweight Modular Staging (LMS)](http://scala-lms.github.io)
 
+### Scala 测试工具
+
+* [ScalaTest](http://www.scalatest.org)
+* [ScalaCheck](http://www.scalacheck.org)
 
 
 -------
@@ -129,3 +133,4 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 - [Typesafe Puts Big Data to Work in Reactive Applications](http://www.typesafe.com/company/news/typesafe-puts-big-data-to-work-in-reactive-applications)
 - [What is Reactive Programming?](https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc)
 - [Apache Spark and the Typesafe Reactive Platform](http://typesafe.com/platform/reactive-big-data/spark)
+- [Scala 2.12 will only support Java 8](http://www.infoq.com/articles/Scala-2-12-Only-Java8)
