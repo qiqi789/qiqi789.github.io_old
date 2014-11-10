@@ -83,7 +83,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 |  8      | 10/21 | 有状态的对象；对象相等性；隐形转化和参数   | [PDF](lecture07.pdf)  |    |   |
 |  9      | 10/28 | 用对象进行模块化编程     | [PDF](lecture09.pdf)  |  [编程作业1](hw1.zip)  |   |
 |  10     | 11/4  | 惰性估值；For循环表达式；组合函数类库         | [PDF](lecture10.pdf)  |    |   |
-|  11     | 11/11 | 函数式设计模式     | [PDF](lecture11.pdf)  |  [编程作业2](HW2.zip)  |   |
+|  11     | 11/11 | 离散事件模拟器     | [PDF](lecture11.pdf)  |  [编程作业2](HW2.zip)  | [演示程序](Discrete-Event-Simulation_demo.zip)  |
 |  12     | 11/18 | 输入输出影响；XML文件处理   |   |    |   |
 |  13     | 11/25 | 列表类和其他集合类        |   |    |   |
 |  14     | 12/2  | Scala里的并行与异步编程          |   |    |   |
