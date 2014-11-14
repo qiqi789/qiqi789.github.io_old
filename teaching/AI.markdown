@@ -99,6 +99,8 @@ title: AI course
 ------
 
 ### 参考
+
+- [The Three Breakthroughs That Have Finally Unleashed AI on the World](http://www.wired.com/2014/10/future-of-artificial-intelligence)
 - [Tools for Learning Artificial Intelligence](http://www.aispace.org/index.shtml)
 - [AI Landscape](http://www.aaai.org/AILandscape)
 - [ACM's Computer Science 2013: Curriculum Guidelines for Undergraduate Programs in Computer Science](http://www.acm.org/education/CS2013-final-report.pdf)

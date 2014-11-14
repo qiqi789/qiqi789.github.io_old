@@ -115,6 +115,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 
 ### 参考
 
+- [The Three Breakthroughs That Have Finally Unleashed AI on the World](http://www.wired.com/2014/10/future-of-artificial-intelligence)
 - [Three Reasons a Data Engineer Should Learn Scala](http://www.hakkalabs.co/articles/three-reasons-data-eng-learn-scala)
 - [The New Analytics Toolbox with Apache Spark — Going Beyond Hadoop](http://planetcassandra.org/blog/the-new-analytics-toolbox-with-apache-spark-going-beyond-hadoop/?utm_content=buffer4fcc7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Startup Crunches 100 Terabytes of Data in a Record 23 Minutes-->Spark](http://www.wired.com/2014/10/startup-crunches-100-terabytes-data-record-23-minutes/)

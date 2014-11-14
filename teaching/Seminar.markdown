@@ -14,12 +14,12 @@ title: seminar lectures
 
 | 学期周       |日期      |  内容    | 幻灯片  |     注释    |
 |:---------:|:-------:|:---------|:------:|:--------:|
-|  10     | 11/7  | Scala 编程技术最新发展         |   |    |   
-|  11     | 11/14 | Spark简介    |   |    |   
-|  12     | 11/21 | 并行分布计算软件平台   |   |    |   
-|  13     | 11/28 | Scala与Hadoop      |   |    |   
-|  14     | 12/5  | 大数据分析应用       |   |    |   
-|  15     | 12/12  | 并行分布算法      |   |    |   
+|  11     | 11/14  | Scala 编程技术最新发展         | [PDF](lecture01.pdf)  |    |   
+|  12     | 11/21 | Spark简介    |   |    |   
+|  13     | 11/28 | 并行分布计算软件平台   |   |    |   
+|  14     | 12/5 | Scala与Hadoop      |   |    |   
+|  15     | 12/12  | 大数据分析应用       |   |    |   
+|  16     | 12/19  | 并行分布算法      |   |    |   
 
 
 -------
@@ -87,6 +87,7 @@ title: seminar lectures
 
 ### 其他参考
 
+* [The Three Breakthroughs That Have Finally Unleashed AI on the World](http://www.wired.com/2014/10/future-of-artificial-intelligence)
 * [https://amplab.cs.berkeley.edu](http://ampcamp.berkeley.edu/big-data-mini-course/)
 * [Parallel programming may not be so daunting](http://newsoffice.mit.edu/2014/parallel-programming-may-not-be-so-daunting)
 * [http://prediction.io](http://prediction.io)
