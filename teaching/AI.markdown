@@ -3,7 +3,10 @@ layout: default
 title: AI course
 ---
 
-<ul class="breadcrumb"><li><a href="/teaching/">Teaching</a> <span class="divider"></span></li><li><a href="/teaching/AI/">AI</a> <span class="divider"></span></li> </ul>
+<ul class="breadcrumb">
+<li><a href="/teaching/">Teaching</a> <span class="divider"></span></li>
+<li><a href="/teaching/AI/">AI</a> <span class="divider"></span></li> 
+</ul>
 
 ## 人工智能 （2014年秋季学期）
 
@@ -87,13 +90,13 @@ title: AI course
 |  8      | 10/20 | 博弈问题复习；约束满足问题  |   | [PDF](lecture06.pdf)   |   | |
 |  9      | 10/27 | 约束满足问题（继续）   |   | [PDF](lecture07.pdf)   | [作业2](HW2.pdf)  | |
 |  10     | 11/3  | 命题逻辑：语法和推理；命题规划和逻辑智能行为体        |   | [PDF](lecture08.pdf)   |   | |
-|  11     | 11/10 |  概率；贝叶斯网络：语法和语义 ；    |   |  [PDF](lecture09.pdf)  |   | |
-|  12     | 11/17 |  贝叶斯网络：精确推断和近似推断；  |   |    |   | |
-|  13     | 11/24 | 马可夫模型；语音识别；决策论；马可夫决策过程 I ；马可夫决策过程 II；         |   |    |   | |
-|  14     | 12/1  | 增强式学习 I；机器学习：归类和回归 ；           |   |    |   | |
-|  15     | 12/8  | 机器学习：神经网络；           |   |    |   | |
-|  16     | 12/15 | 机器学习：统计学习；增强式学习 II               |   |    |   | |
-|  17     | 12/22 | 高级应用：自然语言理解，视觉和机器人   |   |    |   | |
+|  11     | 11/10 |  作业2讲解；命题逻辑(继续)    |   |  [PDF](lecture09.pdf)  |   | |
+|  12     | 11/17 | 基于逻辑的智能体；概率；概率；贝叶斯网络：语法和语义   |   |    |   | |
+|  13     | 11/24 | 贝叶斯网络：精确推断和近似推断         |   |    |   | |
+|  14     | 12/1  | 马可夫模型；语音识别；决策论；马可夫决策过程 I ；马可夫决策过程 II           |   |    |   | |
+|  15     | 12/8  | 增强式学习 I；机器学习：归类和回归            |   |    |   | |
+|  16     | 12/15 | 机器学习：神经网络； |   |    |   | |
+|  17     | 12/22 | 机器学习：统计学习；增强式学习 II                  |   |    |   | |
 
 
 ------
