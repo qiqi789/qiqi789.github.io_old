@@ -104,6 +104,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 * [Scalalab, matlab like, scientific programming environment](https://code.google.com/p/scalalab/)
 * [BIDMach, CPU and GPU-accelerated Machine Learning Library](https://github.com/BIDData/BIDMach)
 * [Lightweight Modular Staging (LMS)](http://scala-lms.github.io)
+* [Scala.js](http://www.scala-js.org/#built_with_scalajs)
 
 ### Scala 测试工具
 
@@ -115,6 +116,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 
 ### 参考
 
+- [Transitioning to Scala](https://medium.com/@kvnwbbr/transitioning-to-scala-d1818f25b2b7)
 - [The Three Breakthroughs That Have Finally Unleashed AI on the World](http://www.wired.com/2014/10/future-of-artificial-intelligence)
 - [Three Reasons a Data Engineer Should Learn Scala](http://www.hakkalabs.co/articles/three-reasons-data-eng-learn-scala)
 - [The New Analytics Toolbox with Apache Spark — Going Beyond Hadoop](http://planetcassandra.org/blog/the-new-analytics-toolbox-with-apache-spark-going-beyond-hadoop/?utm_content=buffer4fcc7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
