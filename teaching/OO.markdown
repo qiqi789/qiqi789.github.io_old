@@ -9,6 +9,10 @@ title: Object-oriented design and analysis
 
 ### 更新通知
 
+#### 2014/11/17
+
+> 编程作业1的测试程序发布(需要用到ScalaTest)。
+
 #### 2014/11/10
 
 > [编程作业2](HW2.zip) 发布，时间为一周，11/18提交电子版（只包含源代码文件即可）。
@@ -81,7 +85,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 |  7      | 10/14 | 类型和模式匹配；类型参数化                | [PDF](lecture08.pdf)  |    | 临时移到了10/22上  |
 |  7      | 10/17 | 抽象成员；抽象与多态；组合与继承   | [PDF](lecture06.pdf)  |    |   |
 |  8      | 10/21 | 有状态的对象；对象相等性；隐形转化和参数   | [PDF](lecture07.pdf)  |    |   |
-|  9      | 10/28 | 用对象进行模块化编程     | [PDF](lecture09.pdf)  |  [编程作业1](hw1.zip)  |   |
+|  9      | 10/28 | 用对象进行模块化编程     | [PDF](lecture09.pdf)  |  [编程作业1](hw1.zip)  | [编程作业1_测试程序](test_hw1.zip)  |
 |  10     | 11/4  | 惰性估值；For循环表达式；组合函数类库         | [PDF](lecture10.pdf)  |    |   |
 |  11     | 11/11 | 离散事件模拟器     | [PDF](lecture11.pdf)  |  [编程作业2](HW2.zip)  | [演示程序](Discrete-Event-Simulation_demo.zip)  |
 |  12     | 11/18 | 输入输出影响；XML文件处理   |   |    |   |
