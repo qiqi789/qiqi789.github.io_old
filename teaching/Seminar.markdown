@@ -95,3 +95,9 @@ title: seminar lectures
 * [Can MapR Keep Ahead of Hadoop Competitors?](http://www.forbes.com/sites/danwoods/2014/09/29/can-mapr-keep-ahead-of-hadoop-competitors/)
 * [Scaling Machine Learning](http://telruptive.com/tag/storm/)
 * [Spark, an alternative for fast data analytics](http://www.ibm.com/developerworks/library/os-spark/)
+* [Spark：大数据的“电光石火”](http://www.csdn.net/article/2013-07-08/2816149)
+* [Spark技术社区](http://spark.csdn.net)
+* [Spark在腾讯数据仓库TDW的应用](http://www.biaodianfu.com/spark-tdw.html)
+
+
+
