@@ -107,6 +107,7 @@ title: AI course
 
 ### 参考
 
+- [Stephen Hawking warns artificial intelligence could end mankind](http://www.bbc.com/news/technology-30290540)
 - [The Three Breakthroughs That Have Finally Unleashed AI on the World](http://www.wired.com/2014/10/future-of-artificial-intelligence)
 - [Tools for Learning Artificial Intelligence](http://www.aispace.org/index.shtml)
 - [AI Landscape](http://www.aaai.org/AILandscape)
