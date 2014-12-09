@@ -149,3 +149,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 - [What is Reactive Programming?](https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc)
 - [Apache Spark and the Typesafe Reactive Platform](http://typesafe.com/platform/reactive-big-data/spark)
 - [Scala 2.12 will only support Java 8](http://www.infoq.com/articles/Scala-2-12-Only-Java8)
+- [First Steps to Scala, by Bill Venners, Martin Odersky, and Lex Spoon](http://www.artima.com/scalazine/articles/steps.html)
+- [Solutions to the Exercises in the "Scala By Example" Manual](http://metagear.de/articles/scala-exercises/index.html)
+- [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+- [Another Tour of Scala](http://naildrivin5.com/scalatour/wiki_pages/MainPage/)
