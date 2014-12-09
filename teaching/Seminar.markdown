@@ -98,6 +98,8 @@ title: seminar lectures
 * [Spark：大数据的“电光石火”](http://www.csdn.net/article/2013-07-08/2816149)
 * [Spark技术社区](http://spark.csdn.net)
 * [Spark在腾讯数据仓库TDW的应用](http://www.biaodianfu.com/spark-tdw.html)
+* [Big Data Content On InfoQ](http://www.infoq.com/bigdata/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
+* [IBM, Databricks, GraphLab Present Notebooks as Unified Interfaces for Building Prediction Apps](http://www.infoq.com/news/2014/12/ipython-notebooks)
 
 
 

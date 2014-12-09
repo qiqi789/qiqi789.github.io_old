@@ -153,3 +153,5 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 - [Solutions to the Exercises in the "Scala By Example" Manual](http://metagear.de/articles/scala-exercises/index.html)
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - [Another Tour of Scala](http://naildrivin5.com/scalatour/wiki_pages/MainPage/)
+- [iRewind and Typesafe founder Martin Odersky among the winners of the Swiss ICT Award](http://www.startupticker.ch/en/news/november-2014/irewind-and-typesafe-founder-martin-odersky-among-the-winners-of-the-swiss-ict-award#.VIatyb7llQu)
+- 
