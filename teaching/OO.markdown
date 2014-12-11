@@ -113,6 +113,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 * [BIDMach, CPU and GPU-accelerated Machine Learning Library](https://github.com/BIDData/BIDMach)
 * [Lightweight Modular Staging (LMS)](http://scala-lms.github.io)
 * [Scala.js](http://www.scala-js.org/#built_with_scalajs)
+* [Hands-on Scala.js](http://lihaoyi.github.io/hands-on-scala-js/#Hands-onScala.js)
 
 ### Scala 测试工具
 
@@ -154,4 +155,4 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - [Another Tour of Scala](http://naildrivin5.com/scalatour/wiki_pages/MainPage/)
 - [iRewind and Typesafe founder Martin Odersky among the winners of the Swiss ICT Award](http://www.startupticker.ch/en/news/november-2014/irewind-and-typesafe-founder-martin-odersky-among-the-winners-of-the-swiss-ict-award#.VIatyb7llQu)
-- 
+- [Genetic Algorithm in Scala](http://patricknicolas.blogspot.com/2013/05/genetic-algorithm-in-scala.html)
