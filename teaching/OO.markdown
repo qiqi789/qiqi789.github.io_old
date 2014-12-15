@@ -96,7 +96,7 @@ Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehens
 |  13     | 11/25 | 面向对象模型        | [PDF](lecture13.pdf)  |    |   |
 |  14     | 12/2  | 面向对象模型 II          | [PDF](lecture14.pdf)  |    |   |
 |  15     | 12/9  | 面向对象模型 III          | [PDF](lecture15.pdf)  |    |   |
-|  16     | 12/16 | GUI编程              |   |    |   |
+|  16     | 12/16 | 面向对象模型，继续              | [PDF](lecture16.pdf)   |    |   |
 |  17     | 12/23 | 用Scala实现的领域特定语言  |   |    |   |
 |  18     | 12/30 | Scala内容总结；最终编程设计答辩   |   |    |   |
 
