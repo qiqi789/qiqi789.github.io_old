@@ -19,7 +19,7 @@ title: seminar lectures
 |  13     | 11/28 | 深度学习(deep learning)简介   | [PDF](lecture03.pdf)  |    |   
 |  14     | 12/5 | 深度学习(deep learning)简介继续；2013年10大突破技术     |   |    |   
 |  15     | 12/12  | Spark简介；       | [PDF](lecture05.pdf)  |    |   
-|  16     | 12/19  | Spark简介继续；并行分布算法      |   |    |   
+|  16     | 12/17  | Spark简介继续；并行分布算法      | [PDF](lecture06.pdf)  |    |   
 
 
 -------
