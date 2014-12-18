@@ -54,20 +54,22 @@ title: Object-oriented design and analysis
 * 讲课：计划18次（如下面的课程安排所列），每次3节课时
 * 作业：可能有笔答和编程两种形式
 * 考试：1次期末考试
-* 编程设计：1个最终编程设计，以小组完成（1-3人一组），最后有一个答辩
+* ~~编程设计：1个最终编程设计，以小组完成（1-3人一组），最后有一个答辩~~
 
 #### 评分标准：
 *以下安排可能会有变化。*
 
 |课堂出勤和参与 | 10% |
-|课后作业 | 20% |
-|期末考试 | 30%| 
-|最终编程设计 | 40%|
+|课后作业 | 第一次作业10%；第二次作业选做，可额外加分10% |
+|期末考试 | 80%| 
+~~|最终编程设计 | 40%|~~
 | 总共 | 100% |
 
 
 #### 课本参考：
 Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehensive step-by-step guide; updated for scala 2.8]. Walnut Creek, Calif, Artima Press.
+
+Brady Booch, etc. (2007), Object-Oriented Analysis and Design with Applications (3rd ed.), Addison-Wesley Press.
 
 #### 课程交流：
 我的电子邮件地址是：qqi@hainu.edu.cn
