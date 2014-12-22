@@ -12,6 +12,10 @@ title: AI course
 
 ### 更新通知
 
+#### 2014/12/22
+
+> 作业答案和期末考试范围已在下面课程安排表的最后一行后面贴出。
+
 #### 2014/12/15
 
 > 复习内容的幻灯片已贴出。
@@ -103,7 +107,7 @@ title: AI course
 |  14     | 12/1  | 贝叶斯网络：精确推断          |   | [PDF](lecture12.pdf)   | [作业3](HW3.pdf)  | |
 |  15     | 12/8  | 贝叶斯网络：近似推断              |   | [PDF](lecture13.pdf)   |   | |
 |  16     | 12/15 | 内容回顾和总结 |   | [PDF](lecture14_2.pdf)   |   | |
-|  17     | 12/22 | 课程复习                  |   | [PDF](lecture15.pdf)   |   | |
+|  17     | 12/22 | 课程复习                  |   | [PDF](lecture15.pdf)   |   | [作业1答案](HW1_solution_publish.pdf),[作业2答案](HW2_solution_publish.pdf),[作业3答案](HW3_solution_publish.pdf);[期末考试范围](final_covers.pdf) |
 
 
 ------
