@@ -84,23 +84,23 @@ Brady Booch, etc. (2007), Object-Oriented Analysis and Design with Applications 
 |:---------:|:-------:|:---------|:------:|:------:|:--------:|
 |  4      | 9/23  | 课程介绍；Scala简介；Scala安装和运行 | [PDF](lecture01.pdf)  |    | 课堂演示代码，请见[这里](https://github.com/qiqi789/myScalaCourse) |
 |  4      | 9/26  | Scala基础介绍; Scala基本构件浏览  | [PDF](lecture02.pdf)  |    |   |
-|  5      | 9/30  | 数据与抽象；类和对象；函数对象          | [PDF](lecture03.pdf)  |    |    |
-|  5      | 10/3  | 函数与函数估值；高阶函数          |   |    | 假期课取消，内容会被添加到其他课时里  |
-|  6      | 10/7  | 特征类；实例类 | 见lecture04的第25到40页  |    | 移到10月11日，同一时间和地点  |
-|  6      | 10/10 | 函数和闭包 ；控制层抽象   | [PDF](lecture04.pdf)  |    |   |
-|  7      | 10/14 | 类型和模式匹配；类型参数化                | [PDF](lecture08.pdf)  |    | 临时移到了10/22上  |
-|  7      | 10/17 | 抽象成员；抽象与多态；组合与继承   | [PDF](lecture06.pdf)  |    |   |
-|  8      | 10/21 | 有状态的对象；对象相等性；隐形转化和参数   | [PDF](lecture07.pdf)  |    |   |
-|  9      | 10/28 | 用对象进行模块化编程     | [PDF](lecture09.pdf)  |  [编程作业1](hw1.zip)  | [编程作业1_测试程序](test_hw1.zip)  |
-|  10     | 11/4  | 惰性估值；For循环表达式；组合函数类库         | [PDF](lecture10.pdf)  |    |   |
-|  11     | 11/11 | 离散事件模拟器     | [PDF](lecture11.pdf)  |  [编程作业2](HW2.zip)  | [演示程序](Discrete-Event-Simulation_demo.zip)  |
-|  12     | 11/18 | 输入输出影响；XML文件处理   | [PDF](lecture12.pdf)  |    |   |
-|  13     | 11/25 | 面向对象模型        | [PDF](lecture13.pdf)  |    |   |
-|  14     | 12/2  | 面向对象模型 II          | [PDF](lecture14.pdf)  |    |   |
-|  15     | 12/9  | 面向对象模型 III          | [PDF](lecture15.pdf)  |    |   |
-|  16     | 12/16 | 面向对象模型，继续              | [PDF](lecture16.pdf)   |    |   |
-|  17     | 12/23 | 用Scala实现的领域特定语言  |   |    |   |
-|  18     | 12/30 | Scala内容总结；最终编程设计答辩   |   |    |   |
+|  5      | 9/30  | Scala语言的基本构件（继续）；Scala语言基础          | [PDF](lecture03.pdf)  |    |    |
+|  5      | 10/3  |           |   |    | 假期课取消，内容会被添加到其他课时里  |
+|  6      | 10/7  | Scala的实例类和模式匹配；一般的类型和一般的方法 | 见lecture04的第25到40页  |    | 移到10月11日，同一时间和地点  |
+|  6      | 10/10 | Scala基础介绍继续；类和对象   | [PDF](lecture04.pdf)  |    |   |
+|  7      | 10/14 | 一般类的实例（Tuples,Functions）；列表集合               | [PDF](lecture08.pdf)  |    | 临时移到了10/22上  |
+|  7      | 10/17 | 实例类和模式匹配；一般的类型和一般的方法   | [PDF](lecture06.pdf)  |    |   |
+|  8      | 10/21 | 一般的类型和一般的方法；列表集合    | [PDF](lecture07.pdf)  |    |   |
+|  9      | 10/28 | List的介绍；For包含；可变状态对象     | [PDF](lecture09.pdf)  |  [编程作业1](hw1.zip)  | [编程作业1_测试程序](test_hw1.zip)  |
+|  10     | 11/4  | For包含；可变状态对象        | [PDF](lecture10.pdf)  |    |   |
+|  11     | 11/11 | 作业1讲解；离散事件模拟器     | [PDF](lecture11.pdf)  |  [编程作业2](HW2.zip)  | [演示程序](Discrete-Event-Simulation_demo.zip)  |
+|  12     | 11/18 | Stream; Iterators; Lazy values   | [PDF](lecture12.pdf)  |    |   |
+|  13     | 11/25 | 类和对象 I; 对象模型的演化       | [PDF](lecture13.pdf)  |    |   |
+|  14     | 12/2  | 类和对象 II; 对象模型基础         | [PDF](lecture14.pdf)  |    |   |
+|  15     | 12/9  | 类和对象 III；对象模型基础继续          | [PDF](lecture15.pdf)  |    |   |
+|  16     | 12/16 | 类和对象 IV；对象模型的元素 I              | [PDF](lecture16.pdf)   |    |   |
+|  17     | 12/23 | 类和对象 V； 对象模型的元素 II  |   |    |   |
+|  18     | 12/30 | 对象模型的元素 III   |   |    |   |
 
 -------
 
