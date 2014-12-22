@@ -99,7 +99,7 @@ Brady Booch, etc. (2007), Object-Oriented Analysis and Design with Applications 
 |  14     | 12/2  | 类和对象 II; 对象模型基础         | [PDF](lecture14.pdf)  |    |   |
 |  15     | 12/9  | 类和对象 III；对象模型基础继续          | [PDF](lecture15.pdf)  |    |   |
 |  16     | 12/16 | 类和对象 IV；对象模型的元素 I              | [PDF](lecture16.pdf)   |    |   |
-|  17     | 12/23 | 类和对象 V； 对象模型的元素 II  |   |    |   |
+|  17     | 12/23 | 类和对象 V； 对象模型的元素 II  | [PDF](lecture17.pdf)  |    |   |
 |  18     | 12/30 | 对象模型的元素 III   |   |    |   |
 
 -------
