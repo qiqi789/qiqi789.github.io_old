@@ -49,6 +49,12 @@ title: Research
 * [Journal of Parallel and Distributed Computing](http://www.sciencedirect.com/science/journal/07437315), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J477)
 * [Parallel Computing -- systems & applications](http://www.sciencedirect.com/science/journal/01678191), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J602)
 
+### topics in Quora
+
+* [Parallel computing](https://www.quora.com/Parallel-Computing)
+* [Distributed algorithms](https://www.quora.com/Distributed-Algorithms)
+* [Distributed systems](https://www.quora.com/Distributed-Systems)
+* [Machine learning](https://www.quora.com/Machine-Learning)
 
 
 ## My Publication
