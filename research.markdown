@@ -17,9 +17,12 @@ title: Research
 - [SIGACT, Algorithms and Computation Theory](http://www.sigact.org/conferences.php)
     - [ACM Symposium on Parallelism in Algorithms and Architectures](http://www.spaa-conference.org)
     - [ACM Symposium on Principles of Distributed Computing](http://www.podc.org)
+    - [News](http://www.sigact.org/pubs.php)
 - [SIGAI, Artificial Intelligence](http://sigai.acm.org//)
 - [SIGEVO, Genetic and Evolutionary Computation](http://sigevo.hosting.acm.org/wiki/tiki-index.php)
 - [SIGKDD, Data mining, data science and analytics community](http://www.sigkdd.org)
+    * [KDD conferences](http://www.sigkdd.org/conferences)
+    * [Explorations](http://www.sigkdd.org/explorations)
 - [SIGHPC, High performance computing](http://www.sighpc.org)
 
 ## Publication
