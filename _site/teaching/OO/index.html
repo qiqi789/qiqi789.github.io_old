@@ -40,18 +40,354 @@
             
             <div class="masthead">
                 <h3 class="text-muted">Qi Qi Web portal </h3>
-                <ul class="nav nav-justified">
+                <!--<ul class="nav nav-justified"> -->
+                <ul class="nav nav-pills">
                     <li><a href="/">Home </a></li>
                     <li><a href="/English_version">English page</a></li>
-                    <li><a href="/research">Research</a></li>
+                    
+                    <!--<li><a href="/research">Research</a></li> -->
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown"
+                            href="/research">
+                            Research
+                            <b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/research">My research</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">Research venues, resources</a></li>
+                        </ul>
+                    </li>
+                    
+                    
                     <li><a href="/teaching">教课 Teaching</a></li>
                     <li><a href="/contact">Contact</a></li>
                 </ul>
             </div>
 
 
-                <h2 id="section">参考</h2>
+                <ul class="breadcrumb">
+<li><a href="/teaching/">Teaching</a> <span class="divider"></span></li>
+<li><a href="/teaching/OO/">Object-Oriented</a> <span class="divider"></span></li> 
+</ul>
+
+<h2 id="section">面向对象分析与设计（2014年秋季学期）</h2>
+
+<h3 id="section-1">更新通知</h3>
+
+<h4 id="section-2">2014/11/18</h4>
+
+<blockquote>
+  <p>作业1的成绩已经通过电子邮件的方式发出。如果提交作业但没有收到成绩的同学请通过电子邮件和我联系。</p>
+</blockquote>
+
+<h4 id="section-3">2014/11/17</h4>
+
+<blockquote>
+  <p>编程作业1的测试程序发布(需要用到ScalaTest)。</p>
+</blockquote>
+
+<h4 id="section-4">2014/11/10</h4>
+
+<blockquote>
+  <p><a href="HW2.zip">编程作业2</a> 发布，时间为一周，11/18提交电子版（只包含源代码文件即可）。</p>
+</blockquote>
+
+<h4 id="section-5">2014/10/28</h4>
+
+<blockquote>
+  <p><a href="hw1.zip">编程作业1</a> 发布，11/4提交电子版。</p>
+</blockquote>
+
+<h4 id="section-6">2014/10/13</h4>
+
+<blockquote>
+  <p>课程调整：10/14日的课临时移到了10/22。</p>
+</blockquote>
+
+<h4 id="section-7">2014/10/5</h4>
+
+<blockquote>
+  <p>课程展示的源代码，已被发布在 <a href="https://github.com/qiqi789/myScalaCourse">myScalaCourse 源代码</a></p>
+</blockquote>
+
+<h4 id="section-8">2014/9/22</h4>
+
+<blockquote>
+  <p>欢迎来到这学期的课程!</p>
+</blockquote>
+
+<blockquote>
+  <p>请浏览以下网页以了解这门课程的信息。</p>
+</blockquote>
+
+<hr />
+
+<h3 id="section-9">课程信息</h3>
+
+<h4 id="section-10">上课时间地点</h4>
+<p>第4至7周：周二，1-3节课，地点5-420；周五，1-3节课，地点5-220</p>
+
+<p>第8至18周：周二，1-3节课，地点5-420。</p>
+
+<h4 id="section-11">课程形式：</h4>
+<p><em>以下安排可能会有变化。</em></p>
+
 <ul>
+  <li>讲课：计划18次（如下面的课程安排所列），每次3节课时</li>
+  <li>作业：可能有笔答和编程两种形式</li>
+  <li>考试：1次期末考试
+~~* 编程设计：1个最终编程设计，以小组完成（1-3人一组），最后有一个答辩~~</li>
+</ul>
+
+<h4 id="section-12">评分标准：</h4>
+<p><em>以下安排可能会有变化。</em></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>课堂出勤和参与</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>课后作业</td>
+      <td>第一次作业10%；第二次作业选做，可额外加分10%</td>
+    </tr>
+    <tr>
+      <td>期末考试</td>
+      <td>80%</td>
+    </tr>
+    <tr>
+      <td>~~最终编程设计~~</td>
+      <td>~~40%~~</td>
+    </tr>
+    <tr>
+      <td>总共</td>
+      <td>100%</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="section-13">课本参考：</h4>
+<p>Odersky, M., L. Spoon and B. Venners (2011). Programming in Scala: [a comprehensive step-by-step guide; updated for scala 2.8]. Walnut Creek, Calif, Artima Press.</p>
+
+<p>Brady Booch, etc. (2007), Object-Oriented Analysis and Design with Applications (3rd ed.), Addison-Wesley Press.</p>
+
+<h4 id="section-14">课程交流：</h4>
+<p>我的电子邮件地址是：qqi@hainu.edu.cn</p>
+
+<hr />
+
+<h3 id="section-15">课程安排</h3>
+<p><em>随课程进展，以下安排可能会有变化。</em></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">学期周</th>
+      <th style="text-align: center">日期</th>
+      <th style="text-align: left">内容</th>
+      <th style="text-align: center">幻灯片</th>
+      <th style="text-align: center">作业</th>
+      <th style="text-align: center">注释</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">9/23</td>
+      <td style="text-align: left">课程介绍；Scala简介；Scala安装和运行</td>
+      <td style="text-align: center"><a href="lecture01.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">课堂演示代码，请见<a href="https://github.com/qiqi789/myScalaCourse">这里</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">9/26</td>
+      <td style="text-align: left">Scala基础介绍; Scala基本构件浏览</td>
+      <td style="text-align: center"><a href="lecture02.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">9/30</td>
+      <td style="text-align: left">Scala语言的基本构件（继续）；Scala语言基础</td>
+      <td style="text-align: center"><a href="lecture03.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">10/3</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">假期课取消，内容会被添加到其他课时里</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">10/7</td>
+      <td style="text-align: left">Scala的实例类和模式匹配；一般的类型和一般的方法</td>
+      <td style="text-align: center">见lecture04的第25到40页</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">移到10月11日，同一时间和地点</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">10/10</td>
+      <td style="text-align: left">Scala基础介绍继续；类和对象</td>
+      <td style="text-align: center"><a href="lecture04.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">10/14</td>
+      <td style="text-align: left">一般类的实例（Tuples,Functions）；列表集合</td>
+      <td style="text-align: center"><a href="lecture08.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">临时移到了10/22上</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">10/17</td>
+      <td style="text-align: left">实例类和模式匹配；一般的类型和一般的方法</td>
+      <td style="text-align: center"><a href="lecture06.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">10/21</td>
+      <td style="text-align: left">一般的类型和一般的方法；列表集合</td>
+      <td style="text-align: center"><a href="lecture07.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">9</td>
+      <td style="text-align: center">10/28</td>
+      <td style="text-align: left">List的介绍；For包含；可变状态对象</td>
+      <td style="text-align: center"><a href="lecture09.pdf">PDF</a></td>
+      <td style="text-align: center"><a href="hw1.zip">编程作业1</a></td>
+      <td style="text-align: center"><a href="test_hw1.zip">编程作业1_测试程序</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">11/4</td>
+      <td style="text-align: left">For包含；可变状态对象</td>
+      <td style="text-align: center"><a href="lecture10.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11/11</td>
+      <td style="text-align: left">作业1讲解；离散事件模拟器</td>
+      <td style="text-align: center"><a href="lecture11.pdf">PDF</a></td>
+      <td style="text-align: center"><a href="HW2.zip">编程作业2</a></td>
+      <td style="text-align: center"><a href="Discrete-Event-Simulation_demo.zip">演示程序</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">12</td>
+      <td style="text-align: center">11/18</td>
+      <td style="text-align: left">Stream; Iterators; Lazy values</td>
+      <td style="text-align: center"><a href="lecture12.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">13</td>
+      <td style="text-align: center">11/25</td>
+      <td style="text-align: left">类和对象 I; 对象模型的演化</td>
+      <td style="text-align: center"><a href="lecture13.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">14</td>
+      <td style="text-align: center">12/2</td>
+      <td style="text-align: left">类和对象 II; 对象模型基础</td>
+      <td style="text-align: center"><a href="lecture14.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">15</td>
+      <td style="text-align: center">12/9</td>
+      <td style="text-align: left">类和对象 III；对象模型基础继续</td>
+      <td style="text-align: center"><a href="lecture15.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">16</td>
+      <td style="text-align: center">12/16</td>
+      <td style="text-align: left">类和对象 IV；对象模型的元素 I</td>
+      <td style="text-align: center"><a href="lecture16.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">17</td>
+      <td style="text-align: center">12/23</td>
+      <td style="text-align: left">类和对象 V； 对象模型的元素 II</td>
+      <td style="text-align: center"><a href="lecture17.pdf">PDF</a></td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">18</td>
+      <td style="text-align: center">12/30</td>
+      <td style="text-align: left">对象模型的元素 III</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h3 id="scala">Scala问题解答帮助</h3>
+
+<ul>
+  <li><a href="https://groups.google.com/forum/#!forum/scala-user">Scala-User group list</a></li>
+</ul>
+
+<h3 id="scala-libraries">Scala Libraries</h3>
+
+<ul>
+  <li><a href="https://github.com/scalanlp/breeze">Breeze, a numerical processing library</a></li>
+  <li><a href="https://code.google.com/p/scalalab/">Scalalab, matlab like, scientific programming environment</a></li>
+  <li><a href="https://github.com/BIDData/BIDMach">BIDMach, CPU and GPU-accelerated Machine Learning Library</a></li>
+  <li><a href="http://scala-lms.github.io">Lightweight Modular Staging (LMS)</a></li>
+  <li><a href="http://www.scala-js.org/#built_with_scalajs">Scala.js</a></li>
+  <li><a href="http://lihaoyi.github.io/hands-on-scala-js/#Hands-onScala.js">Hands-on Scala.js</a></li>
+</ul>
+
+<h3 id="scala-">Scala 测试工具</h3>
+
+<ul>
+  <li><a href="http://www.scalatest.org">ScalaTest</a></li>
+  <li><a href="http://www.scalacheck.org">ScalaCheck</a></li>
+</ul>
+
+<hr />
+
+<h3 id="section-16">参考</h3>
+
+<ul>
+  <li><a href="https://medium.com/@kvnwbbr/transitioning-to-scala-d1818f25b2b7">Transitioning to Scala</a></li>
+  <li><a href="http://www.wired.com/2014/10/future-of-artificial-intelligence">The Three Breakthroughs That Have Finally Unleashed AI on the World</a></li>
+  <li><a href="http://www.hakkalabs.co/articles/three-reasons-data-eng-learn-scala">Three Reasons a Data Engineer Should Learn Scala</a></li>
+  <li><a href="http://planetcassandra.org/blog/the-new-analytics-toolbox-with-apache-spark-going-beyond-hadoop/?utm_content=buffer4fcc7&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer">The New Analytics Toolbox with Apache Spark — Going Beyond Hadoop</a></li>
+  <li><a href="http://www.wired.com/2014/10/startup-crunches-100-terabytes-data-record-23-minutes/">Startup Crunches 100 Terabytes of Data in a Record 23 Minutes–&gt;Spark</a></li>
+  <li><a href="http://info.typesafe.com/spark-and-the-typesafe-reactive-platform.html?_ga=1.78214420.1813941616.1407271050">Spark and the Typesafe Reactive Platform webminar</a></li>
+  <li><a href="https://github.com/alexandru/scala-best-practices/">Scala Best Practices</a></li>
+  <li><a href="http://www.huffingtonpost.com/noah-gift/sqor-chief-technology-off_1_b_5960372.html?utm_hp_ref=technology&amp;ir=Technology">What Global Warming, Energy Efficiency and Erlang Have in Common</a></li>
   <li><a href="http://www.marketwired.com/press-release/-1932289.htm">Scala Named a “Top 10 Technology for Modern Developers”</a></li>
   <li><a href="http://www.slideshare.net/Odersky/scala-evolution">The Evolution of Scala by Odersky</a></li>
   <li><a href="http://www.parleys.com/channel/53a7d269e4b0543940d9e535/presentations?sort=views&amp;state=public">Scala Days 2014 Presentations</a></li>
@@ -63,6 +399,18 @@
   <li><a href="https://github.com/twitter/algebird">twitter/algebird</a></li>
   <li><a href="http://www.parleys.com/play/53a7d2c5e4b0543940d9e544/chapter11/about">Why Scala is Taking Over the Big Data World</a></li>
   <li><a href="http://zeroturnaround.com/rebellabs/interview-with-typesafe-4-answers-about-the-past-present-and-future-of-scala-development/">Interview with Typesafe: 4 answers about the past, present and future of Scala development</a></li>
+  <li><a href="http://akamai.infoworld.com/t/java-programming/scala-founder-language-due-fundamental-rethink-249845?page=0,0">Scala founder: Language due for ‘fundamental rethink’ - See more at: http://akamai.infoworld.com/t/java-programming/scala-founder-language-due-fundamental-rethink-249845?page=0,0#sthash.WGsjKu72.NngND9qv.dpuf</a></li>
+  <li><a href="http://akamai.infoworld.com/slideshow/163151/11-open-source-security-tools-catching-fire-github-249652#slide1">11 open source security tools catching fire on GitHub - See more at: http://akamai.infoworld.com/slideshow/163151/11-open-source-security-tools-catching-fire-github-249652#slide1</a></li>
+  <li><a href="http://www.typesafe.com/company/news/typesafe-puts-big-data-to-work-in-reactive-applications">Typesafe Puts Big Data to Work in Reactive Applications</a></li>
+  <li><a href="https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc">What is Reactive Programming?</a></li>
+  <li><a href="http://typesafe.com/platform/reactive-big-data/spark">Apache Spark and the Typesafe Reactive Platform</a></li>
+  <li><a href="http://www.infoq.com/articles/Scala-2-12-Only-Java8">Scala 2.12 will only support Java 8</a></li>
+  <li><a href="http://www.artima.com/scalazine/articles/steps.html">First Steps to Scala, by Bill Venners, Martin Odersky, and Lex Spoon</a></li>
+  <li><a href="http://metagear.de/articles/scala-exercises/index.html">Solutions to the Exercises in the “Scala By Example” Manual</a></li>
+  <li><a href="http://aperiodic.net/phil/scala/s-99/">S-99: Ninety-Nine Scala Problems</a></li>
+  <li><a href="http://naildrivin5.com/scalatour/wiki_pages/MainPage/">Another Tour of Scala</a></li>
+  <li><a href="http://www.startupticker.ch/en/news/november-2014/irewind-and-typesafe-founder-martin-odersky-among-the-winners-of-the-swiss-ict-award#.VIatyb7llQu">iRewind and Typesafe founder Martin Odersky among the winners of the Swiss ICT Award</a></li>
+  <li><a href="http://patricknicolas.blogspot.com/2013/05/genetic-algorithm-in-scala.html">Genetic Algorithm in Scala</a></li>
 </ul>
 
 
