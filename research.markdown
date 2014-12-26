@@ -56,6 +56,24 @@ title: Research
 * [Distributed systems](https://www.quora.com/Distributed-Systems)
 * [Machine learning](https://www.quora.com/Machine-Learning)
 
+### People, Lab, Organization
+
+* [ampLab, UC Berkeley](https://amplab.cs.berkeley.edu)
+* [Hagit Attiya, Technion](http://www.cs.technion.ac.il/~hagit/)
+
+* [Computing research association](http://www.cra.org)
+
+
+### Software, Industry
+
+* [Typesafe](http://typesafe.com)
+* [Spark](http://spark.apache.org)
+* [PredictionIO](http://prediction.io)
+* [Scala programming language](http://www.scala-lang.org)
+
+
+
+-------------
 
 ## My Publication
 
