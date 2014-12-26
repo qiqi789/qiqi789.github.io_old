@@ -12,18 +12,27 @@ title: Research
  - 函数式编程语言应用
  - 云计算平台应用服务系统软件
 
-## ACM SIG
+## Research Venues
+
+### ACM SIG
 
 - [SIGACT, Algorithms and Computation Theory](http://www.sigact.org/conferences.php)
-    - [ACM Symposium on Parallelism in Algorithms and Architectures](http://www.spaa-conference.org)
-    - [ACM Symposium on Principles of Distributed Computing](http://www.podc.org)
-    - [News](http://www.sigact.org/pubs.php)
+    - [ACM Symposium on Parallelism in Algorithms and Architectures](http://www.spaa-conference.org), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2612669)
+    - [ACM Symposium on Principles of Distributed Computing](http://www.podc.org), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2611462)
+    - [News](http://www.sigact.org/pubs.php), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2696081)
 - [SIGAI, Artificial Intelligence](http://sigai.acm.org//)
 - [SIGEVO, Genetic and Evolutionary Computation](http://sigevo.hosting.acm.org/wiki/tiki-index.php)
 - [SIGKDD, Data mining, data science and analytics community](http://www.sigkdd.org)
-    * [KDD conferences](http://www.sigkdd.org/conferences)
-    * [Explorations](http://www.sigkdd.org/explorations)
+    * [KDD(International Conference on Knowledge Discovery and Data Mining)](http://www.sigkdd.org/conferences), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2623330)
+    * [Explorations Newsletter](http://www.sigkdd.org/explorations), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2674026)
 - [SIGHPC, High performance computing](http://www.sighpc.org)
+
+### Elsevier
+
+* [Journal of Parallel and Distributed Computing](http://www.sciencedirect.com/science/journal/07437315), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J477)
+* [Parallel Computing -- systems & applications](http://www.sciencedirect.com/science/journal/01678191), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J602)
+
+
 
 ## Publication
 
