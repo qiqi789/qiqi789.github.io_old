@@ -27,6 +27,23 @@ title: Research
     * [Explorations Newsletter](http://www.sigkdd.org/explorations), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2674026)
 - [SIGHPC, High performance computing](http://www.sighpc.org)
 
+### IEEE's computer society
+
+* [Computer society digital library](http://www.computer.org/csdl)
+* magazines
+    * [Computer](http://www.computer.org/portal/web/computingnow/computer)
+    * [Intelligent Systems](http://www.computer.org/portal/web/computingnow/intelligentsystems)
+    * [Cloud Computing](http://www.computer.org/portal/web/computingnow/cloudcomputing)
+    * [Computing in Science & Engineering](http://www.computer.org/portal/web/computingnow/cise)
+* Transactions
+    * [Emerging topics in computing](http://www.computer.org/portal/web/tetc)
+    * [Parallel and distributed systems](http://www.computer.org/portal/web/tpds)
+    * [Knowledge and data engineering](http://www.computer.org/portal/web/tkde)
+    * [Pattern analysis and machine intelligence](http://www.computer.org/portal/web/tpami)
+    * [Cloud computing](http://www.computer.org/portal/web/tcc)
+    * [Computers](http://www.computer.org/portal/web/tc)
+
+
 ### Elsevier
 
 * [Journal of Parallel and Distributed Computing](http://www.sciencedirect.com/science/journal/07437315), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J477)
@@ -34,7 +51,7 @@ title: Research
 
 
 
-## Publication
+## My Publication
 
 * “Reconstruction of metabolic pathways by combining probabilistic graphical model-based and knowledge-based methods”, Qi Qi, Jilong Li, and Jianlin Cheng, BMC Proceedings, 2014, 8(Suppl 6):S5. [link](http://www.biomedcentral.com/1753-6561/8/S6/S5)
 
