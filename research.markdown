@@ -34,9 +34,9 @@ title: Research
 
 * “Wireless Sensor Networks in Intelligent Transportation Systems”, Malik Tubaishat, Peng Zhuang, Qi Qi, and Yi Shang, Journal of Wireless Communications and Mobile Computing, John Wiley and Sons Ltd., 2009, Vol. 9, pp. 287-302. [link](http://onlinelibrary.wiley.com/doi/10.1002/wcm.616/abstract)
 
-* “Model-based Traffic Prediction Using Sensor Networks”, Peng Zhuang, Qi Qi, and Yi Shang, In Proc. 5th IEEE Cosumer Communication and Networking Conference (CCNC’08), 2008, pp. 136-140.
+* “Model-based Traffic Prediction Using Sensor Networks”, Peng Zhuang, Qi Qi, and Yi Shang, In Proc. 5th IEEE Cosumer Communication and Networking Conference (CCNC’08), 2008, pp. 136-140. [link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4446336)
 
-* “Wireless Sensor-Based Traffic Light Control”, Malik Tubaishat, Qi Qi, Yi Shang, and Hongchi Shi, In Proc. 5th IEEE Consumer Communications and Networking Conference (CCNC’08), 2008, pp. 702-706.
+* “Wireless Sensor-Based Traffic Light Control”, Malik Tubaishat, Qi Qi, Yi Shang, and Hongchi Shi, In Proc. 5th IEEE Consumer Communications and Networking Conference (CCNC’08), 2008, pp. 702-706. [link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4446459)
 
 ### Dissertation
 
