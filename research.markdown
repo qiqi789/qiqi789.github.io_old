@@ -13,7 +13,7 @@ title: Research
  - 云计算平台应用服务系统软件
 
 
-## My Publication
+## My Publication 发表的论文
 
 * “Reconstruction of metabolic pathways by combining probabilistic graphical model-based and knowledge-based methods”, Qi Qi, Jilong Li, and Jianlin Cheng, BMC Proceedings, 2014, 8(Suppl 6):S5. [link](http://www.biomedcentral.com/1753-6561/8/S6/S5)
 
@@ -29,7 +29,7 @@ title: Research
 
 * “Wireless Sensor-Based Traffic Light Control”, Malik Tubaishat, Qi Qi, Yi Shang, and Hongchi Shi, In Proc. 5th IEEE Consumer Communications and Networking Conference (CCNC’08), 2008, pp. 702-706. [link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4446459)
 
-### Dissertation
+### Dissertation 博士论文
 
 * “Statistical model-based methods for observation selection in wireless sensor networks and for feature selection in classification.”, Qi Qi, University of Missouri-Columbia, 2012. [ProQuest link](http://gradworks.umi.com/35/30/3530891.html),    [on MOSpace](https://mospace.umsystem.edu/xmlui/handle/10355/15111)
 
