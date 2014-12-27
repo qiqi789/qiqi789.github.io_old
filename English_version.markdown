@@ -3,6 +3,7 @@ layout: default
 title: English version page
 ---
 
+<br />
 
 I am a computer scientist and practitioner. I earned my Ph.D. in Computer Science at University of Missouri. My expertise ranges from artificial intelligence, approximation algorithms design and anaylsis, machine learning and data mining, functional programming to parallel and concurrent computing. I also have experiences in Web-based technology and wireless embedded systems.
 

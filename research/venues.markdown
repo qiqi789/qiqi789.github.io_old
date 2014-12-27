@@ -3,6 +3,7 @@ layout: default
 title: Research Venues and Resources
 ---
 
+<br />
 The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.
 
 ### ACM SIG
@@ -52,9 +53,11 @@ The following resources are in the fields of parallel, distributed computing, ar
 #### Other IEEE transactions
 
 * [Computers](http://www.computer.org/portal/web/tc)
+* [Software Engineering](http://www.computer.org/portal/web/tse)
 * [Industrial Informatics, IEEE Transactions on](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)
 * [Mobile computing](http://www.computer.org/portal/web/tmc)
 * [Information Theory](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
+* [Networking](http://www.ifp.illinois.edu/ton/)
 
 
 ### Elsevier
@@ -65,6 +68,9 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Information Sciences](http://www.journals.elsevier.com/information-sciences/)
 * [Applied Soft Computing](http://www.journals.elsevier.com/applied-soft-computing/)
 * [Pattern Recognition](http://www.journals.elsevier.com/pattern-recognition/)
+* [Neural Networks](http://www.journals.elsevier.com/neural-networks/)
+* [Mathematical and Computer Modelling](http://www.journals.elsevier.com/mathematical-and-computer-modelling/)
+* [International Journal of Approximate Reasoning](http://www.journals.elsevier.com/international-journal-of-approximate-reasoning/)
 
 ### Springer
 
@@ -74,6 +80,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 ### Journals of other publishers
 
 * [Journal of Machine Learning Research](http://jmlr.org)
+* [European Journal of Information Systems](http://www.palgrave-journals.com/ejis/index.html)
 
 -------------------
 
