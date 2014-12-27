@@ -16,6 +16,17 @@ title: Research Venues and Resources
     * [Explorations Newsletter](http://www.sigkdd.org/explorations), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2674026)
 - [SIGHPC, High performance computing](http://www.sighpc.org)
 
+#### ACM Transactions/Journals
+
+* [Intelligent Systems and Technology](http://tist.acm.org/index.php), [ in ACM-DL](http://dl.acm.org/citation.cfm?id=J1318)
+* [Computing Surveys](http://csur.acm.org/index.html), [ in ACM-DL](http://dl.acm.org/citation.cfm?id=J204)
+* [Journal of the ACM](http://jacm.acm.org)
+
+#### ACM magazines
+
+* [Conmunications](http://cacm.acm.org)
+
+
 ### IEEE's computer society
 
 * [Computer society digital library](http://www.computer.org/csdl)
@@ -24,21 +35,45 @@ title: Research Venues and Resources
     * [Intelligent Systems](http://www.computer.org/portal/web/computingnow/intelligentsystems)
     * [Cloud Computing](http://www.computer.org/portal/web/computingnow/cloudcomputing)
     * [Computing in Science & Engineering](http://www.computer.org/portal/web/computingnow/cise)
+    * [Computational Intelligence](http://cis.ieee.org/ieee-computational-intelligence-magazine.html), [ in Xplore](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10207)
+
 * Transactions
     * [Emerging topics in computing](http://www.computer.org/portal/web/tetc)
     * [Parallel and distributed systems](http://www.computer.org/portal/web/tpds)
     * [Knowledge and data engineering](http://www.computer.org/portal/web/tkde)
     * [Pattern analysis and machine intelligence](http://www.computer.org/portal/web/tpami)
+    * [Evolutionary Computation](http://cis.ieee.org/ieee-transactions-on-evolutionary-computation.html), [ in Xplore](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)
+    * [Neural Networks and Learning Systems](http://cis.ieee.org/ieee-transactions-on-neural-networks-and-learning-systems.html), [in Xplore](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
     * [Cloud computing](http://www.computer.org/portal/web/tcc)
-    * [Computers](http://www.computer.org/portal/web/tc)
+
+
+#### Other IEEE transactions
+
+* [Computers](http://www.computer.org/portal/web/tc)
+* [Industrial Informatics, IEEE Transactions on](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)
+* [Mobile computing](http://www.computer.org/portal/web/tmc)
+* [Information Theory](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
 
 
 ### Elsevier
 
 * [Journal of Parallel and Distributed Computing](http://www.sciencedirect.com/science/journal/07437315), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J477)
 * [Parallel Computing -- systems & applications](http://www.sciencedirect.com/science/journal/01678191), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J602)
+* [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence/)
+* [Information Sciences](http://www.journals.elsevier.com/information-sciences/)
+* [Applied Soft Computing](http://www.journals.elsevier.com/applied-soft-computing/)
+* [Pattern Recognition](http://www.journals.elsevier.com/pattern-recognition/)
 
-### topics in Quora
+### Springer
+
+* [Knowledge and Information Systems](http://link.springer.com/journal/10115)
+* [Machine Learning](http://link.springer.com/journal/10994)
+
+### Journals of other publishers
+
+* [Journal of Machine Learning Research](http://jmlr.org)
+
+### Quora topics
 
 * [Parallel computing](https://www.quora.com/Parallel-Computing)
 * [Distributed algorithms](https://www.quora.com/Distributed-Algorithms)
