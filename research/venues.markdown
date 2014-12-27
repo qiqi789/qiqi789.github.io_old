@@ -3,6 +3,8 @@ layout: default
 title: Research Venues and Resources
 ---
 
+The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.
+
 ### ACM SIG
 
 - [SIGACT, Algorithms and Computation Theory](http://www.sigact.org/conferences.php)
@@ -72,6 +74,8 @@ title: Research Venues and Resources
 ### Journals of other publishers
 
 * [Journal of Machine Learning Research](http://jmlr.org)
+
+-------------------
 
 ### Quora topics
 
