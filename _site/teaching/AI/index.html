@@ -39,29 +39,39 @@
         <div class="container">
             
             <div class="masthead">
-                <h3 class="text-muted">Qi Qi Web portal </h3>
-                <!--<ul class="nav nav-justified"> -->
-                <ul class="nav nav-pills">
+                <h3 class="text-muted">Qi Qi Web portal - AI course</h3>
+                <ul class="nav nav-justified">
                     <li><a href="/">Home </a></li>
                     <li><a href="/English_version">English page</a></li>
                     
                     <!--<li><a href="/research">Research</a></li> -->
                     
                     <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown"
-                            href="/research">
-                            Research
-                            <b class="caret"></b>
+                        <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="500" data-close-others="false"
+                            href="#">
+                            Research <b class="caret"></b>
                         </a>
                         <ul class="dropdown-menu">
                             <li><a href="/research">My research</a></li>
-                            <li class="divider"></li>
-                            <li><a href="#">Research venues, resources</a></li>
+                            <li><a href="/research/venues">Research venues, resources</a></li>
                         </ul>
                     </li>
                     
                     
-                    <li><a href="/teaching">教课 Teaching</a></li>
+                    <!--<li><a href="/teaching">教课 Teaching</a></li> -->
+                    
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="false"
+                            href="/teaching">
+                            教课 Teaching <b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/teaching/AI">人工智能导论 (Introduction to Artificial Intelligence)</a></li>
+                            <li><a href="/teaching/OO">面向对象分析与设计 (Object-oriented design and analysis)</a></li>
+                            <li><a href="/teaching/Seminar">计算机发展前沿专题讲座</a></li>
+                        </ul>
+                    </li>
+                    
                     <li><a href="/contact">Contact</a></li>
                 </ul>
             </div>
@@ -357,6 +367,15 @@
       <td style="text-align: center"> </td>
       <td style="text-align: center"><a href="HW1_solution_publish.pdf">作业1答案</a>,<a href="HW2_solution_publish.pdf">作业2答案</a>,<a href="HW3_solution_publish.pdf">作业3答案</a>;<a href="final_covers.pdf">期末考试范围</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center">18</td>
+      <td style="text-align: center">12/29</td>
+      <td style="text-align: left">期末考试</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
   </tbody>
 </table>
 
@@ -399,6 +418,8 @@
 <script src="/javascripts/jquery-1.10.2.min.js"></script>
 <script src="/javascripts/bootstrap.min.js"></script>
 <script src="/javascripts/docs.min.js"></script>
+
+<script src="/javascripts/bootstrap-hover-dropdown.min.js"></script>
 
 
         <!-- Google Analytics -->
