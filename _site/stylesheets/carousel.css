@@ -23,23 +23,39 @@ body {
     overflow: auto;
     display: block;
     border-spacing: 0;
-    border-collapse: collapse; }
+    border-collapse: collapse;
+    /*
+    border-width: 2px;
+    border-color: #586e75;
+    border-style: solid;
+    */
+ }
 
 table th {
       font-weight: bold; }
 
 table th, table td {
-      border: 1px solid #ddd;
+    border: 1px solid  #586e75; /*#ddd;*/
       padding: 6px 13px; }
 
 table tr {
-      border-top: 1px solid #ccc;
-      background-color: #fff; }
+    border-top: 1px solid #657b83; /*#ccc;*/
+      /*background-color: #fff; */
+      background-color: #fdf6e3;
+}
 
 table tr:nth-child(2n) {
-        background-color: #f8f8f8; }
+        /*background-color: #f8f8f8;*/
+        background-color: #eee8d5;
+}
 
+.breadcrumb {
+    background-color: #fdf6e3;
+}
 
+blockquote {
+    border-left-color: #839496;
+}
 
 
 /* CUSTOMIZE THE NAVBAR
