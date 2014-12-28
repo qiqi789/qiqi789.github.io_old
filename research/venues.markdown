@@ -6,6 +6,19 @@ title: Research Venues and Resources
 <br />
 The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.
 
+
+<ul class="nav nav-tabs nav-stacked" style="position:fixed; right:280px;" >
+<li><a href="#acm-sig">ACM</a></li>
+<li><a href="#ieee">IEEE</a></li>
+<li><a href="#elsevier">Elsevier</a></li>
+<li><a href="#springer">Springer</a></li>
+<li><a href="#PLO">People, Lab, Organization</a></li>
+<li><a href="#SI">Software, Industry</a></li>
+</ul>
+
+
+<a name="acm-sig" />
+
 ### ACM SIG
 
 - [SIGACT, Algorithms and Computation Theory](http://www.sigact.org/conferences.php)
@@ -29,6 +42,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [Conmunications](http://cacm.acm.org)
 
+<a name="ieee" />
 
 ### IEEE's computer society
 
@@ -59,6 +73,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Information Theory](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
 * [Networking](http://www.ifp.illinois.edu/ton/)
 
+<a name="elsevier" />
 
 ### Elsevier
 
@@ -72,10 +87,13 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Mathematical and Computer Modelling](http://www.journals.elsevier.com/mathematical-and-computer-modelling/)
 * [International Journal of Approximate Reasoning](http://www.journals.elsevier.com/international-journal-of-approximate-reasoning/)
 
+<a name="springer" />
+
 ### Springer
 
 * [Knowledge and Information Systems](http://link.springer.com/journal/10115)
 * [Machine Learning](http://link.springer.com/journal/10994)
+
 
 ### Journals of other publishers
 
@@ -91,6 +109,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Distributed systems](https://www.quora.com/Distributed-Systems)
 * [Machine learning](https://www.quora.com/Machine-Learning)
 
+<a name="PLO" />
+
 ### People, Lab, Organization
 
 * [ampLab, UC Berkeley](https://amplab.cs.berkeley.edu)
@@ -98,6 +118,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [Computing research association](http://www.cra.org)
 
+<a name="SI" />
 
 ### Software, Industry
 
