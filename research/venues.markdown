@@ -7,7 +7,7 @@ title: Research Venues and Resources
 The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.
 
 
-<ul class="nav nav-tabs nav-stacked" style="position:fixed; right:320px;" >
+<ul class="nav nav-tabs nav-stacked" style="position:fixed; right:380px;" >
 <li><a href="#acm-sig">ACM</a></li>
 <li><a href="#ieee">IEEE</a></li>
 <li><a href="#elsevier">Elsevier</a></li>
