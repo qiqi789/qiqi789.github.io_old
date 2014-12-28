@@ -7,7 +7,7 @@ title: Research Venues and Resources
 The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.
 
 
-<ul class="nav nav-tabs nav-stacked" style="position:fixed; right:280px;" >
+<ul class="nav nav-tabs nav-stacked" style="position:fixed; right:320px;" >
 <li><a href="#acm-sig">ACM</a></li>
 <li><a href="#ieee">IEEE</a></li>
 <li><a href="#elsevier">Elsevier</a></li>
@@ -115,6 +115,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [ampLab, UC Berkeley](https://amplab.cs.berkeley.edu)
 * [Hagit Attiya, Technion](http://www.cs.technion.ac.il/~hagit/)
+* [Guy E. Blelloch](http://www.cs.cmu.edu/~guyb/)
 
 * [Computing research association](http://www.cra.org)
 
