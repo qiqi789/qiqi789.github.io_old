@@ -22,19 +22,19 @@ The following resources are in the fields of parallel, distributed computing, ar
 ### ACM SIG
 
 - [SIGACT, Algorithms and Computation Theory](http://www.sigact.org/conferences.php)
-    - [ACM Symposium on Parallelism in Algorithms and Architectures](http://www.spaa-conference.org), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2612669)
-    - [ACM Symposium on Principles of Distributed Computing](http://www.podc.org), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2611462)
+    - <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ACM Symposium on Parallelism in Algorithms and Architectures](http://www.spaa-conference.org), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2612669)
+    - <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ACM Symposium on Principles of Distributed Computing](http://www.podc.org), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2611462)
     - [News](http://www.sigact.org/pubs.php), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2696081)
 - [SIGAI, Artificial Intelligence](http://sigai.acm.org//)
 - [SIGEVO, Genetic and Evolutionary Computation](http://sigevo.hosting.acm.org/wiki/tiki-index.php)
 - [SIGKDD, Data mining, data science and analytics community](http://www.sigkdd.org)
-    * [KDD(International Conference on Knowledge Discovery and Data Mining)](http://www.sigkdd.org/conferences), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2623330)
-    * [Explorations Newsletter](http://www.sigkdd.org/explorations), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2674026)
+    * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [KDD(International Conference on Knowledge Discovery and Data Mining)](http://www.sigkdd.org/conferences), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2623330)
+    * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Explorations Newsletter](http://www.sigkdd.org/explorations), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2674026)
 - [SIGHPC, High performance computing](http://www.sighpc.org)
 - [SIGPLAN, Programming Languages](http://www.sigplan.org)
     * [ACM Symposium on Principles and Practice of Parallel Programming](http://www.sigplan.org/Conferences/PPOPP/)
     * [OOPLSA, SPLASH(Systems, Programming, Languages, and Applications: Software for Humanity)](http://www.sigplan.org/Conferences/OOPSLA/)
-    * [SIGPLAN Notices](http://www.sigplan.org/Newsletters/), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J706)
+    *  <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [SIGPLAN Notices](http://www.sigplan.org/Newsletters/), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J706)
 
 #### ACM Transactions/Journals
 
