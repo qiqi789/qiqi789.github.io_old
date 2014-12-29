@@ -34,7 +34,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 - [SIGPLAN, Programming Languages](http://www.sigplan.org)
     * [ACM Symposium on Principles and Practice of Parallel Programming](http://www.sigplan.org/Conferences/PPOPP/)
     * [OOPLSA, SPLASH(Systems, Programming, Languages, and Applications: Software for Humanity)](http://www.sigplan.org/Conferences/OOPSLA/)
-    * [SIGPLAN Notices](http://www.sigplan.org/Newsletters/)
+    * [SIGPLAN Notices](http://www.sigplan.org/Newsletters/), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J706)
 
 #### ACM Transactions/Journals
 
