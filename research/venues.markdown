@@ -121,6 +121,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [ampLab, UC Berkeley](https://amplab.cs.berkeley.edu)
 * [Hagit Attiya, Technion](http://www.cs.technion.ac.il/~hagit/)
 * [Guy E. Blelloch](http://www.cs.cmu.edu/~guyb/)
+* [Jure Leskovec](http://cs.stanford.edu/people/jure/)
 
 * [Computing research association](http://www.cra.org)
 
