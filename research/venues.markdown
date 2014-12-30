@@ -129,6 +129,18 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Computing research association](http://www.cra.org)
 * [Society for Industrial and Applied Mathematics](http://www.siam.org)
 
+### Courses, Workshops
+
+* [Theoretical Foundations of Big Data Analysis](http://simons.berkeley.edu/programs/bigdata2013)
+* [Parallel and Distributed Computing, USF](http://www.cs.usfca.edu/~peter/cs625/)
+* [Introduction to Parallel Computing, USF](http://www.cs.usfca.edu/~peter/cs220/index.html)
+* [Parallel Algorithm Design and Analysis, TAMU](https://parasol.tamu.edu/~amato/Courses/626/)
+
+### Resource pages
+
+* [http://www.personal.kent.edu/~rmuhamma/Parallel/parallel.html](http://www.personal.kent.edu/~rmuhamma/Parallel/parallel.html)
+
+
 <a name="SI" />
 
 ### Software, Industry
@@ -138,4 +150,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [PredictionIO](http://prediction.io)
 * [Scala programming language](http://www.scala-lang.org)
 
+### Research tools
+
+* [dblp: computer science bibliography](http://dblp.uni-trier.de/db/)
+* [The collection of computer science bibliography](http://liinwww.ira.uka.de/bibliography/index.html)
 
