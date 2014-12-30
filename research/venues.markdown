@@ -7,7 +7,7 @@ title: Research Venues and Resources
 The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.
 
 
-<ul class="nav nav-tabs nav-stacked" style="position:fixed; right:340px;" >
+<ul class="nav nav-tabs nav-stacked navbar-right" >
 <li><a href="#acm-sig">ACM</a></li>
 <li><a href="#ieee">IEEE</a></li>
 <li><a href="#elsevier">Elsevier</a></li>
@@ -33,7 +33,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 - [SIGHPC, High performance computing](http://www.sighpc.org)
 - [SIGPLAN, Programming Languages](http://www.sigplan.org)
     * [ACM Symposium on Principles and Practice of Parallel Programming](http://www.sigplan.org/Conferences/PPOPP/)
-    * [OOPLSA, SPLASH(Systems, Programming, Languages, and Applications: Software for Humanity)](http://www.sigplan.org/Conferences/OOPSLA/)
+    * [OOPLSA, SPLASH(Systems, Programming, Languages, and Applications: Software for Humanity)](http://www.sigplan.org/Conferences/OOPSLA/), (part of SPLASH conference)
+    * [European Conference on Object-Oriented Programming](http://www.ecoop.org), (sponsored by AITO)
     *  <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [SIGPLAN Notices](http://www.sigplan.org/Newsletters/), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J706)
 
 #### ACM Transactions/Journals
