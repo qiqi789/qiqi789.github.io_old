@@ -57,6 +57,11 @@ blockquote {
     border-left-color: #839496;
 }
 
+.nav-tabs li a:hover {
+    background-color: #eee8d5;
+    box-shadow: inset 0 7px 9px rgba(117,167,53,.15);
+}
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
