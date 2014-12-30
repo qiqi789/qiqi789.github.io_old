@@ -50,7 +50,7 @@ div.masthead {
   background-image: linear-gradient(top, #f5f5f5 0%,#eee8d5 100%); /* W3C */
 }
 .nav-justified > .active > a,
-.nav-justified > .active > a:hover,
+.nav-justified > li > a:hover,
 .nav-justified > .active > a:focus {
     background-color: #eee8d5;
   background-image: none;
