@@ -96,6 +96,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### Springer
 
+* [Journal of Supercomputing](http://www.springer.com/computer/swe/journal/11227)
+* [Jounral of Cloud Computing](http://www.journalofcloudcomputing.com)
 * [Knowledge and Information Systems](http://link.springer.com/journal/10115)
 * [Machine Learning](http://link.springer.com/journal/10994)
 
@@ -104,6 +106,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [Journal of Machine Learning Research](http://jmlr.org)
 * [European Journal of Information Systems](http://www.palgrave-journals.com/ejis/index.html)
+* [SIAM Journal on Computing](http://epubs.siam.org/journal/smjcat)
 
 -------------------
 
@@ -124,6 +127,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Jure Leskovec](http://cs.stanford.edu/people/jure/)
 
 * [Computing research association](http://www.cra.org)
+* [Society for Industrial and Applied Mathematics](http://www.siam.org)
 
 <a name="SI" />
 
@@ -133,6 +137,5 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Spark](http://spark.apache.org)
 * [PredictionIO](http://prediction.io)
 * [Scala programming language](http://www.scala-lang.org)
-
 
 
