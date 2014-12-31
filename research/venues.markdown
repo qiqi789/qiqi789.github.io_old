@@ -135,6 +135,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Parallel and Distributed Computing, USF](http://www.cs.usfca.edu/~peter/cs625/)
 * [Introduction to Parallel Computing, USF](http://www.cs.usfca.edu/~peter/cs220/index.html)
 * [Parallel Algorithm Design and Analysis, TAMU](https://parasol.tamu.edu/~amato/Courses/626/)
+* [Parallel Algorithms, Utrecht Univ.](http://www.staff.science.uu.nl/~bisse101/Education/PA/pa.html)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Parallel And Distributed Programming, Technion](http://webcourse.cs.technion.ac.il/236370)
 
 ### Resource pages
 
