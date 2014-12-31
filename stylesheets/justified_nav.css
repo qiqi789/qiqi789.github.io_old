@@ -67,6 +67,7 @@ div.masthead {
 
 .nav-justified .dropdown-menu {
     background-color: #fdf6e3;
+    color: #657b83;
 }
 
 @media (min-width: 768px) {
