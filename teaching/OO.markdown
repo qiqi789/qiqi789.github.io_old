@@ -127,6 +127,7 @@ Brady Booch, etc. (2007), Object-Oriented Analysis and Design with Applications 
 
 ### 参考
 
+- [Cross-Paradigm Programming with Scala, Stanford course](http://web.stanford.edu/class/cs94si/)
 - [Transitioning to Scala](https://medium.com/@kvnwbbr/transitioning-to-scala-d1818f25b2b7)
 - [The Three Breakthroughs That Have Finally Unleashed AI on the World](http://www.wired.com/2014/10/future-of-artificial-intelligence)
 - [Three Reasons a Data Engineer Should Learn Scala](http://www.hakkalabs.co/articles/three-reasons-data-eng-learn-scala)
