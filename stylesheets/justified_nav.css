@@ -67,6 +67,10 @@ div.masthead {
 
 .nav-justified .dropdown-menu {
     background-color: #fdf6e3;
+    
+}
+
+.nav-justified .dropdown li a {
     color: #657b83;
 }
 
