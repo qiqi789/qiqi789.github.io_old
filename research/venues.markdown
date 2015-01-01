@@ -36,6 +36,10 @@ The following resources are in the fields of parallel, distributed computing, ar
     * [OOPLSA, SPLASH(Systems, Programming, Languages, and Applications: Software for Humanity)](http://www.sigplan.org/Conferences/OOPSLA/), (part of SPLASH conference)
     * [European Conference on Object-Oriented Programming](http://www.ecoop.org), (sponsored by AITO)
     *  <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [SIGPLAN Notices](http://www.sigplan.org/Newsletters/), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J706)
+- [SIGARCH, Computer Architecture](http://www.sigarch.org)
+    * [Computer Architecture News](http://dl.acm.org/citation.cfm?id=J89)
+- [SIGMETRICS, performance evaluation](http://www.sigmetrics.org)
+    * [Performance Evaluation Review](http://dl.acm.org/citation.cfm?id=J618)
 
 #### ACM Transactions/Journals
 
@@ -46,6 +50,11 @@ The following resources are in the fields of parallel, distributed computing, ar
 #### ACM magazines
 
 * [Conmunications](http://cacm.acm.org)
+
+#### ACM Conferences
+
+* [Proceedings of the ACM International Conference on Computing Frontiers](http://dl.acm.org/citation.cfm?id=2482767)
+* [ACM/IEEE International Symposium on Code Generation and Optimization](http://cgo.org/cgo2015/), [ in ACM-DL](http://dl.acm.org/citation.cfm?id=2581122)
 
 <a name="ieee" />
 
@@ -78,6 +87,10 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Information Theory](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18)
 * [Networking](http://www.ifp.illinois.edu/ton/)
 
+#### IEEE Conferences
+
+* [IEEE Symposium on High Performance Computer Architecture](http://darksilicon.org/hpca/), [ in Xplore](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000335)
+
 <a name="elsevier" />
 
 ### Elsevier
@@ -100,6 +113,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Jounral of Cloud Computing](http://www.journalofcloudcomputing.com)
 * [Knowledge and Information Systems](http://link.springer.com/journal/10115)
 * [Machine Learning](http://link.springer.com/journal/10994)
+* [Algorithmica](http://link.springer.com/journal/453)
+* [Data Mining & Knowledge Discovery](http://link.springer.com/journal/10618)
 
 
 ### Journals of other publishers
@@ -107,6 +122,11 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Journal of Machine Learning Research](http://jmlr.org)
 * [European Journal of Information Systems](http://www.palgrave-journals.com/ejis/index.html)
 * [SIAM Journal on Computing](http://epubs.siam.org/journal/smjcat)
+
+### Books
+
+* [Introduction to Parallel Computing](http://www-users.cs.umn.edu/%7Ekarypis/parbook/)
+* [Principles of Parallel Algorithms and Programming, draft, cmu](http://www.parallel-algorithms-book.com)
 
 -------------------
 
@@ -123,8 +143,9 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [ampLab, UC Berkeley](https://amplab.cs.berkeley.edu)
 * [Hagit Attiya, Technion](http://www.cs.technion.ac.il/~hagit/)
-* [Guy E. Blelloch](http://www.cs.cmu.edu/~guyb/)
-* [Jure Leskovec](http://cs.stanford.edu/people/jure/)
+* [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
+* [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
+* [Jure Leskovec, Stanford](http://cs.stanford.edu/people/jure/)
 
 * [Computing research association](http://www.cra.org)
 * [Society for Industrial and Applied Mathematics](http://www.siam.org)
@@ -132,6 +153,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 ### Courses, Workshops
 
 * [Theoretical Foundations of Big Data Analysis](http://simons.berkeley.edu/programs/bigdata2013)
+* [Parallel and Sequential Data Structures and Algorithms, CMU](http://www.cs.cmu.edu/~15210/)
 * [Parallel and Distributed Computing, USF](http://www.cs.usfca.edu/~peter/cs625/)
 * [Introduction to Parallel Computing, USF](http://www.cs.usfca.edu/~peter/cs220/index.html)
 * [Parallel Algorithm Design and Analysis, TAMU](https://parasol.tamu.edu/~amato/Courses/626/)
