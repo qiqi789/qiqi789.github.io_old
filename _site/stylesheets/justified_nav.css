@@ -53,7 +53,7 @@ div.masthead {
 .nav-justified > li > a:hover,
 .nav-justified .dropdown a:hover,
 .nav-justified > .active > a:focus {
-    background-color: #eee8d5;
+  background-color: #eee8d5;
   background-image: none;
   box-shadow: inset 0 3px 7px rgba(0,0,0,.15);
 }
@@ -67,6 +67,18 @@ div.masthead {
 
 .nav-justified .dropdown-menu {
     background-color: #fdf6e3;
+}
+
+.nav-justified a.dropdown-toggle:hover {
+    border-color:transparent;
+}
+
+.nav-justified a.dropdown-toggle:focus {
+    border-color:transparent;
+}
+
+.nav-justified .dropdown li a {
+    color: #657b83;
 }
 
 @media (min-width: 768px) {
