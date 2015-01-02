@@ -73,6 +73,10 @@ div.masthead {
     border-color:transparent;
 }
 
+.nav-justified a.dropdown-toggle {
+    border-color:transparent;
+}
+
 
 .nav-justified .dropdown li a {
     color: #657b83;
