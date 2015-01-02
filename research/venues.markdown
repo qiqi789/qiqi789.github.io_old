@@ -10,9 +10,11 @@ The following resources are in the fields of parallel, distributed computing, ar
 <ul class="nav nav-tabs nav-stacked navbar-right" >
 <li><a href="#acm-sig">ACM</a></li>
 <li><a href="#ieee">IEEE</a></li>
+<li><a href="#USENIX">USENIX</a></li>
 <li><a href="#elsevier">Elsevier</a></li>
 <li><a href="#springer">Springer</a></li>
 <li><a href="#PLO">People, Lab, Organization</a></li>
+<li><a href="#workshops">Courses, Workshops</a></li>
 <li><a href="#SI">Software, Industry</a></li>
 </ul>
 
@@ -91,12 +93,15 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [IEEE Symposium on High Performance Computer Architecture](http://darksilicon.org/hpca/), [ in Xplore](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000335)
 
-<a name="elsevier" />
+
+<a name="USENIX" />
 
 ### USENIX(The Advanced Computing Systems Association)
 
 * [Workshop on Hot Topics in Parallelism](https://www.usenix.org/publications/proceedings/HotPar)
 * [Workshop on Hot Topics in Cloud Computing](https://www.usenix.org/publications/proceedings/HotCloud)
+
+<a name="elsevier" />
 
 ### Elsevier
 
@@ -159,6 +164,9 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [Computing research association](http://www.cra.org)
 * [Society for Industrial and Applied Mathematics](http://www.siam.org)
+
+
+<a name="workshops" />
 
 ### Courses, Workshops
 
