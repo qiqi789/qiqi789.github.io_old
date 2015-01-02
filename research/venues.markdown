@@ -132,6 +132,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Journal of Machine Learning Research](http://jmlr.org)
 * [European Journal of Information Systems](http://www.palgrave-journals.com/ejis/index.html)
 * [SIAM Journal on Computing](http://epubs.siam.org/journal/smjcat)
+* [International Journal of Parallel, Emergent and Distributed Systems](http://www.tandfonline.com/loi/gpaa19)
 
 ### Books
 
@@ -161,6 +162,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
 * [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
 * [Jure Leskovec, Stanford](http://cs.stanford.edu/people/jure/)
+* [Parallel and Distributed Systems TU Delft](http://www.pds.ewi.tudelft.nl/research-topics/data-science/)
 
 * [Computing research association](http://www.cra.org)
 * [Society for Industrial and Applied Mathematics](http://www.siam.org)
