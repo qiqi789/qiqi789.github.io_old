@@ -157,7 +157,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [PROBE on Parallel Thinking, CMU](http://www.cs.cmu.edu/~CompThink/probes/parallel_thinking.html)
 * [Parallel Computing group, MIT](http://toc.csail.mit.edu/node/137), [Multicore Algorithmics group](http://groups.csail.mit.edu/mag/)
 * [Hagit Attiya, Technion](http://www.cs.technion.ac.il/~hagit/)
-* [Nir Shavit, MIT(http://people.csail.mit.edu/shanir/)
+* [Nir Shavit, MIT](http://people.csail.mit.edu/shanir/)
 * [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
 * [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
 * [Jure Leskovec, Stanford](http://cs.stanford.edu/people/jure/)
