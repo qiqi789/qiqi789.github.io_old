@@ -93,6 +93,11 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 <a name="elsevier" />
 
+### USENIX(The Advanced Computing Systems Association)
+
+* [Workshop on Hot Topics in Parallelism](https://www.usenix.org/publications/proceedings/HotPar)
+* [Workshop on Hot Topics in Cloud Computing](https://www.usenix.org/publications/proceedings/HotCloud)
+
 ### Elsevier
 
 * [Journal of Parallel and Distributed Computing](http://www.sciencedirect.com/science/journal/07437315), [in ACM-DL](http://dl.acm.org/citation.cfm?id=J477)
@@ -142,7 +147,12 @@ The following resources are in the fields of parallel, distributed computing, ar
 ### People, Lab, Organization
 
 * [ampLab, UC Berkeley](https://amplab.cs.berkeley.edu)
+* [Parallel Computing Lab, UC Berkeley](http://parlab.eecs.berkeley.edu)
+* [Algorithms and Complexity, CMU](http://theory.cs.cmu.edu)
+* [PROBE on Parallel Thinking, CMU](http://www.cs.cmu.edu/~CompThink/probes/parallel_thinking.html)
+* [Parallel Computing group, MIT](http://toc.csail.mit.edu/node/137), [Multicore Algorithmics group](http://groups.csail.mit.edu/mag/)
 * [Hagit Attiya, Technion](http://www.cs.technion.ac.il/~hagit/)
+* [Nir Shavit, MIT(http://people.csail.mit.edu/shanir/)
 * [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
 * [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
 * [Jure Leskovec, Stanford](http://cs.stanford.edu/people/jure/)
@@ -159,6 +169,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Parallel Algorithm Design and Analysis, TAMU](https://parasol.tamu.edu/~amato/Courses/626/)
 * [Parallel Algorithms, Utrecht Univ.](http://www.staff.science.uu.nl/~bisse101/Education/PA/pa.html)
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Parallel And Distributed Programming, Technion](http://webcourse.cs.technion.ac.il/236370)
+* [Foundations of Parallel and Distributed Systems, UC Berkeley](http://www.cs.berkeley.edu/~satishr/cs273/)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ASPIRE Short Course on Parallel Programming](https://edge.edx.org/courses/BerkeleyX/ASPIRE101x/2014_2015/info)
 
 ### Resource pages
 
