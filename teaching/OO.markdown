@@ -110,6 +110,7 @@ Brady Booch, etc. (2007), Object-Oriented Analysis and Design with Applications 
 
 ### Scala Libraries
 
+* [Bouncy Castle cryptography](http://mvnrepository.com/artifact/org.bouncycastle), [ website](https://www.bouncycastle.org/specifications.html)
 * [Breeze, a numerical processing library](https://github.com/scalanlp/breeze)
 * [Scalalab, matlab like, scientific programming environment](https://code.google.com/p/scalalab/)
 * [BIDMach, CPU and GPU-accelerated Machine Learning Library](https://github.com/BIDData/BIDMach)

@@ -172,6 +172,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### Courses, Workshops
 
+* [Coursera](http://coursera.org)
 * [Theoretical Foundations of Big Data Analysis](http://simons.berkeley.edu/programs/bigdata2013)
 * [Parallel and Sequential Data Structures and Algorithms, CMU](http://www.cs.cmu.edu/~15210/)
 * [Parallel and Distributed Computing, USF](http://www.cs.usfca.edu/~peter/cs625/)
@@ -181,6 +182,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Parallel And Distributed Programming, Technion](http://webcourse.cs.technion.ac.il/236370)
 * [Foundations of Parallel and Distributed Systems, UC Berkeley](http://www.cs.berkeley.edu/~satishr/cs273/)
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ASPIRE Short Course on Parallel Programming](https://edge.edx.org/courses/BerkeleyX/ASPIRE101x/2014_2015/info)
+
 
 ### Resource pages
 
