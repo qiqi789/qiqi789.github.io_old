@@ -11,6 +11,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 <li><a href="#acm-sig">ACM</a></li>
 <li><a href="#ieee">IEEE</a></li>
 <li><a href="#USENIX">USENIX</a></li>
+<li><a href="#CSCD">Chinese Science Citation DB</a></li>
 <li><a href="#elsevier">Elsevier</a></li>
 <li><a href="#springer">Springer</a></li>
 <li><a href="#PLO">People, Lab, Organization</a></li>
@@ -100,6 +101,13 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [Workshop on Hot Topics in Parallelism](https://www.usenix.org/publications/proceedings/HotPar)
 * [Workshop on Hot Topics in Cloud Computing](https://www.usenix.org/publications/proceedings/HotCloud)
+
+<a name="CSCD" />
+
+### Chinese Science Citation Database 
+
+* [中国科学引文数据库](http://sciencechina.cn/)
+* Web of Science searching database includes CSCD.
 
 <a name="elsevier" />
 
