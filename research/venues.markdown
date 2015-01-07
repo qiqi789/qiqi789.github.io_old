@@ -106,8 +106,12 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### Chinese Science Citation Database 
 
-* [中国科学引文数据库](http://sciencechina.cn/)
+* [中国科学院文献情报中心（国家科学图书馆)](http://www.las.ac.cn)
+* [中科院中国科学文献服务系统](http://sciencechina.cn/) (中国高校IP地址才能访问)
 * Web of Science searching database includes CSCD.
+* [中国知网](http://www.cnki.net)
+* [中国版权保护中心](http://ccopyright.com.cn/cpcc)
+* [中国知识产权局专利检索](http://www.sipo.gov.cn/zljs/)
 
 <a name="elsevier" />
 
