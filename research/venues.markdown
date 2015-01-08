@@ -113,6 +113,20 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [中国版权保护中心](http://ccopyright.com.cn/cpcc)
 * [中国知识产权局专利检索](http://www.sipo.gov.cn/zljs/)
 
+#### Chinese Journals
+
+* [计算机学报(Chinese Journal of Computers)](http://cjc.ict.ac.cn)
+* [计算机研究与发展(Journal of Computer Research and Development)](http://crad.ict.ac.cn/CN/volumn/home.shtml)
+* []()
+* []()
+* []()
+* [计算机科学](http://www.jsjkx.com/jsjkx/ch/index.aspx)
+* []()
+* []()
+* []()
+* []()
+
+
 <a name="elsevier" />
 
 ### Elsevier
