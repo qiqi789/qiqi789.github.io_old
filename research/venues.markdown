@@ -3,6 +3,8 @@ layout: default
 title: Research Venues and Resources
 ---
 
+<a name="top" />
+
 <br />
 The following resources are in the fields of parallel, distributed computing, artificial intelligence, machine learning, data mining. Many of the journals were picked out from the top ranking of Journal Citation Reports from Web of Science.
 
@@ -129,7 +131,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [控制与决策](http://www.kzyjc.net:8080/CN/volumn/current.shtml)
 * [信息与控制](http://xk.sia.cn)
 
-#### Chinese science Organization
+#### Chinese science organization
 
 * [国家自然科学基金委员会](http://www.nsfc.gov.cn)
 * [中国科学院计算技术研究所 (Institute of Computing Technology Chinese Academy of Sciences)](http://www.ict.ac.cn)
@@ -237,4 +239,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [dblp: computer science bibliography](http://dblp.uni-trier.de/db/)
 * [The collection of computer science bibliography](http://liinwww.ira.uka.de/bibliography/index.html)
+
+
+<p><a class="btn btn-success" style="float:right" href="#top">go to top</a></p>
 
