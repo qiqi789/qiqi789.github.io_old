@@ -115,16 +115,25 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 #### Chinese Journals
 
-* [计算机学报(Chinese Journal of Computers)](http://cjc.ict.ac.cn)
-* [计算机研究与发展(Journal of Computer Research and Development)](http://crad.ict.ac.cn/CN/volumn/home.shtml)
-* []()
-* []()
-* []()
+* [计算机学报 (Chinese Journal of Computers)](http://cjc.ict.ac.cn)
+* [计算机研究与发展 (Journal of Computer Research and Development)](http://crad.ict.ac.cn/CN/volumn/home.shtml)
+* [软件学报 (Journal of Software)](http://www.jos.org.cn/ch/index.aspx)
+* [计算机应用 (Journal of Computer Applications)](http://www.joca.cn/CN/volumn/home.shtml)
 * [计算机科学](http://www.jsjkx.com/jsjkx/ch/index.aspx)
-* []()
-* []()
-* []()
-* []()
+* [计算机科学与探索 (Journal of Frontiers of Computer Science and Technology)](http://fcst.ceaj.org/CN/volumn/home.shtml)
+* [Journal of Computer Science and Technology](http://jcst.ict.ac.cn:8080/jcst/EN/volumn/home.shtml)
+* [计算机应用研究](http://www.arocmag.com)
+* [计算机工程 (Computer Engineering)](http://www.ecice06.com/CN/volumn/home.shtml)
+* [计算机工程与科学 (Computer Engineering & Science)](http://www.joces.org.cn/CN/volumn/home.shtml)
+* [计算机工程与应用 (Computer Engineering and Applications)](http://cea.ceaj.org/CN/volumn/home.shtml)
+* [控制与决策](http://www.kzyjc.net:8080/CN/volumn/current.shtml)
+* [信息与控制](http://xk.sia.cn)
+
+#### Chinese science Organization
+
+* [国家自然科学基金委员会](http://www.nsfc.gov.cn)
+* [中国科学院计算技术研究所 (Institute of Computing Technology Chinese Academy of Sciences)](http://www.ict.ac.cn)
+* [中国科学技术协会 (China Association for Science and Technology)](http://www.cast.org.cn)
 
 
 <a name="elsevier" />
