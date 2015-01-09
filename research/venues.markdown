@@ -130,6 +130,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [计算机工程与应用 (Computer Engineering and Applications)](http://cea.ceaj.org/CN/volumn/home.shtml)
 * [控制与决策](http://www.kzyjc.net:8080/CN/volumn/current.shtml)
 * [信息与控制](http://xk.sia.cn)
+* [模式识别与人工智能](http://manu12.magtech.com.cn/Jweb_prai/CN/volumn/home.shtml)
 
 #### Chinese science organization
 
