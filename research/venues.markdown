@@ -235,6 +235,9 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [PredictionIO](http://prediction.io)
 * [Scala programming language](http://www.scala-lang.org)
 
+* [CSDN中文IT社区](http://www.csdn.net)
+
+
 ### Research tools
 
 * [dblp: computer science bibliography](http://dblp.uni-trier.de/db/)
