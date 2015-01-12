@@ -125,6 +125,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [计算机科学与探索 (Journal of Frontiers of Computer Science and Technology)](http://fcst.ceaj.org/CN/volumn/home.shtml)
 * [Journal of Computer Science and Technology](http://jcst.ict.ac.cn:8080/jcst/EN/volumn/home.shtml)
 * [工程研究--跨学科视野中的工程](http://jes.ucas.ac.cn/WKD/WebPublication/index.aspx?mid=gckg)
+* [科学通报 (Chinese Science Bulletin)](http://csb.scichina.com:8080/CN/volumn/home.shtml)
+* [中国科学院院刊 (Bulletin of Chinese Academy of Sciences)](http://www.bulletin.cas.cn/ch/index.aspx)
 * [计算机应用研究](http://www.arocmag.com)
 * [计算机工程 (Computer Engineering)](http://www.ecice06.com/CN/volumn/home.shtml)
 * [计算机工程与科学 (Computer Engineering & Science)](http://www.joces.org.cn/CN/volumn/home.shtml)
