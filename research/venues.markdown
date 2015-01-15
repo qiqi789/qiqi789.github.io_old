@@ -143,6 +143,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [国家自然科学基金委员会](http://www.nsfc.gov.cn)
 * [中国科学院计算技术研究所 (Institute of Computing Technology Chinese Academy of Sciences)](http://www.ict.ac.cn)
 * [中国科学技术协会 (China Association for Science and Technology)](http://www.cast.org.cn)
+* [中国计算机学会](http://www.ccf.org.cn/sites/ccf/)
+* [中国人工智能学会](http://caai.cn)
 
 
 <a name="elsevier" />
