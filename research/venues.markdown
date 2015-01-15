@@ -135,6 +135,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [信息与控制](http://xk.sia.cn)
 * [模式识别与人工智能](http://manu12.magtech.com.cn/Jweb_prai/CN/volumn/home.shtml)
 * [数值计算与计算机应用](http://www.computmath.com/Jwk_szjs/CN/volumn/home.shtml)
+* [电子学报](http://www.ejournal.org.cn/CN/volumn/current.shtml)
+* [智能系统学报](http://tis.hrbeu.edu.cn)
 
 #### Chinese science organization
 
