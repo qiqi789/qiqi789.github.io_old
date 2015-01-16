@@ -111,7 +111,11 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [中国科学院文献情报中心（国家科学图书馆)](http://www.las.ac.cn)
 * [中国科学引文数据库](http://sciencechina.cn/) (校园IP才能访问内容)
 * Web of Science searching database includes CSCD.
-* [中国知网](http://www.cnki.net)
+
+* [维普期刊资源整合服务平台](http://cqvip.com) (校园订阅)
+* [中国知网](http://www.cnki.net) (校园订阅)
+* [万方数据知识服务平台](http://www.wanfangdata.com.cn) (校园订阅)
+
 * [中国版权保护中心](http://ccopyright.com.cn/cpcc)
 * [中国知识产权局专利检索](http://www.sipo.gov.cn/zljs/)
 
