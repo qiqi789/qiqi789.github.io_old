@@ -258,6 +258,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Google Scholar](http://scholar.google.com)
 * [Microsoft Academic Search](http://academic.research.microsoft.com)
 * [arXiv.org](arXiv.org)
+* [Worldcat](http://www.worldcat.org/)
 
 
 <p><a class="btn btn-success" style="float:right" href="#top">go to top</a></p>
