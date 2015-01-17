@@ -255,6 +255,9 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [dblp: computer science bibliography](http://dblp.uni-trier.de/db/)
 * [The collection of computer science bibliography](http://liinwww.ira.uka.de/bibliography/index.html)
+* [Google Scholar](http://scholar.google.com)
+* [Microsoft Academic Search](http://academic.research.microsoft.com)
+* [arXiv.org](arXiv.org)
 
 
 <p><a class="btn btn-success" style="float:right" href="#top">go to top</a></p>
