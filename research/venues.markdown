@@ -104,6 +104,18 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Workshop on Hot Topics in Parallelism](https://www.usenix.org/publications/proceedings/HotPar)
 * [Workshop on Hot Topics in Cloud Computing](https://www.usenix.org/publications/proceedings/HotCloud)
 
+
+### Digital libraries, Search platforms
+
+* [ACM Digital Library](http://dl.acm.org/dl.cfm?comm=portal)
+* [Web of Science, Thomson Reuters](http://www.webofknowledge.com) (可搜索中外期刊文献)
+* [Scopus, Elsevier](http://www.scopus.com)
+* [Engineering Village(EI), Elsevier](http://www.engineeringvillage.com/)
+* [ScienceDirect, Elsevier](http://www.sciencedirect.com) (within Elsevier's publication)
+* [Springer Link](http://link.springer.com) (within Springer's publication)
+
+
+
 <a name="CSCD" />
 
 ### Chinese Science Citation Database 
