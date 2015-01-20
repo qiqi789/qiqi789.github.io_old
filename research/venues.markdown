@@ -109,6 +109,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ACM Digital Library](http://dl.acm.org/dl.cfm?comm=portal)
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Web of Science, Thomson Reuters](http://www.webofknowledge.com) (可搜索中外期刊文献)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [dblp: computer science bibliography](http://dblp.uni-trier.de/db/)
 * [Scopus, Elsevier](http://www.scopus.com)
 * [Engineering Village(EI), Elsevier](http://www.engineeringvillage.com/)
 * [ScienceDirect, Elsevier](http://www.sciencedirect.com) (within Elsevier's publication)
