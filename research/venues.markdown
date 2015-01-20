@@ -54,7 +54,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 #### ACM magazines
 
-* [Conmunications](http://cacm.acm.org)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Conmunications](http://cacm.acm.org)
 
 #### ACM Conferences
 
@@ -107,8 +107,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### Digital libraries, Search platforms
 
-* [ACM Digital Library](http://dl.acm.org/dl.cfm?comm=portal)
-* [Web of Science, Thomson Reuters](http://www.webofknowledge.com) (可搜索中外期刊文献)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ACM Digital Library](http://dl.acm.org/dl.cfm?comm=portal)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Web of Science, Thomson Reuters](http://www.webofknowledge.com) (可搜索中外期刊文献)
 * [Scopus, Elsevier](http://www.scopus.com)
 * [Engineering Village(EI), Elsevier](http://www.engineeringvillage.com/)
 * [ScienceDirect, Elsevier](http://www.sciencedirect.com) (within Elsevier's publication)
@@ -120,11 +120,11 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### Chinese Science Citation Database 
 
-* [中国科学院文献情报中心（国家科学图书馆)](http://www.las.ac.cn) (校园订阅)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [中国科学院文献情报中心（国家科学图书馆)](http://www.las.ac.cn) (校园订阅)
 * [中国科学引文数据库](http://sciencechina.cn/) 
 * Web of Science searching database includes CSCD.
 
-* [维普期刊资源整合服务平台](http://cqvip.com) (校园订阅)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [维普期刊资源整合服务平台](http://cqvip.com) (校园订阅)
 * [中国知网](http://www.cnki.net) (校园订阅)
 * [万方数据知识服务平台](http://www.wanfangdata.com.cn) (校园订阅)
 
@@ -215,14 +215,14 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### People, Lab, Organization
 
-* [ampLab, UC Berkeley](https://amplab.cs.berkeley.edu)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ampLab, UC Berkeley](https://amplab.cs.berkeley.edu)
 * [Parallel Computing Lab, UC Berkeley](http://parlab.eecs.berkeley.edu)
 * [Algorithms and Complexity, CMU](http://theory.cs.cmu.edu)
 * [PROBE on Parallel Thinking, CMU](http://www.cs.cmu.edu/~CompThink/probes/parallel_thinking.html)
 * [Parallel Computing group, MIT](http://toc.csail.mit.edu/node/137), [Multicore Algorithmics group](http://groups.csail.mit.edu/mag/)
 * [Hagit Attiya, Technion](http://www.cs.technion.ac.il/~hagit/)
 * [Nir Shavit, MIT](http://people.csail.mit.edu/shanir/)
-* [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
 * [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
 * [Jure Leskovec, Stanford](http://cs.stanford.edu/people/jure/)
 * [Parallel and Distributed Systems TU Delft](http://www.pds.ewi.tudelft.nl/research-topics/data-science/)
@@ -235,7 +235,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### Courses, Workshops
 
-* [Coursera](http://coursera.org)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Coursera](http://coursera.org)
 * [Theoretical Foundations of Big Data Analysis](http://simons.berkeley.edu/programs/bigdata2013)
 * [Parallel and Sequential Data Structures and Algorithms, CMU](http://www.cs.cmu.edu/~15210/)
 * [Parallel and Distributed Computing, USF](http://www.cs.usfca.edu/~peter/cs625/)
@@ -256,17 +256,17 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### Software, Industry
 
-* [Typesafe](http://typesafe.com)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Typesafe](http://typesafe.com)
 * [Spark](http://spark.apache.org)
 * [PredictionIO](http://prediction.io)
-* [Scala programming language](http://www.scala-lang.org)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Scala programming language](http://www.scala-lang.org)
 
 * [CSDN中文IT社区](http://www.csdn.net)
 
 
 ### Research tools
 
-* [dblp: computer science bibliography](http://dblp.uni-trier.de/db/)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [dblp: computer science bibliography](http://dblp.uni-trier.de/db/)
 * [The collection of computer science bibliography](http://liinwww.ira.uka.de/bibliography/index.html)
 * [Google Scholar](http://scholar.google.com)
 * [Microsoft Academic Search](http://academic.research.microsoft.com)
