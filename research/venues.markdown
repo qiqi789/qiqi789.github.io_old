@@ -120,8 +120,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### Chinese Science Citation Database 
 
-* [中国科学院文献情报中心（国家科学图书馆)](http://www.las.ac.cn)
-* [中国科学引文数据库](http://sciencechina.cn/) (校园IP才能访问内容)
+* [中国科学院文献情报中心（国家科学图书馆)](http://www.las.ac.cn) (校园订阅)
+* [中国科学引文数据库](http://sciencechina.cn/) 
 * Web of Science searching database includes CSCD.
 
 * [维普期刊资源整合服务平台](http://cqvip.com) (校园订阅)
@@ -157,6 +157,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 #### Chinese science organization
 
 * [国家自然科学基金委员会](http://www.nsfc.gov.cn)
+	* [科研基金网络信息系统](http://isisn.nsfc.gov.cn/egrantweb/)
 * [中国科学院计算技术研究所 (Institute of Computing Technology Chinese Academy of Sciences)](http://www.ict.ac.cn)
 * [中国科学技术协会 (China Association for Science and Technology)](http://www.cast.org.cn)
 * [中国计算机学会](http://www.ccf.org.cn/sites/ccf/)
