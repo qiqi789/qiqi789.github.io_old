@@ -265,7 +265,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [CSDN中文IT社区](http://www.csdn.net)
 
 
-### Research tools
+### Research online tools
 
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [dblp: computer science bibliography](http://dblp.uni-trier.de/db/)
 * [The collection of computer science bibliography](http://liinwww.ira.uka.de/bibliography/index.html)
@@ -273,6 +273,17 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Microsoft Academic Search](http://academic.research.microsoft.com)
 * [arXiv.org](arXiv.org)
 * [Worldcat](http://www.worldcat.org/)
+
+### Research software
+
+* [LaTeX, a document preparation system](http://www.latex-project.org/)
+	* [CTAN, TEX archive network](http://ctan.org/)
+	* [TeX users group](http://www.tug.org/)
+	* [TexShop, for Mac](http://pages.uoregon.edu/koch/texshop/)
+	* [TeX studio](http://texstudio.sourceforge.net/)
+* [gnuplot](http://gnuplot.sourceforge.net/)
+* [R, open source Stat software](http://www.r-project.org/)
+	* [R studio, a frontend to R](http://www.rstudio.com/)
 
 
 <p><a class="btn btn-success" style="float:right" href="#top">go to top</a></p>
