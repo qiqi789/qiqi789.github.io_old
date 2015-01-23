@@ -286,6 +286,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [LaTeX, a document preparation system](http://www.latex-project.org/)
 	* [CTAN, TEX archive network](http://ctan.org/)
 	* [TeX users group](http://www.tug.org/)
+	* [Tex stack exchange](http://tex.stackexchange.com/)
 	* [TexShop, for Mac](http://pages.uoregon.edu/koch/texshop/)
 	* [TeX studio](http://texstudio.sourceforge.net/)
 * [gnuplot](http://gnuplot.sourceforge.net/)
