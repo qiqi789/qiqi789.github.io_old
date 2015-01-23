@@ -13,12 +13,15 @@ The following resources are in the fields of parallel, distributed computing, ar
 <li><a href="#acm-sig">ACM</a></li>
 <li><a href="#ieee">IEEE</a></li>
 <li><a href="#USENIX">USENIX</a></li>
+<li><a href="#DL-SP">Digital libraries & Search platforms</a></li>
 <li><a href="#CSCD">Chinese Science Citation DB</a></li>
 <li><a href="#elsevier">Elsevier</a></li>
 <li><a href="#springer">Springer</a></li>
 <li><a href="#PLO">People, Lab, Organization</a></li>
 <li><a href="#workshops">Courses, Workshops</a></li>
 <li><a href="#SI">Software, Industry</a></li>
+<li><a href="#online-tools">Research online tools</a></li>
+<li><a href="#software">Research software</a></li>
 </ul>
 
 
@@ -104,6 +107,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Workshop on Hot Topics in Parallelism](https://www.usenix.org/publications/proceedings/HotPar)
 * [Workshop on Hot Topics in Cloud Computing](https://www.usenix.org/publications/proceedings/HotCloud)
 
+<a name="DL-SP" />
 
 ### Digital libraries, Search platforms
 
@@ -264,6 +268,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [CSDN中文IT社区](http://www.csdn.net)
 
+<a name="online-tools" />
 
 ### Research online tools
 
@@ -273,6 +278,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Microsoft Academic Search](http://academic.research.microsoft.com)
 * [arXiv.org](arXiv.org)
 * [Worldcat](http://www.worldcat.org/)
+
+<a name="software" />
 
 ### Research software
 
