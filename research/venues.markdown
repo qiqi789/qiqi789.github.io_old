@@ -116,7 +116,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [dblp: computer science bibliography](http://dblp.uni-trier.de/db/)
 * [Scopus, Elsevier](http://www.scopus.com)
 * [Engineering Village(EI), Elsevier](http://www.engineeringvillage.com/)
-* [ScienceDirect, Elsevier](http://www.sciencedirect.com) (within Elsevier's publication)
+* [ScienceDirect, Elsevier](http://www.sciencedirect.com) (within Elsevier's publication) (校园订阅)
 * [Springer Link](http://link.springer.com) (within Springer's publication)
 
 
