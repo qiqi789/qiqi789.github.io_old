@@ -250,6 +250,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Parallel And Distributed Programming, Technion](http://webcourse.cs.technion.ac.il/236370)
 * [Foundations of Parallel and Distributed Systems, UC Berkeley](http://www.cs.berkeley.edu/~satishr/cs273/)
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ASPIRE Short Course on Parallel Programming](https://edge.edx.org/courses/BerkeleyX/ASPIRE101x/2014_2015/info)
+* [Concepts of Operating Systems](http://web.cecs.pdx.edu/~walpole/class/cs533/fall2014/home.html)
+* [Concurrent Systems](http://web.cecs.pdx.edu/~walpole/class/cs510/fall2014/home.html)
 
 
 ### Resource pages
