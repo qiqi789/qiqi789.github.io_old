@@ -3,7 +3,10 @@ layout: default
 title: Object-oriented design and analysis
 ---
 
-<ul class="breadcrumb"><li><a href="/teaching/">Teaching</a> <span class="divider"></span></li><li><a href="/teaching/OO/">Object-Oriented</a> <span class="divider"></span></li> </ul>
+<ul class="breadcrumb">
+<li><a href="/teaching/">Teaching</a> <span class="divider"></span></li>
+<li><a href="/teaching/OO/">Object-Oriented</a> <span class="divider"></span></li> 
+</ul>
 
 ## 面向对象分析与设计（2014年秋季学期）
 
@@ -128,6 +131,7 @@ Brady Booch, etc. (2007), Object-Oriented Analysis and Design with Applications 
 
 ### 参考
 
+- [Java And Scala: Former Competitors May Be BFFs Before Long](http://readwrite.com/2014/02/20/java-8-scala-competitors-bffs-martin-odersky)
 - [Cross-Paradigm Programming with Scala, Stanford course](http://web.stanford.edu/class/cs94si/)
 - [Transitioning to Scala](https://medium.com/@kvnwbbr/transitioning-to-scala-d1818f25b2b7)
 - [The Three Breakthroughs That Have Finally Unleashed AI on the World](http://www.wired.com/2014/10/future-of-artificial-intelligence)
