@@ -3,6 +3,10 @@ layout: default
 title: Reading list
 ---
 
+## BBC
+
+* [The trouble with simplicity](http://www.bbc.com/capital/story/20150211-is-simplicity-too-complicated)
+
 ## The economist
 
 * [An hereditary meritocracy](http://www.economist.com/news/briefing/21640316-children-rich-and-powerful-are-increasingly-well-suited-earning-wealth-and-power)
