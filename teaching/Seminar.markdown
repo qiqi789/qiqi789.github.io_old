@@ -28,7 +28,7 @@ title: seminar lectures
 
 * [Apache Spark: An Introductory Workshop](https://github.com/deanwampler/spark-workshop)
 * [Programming Hadoop with Scala](https://github.com/deanwampler/scala-hadoop)
-* 
+* [Machine learning with Spark](http://www.cs.berkeley.edu/~rxin/ampcamp-ecnu/machine-learning-with-spark.html)
 
 -------
 
