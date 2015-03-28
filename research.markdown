@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-## 研究内容
+### 研究内容
 
  
  - 数据挖掘、机器学习、人工智能
@@ -12,7 +12,7 @@ title: Research
  - 函数式编程语言应用
  - 云计算平台应用服务系统软件
 
-## 主持的基金项目
+### 主持的基金项目
 
 * 『利用函数式并行分布计算构建大数据高性能分析处理的互联网应用服务系统』，教育部留学回国人员科研启动基金，2015
 
@@ -20,7 +20,7 @@ title: Research
 
 * 『大数据高性能计算分析应用服务系统研究』，海南大学科研启动基金，2014
 
-## My Publication 发表的论文
+### My Publication 发表的论文
 
 * “Reconstruction of metabolic pathways by combining probabilistic graphical model-based and knowledge-based methods”, Qi Qi, Jilong Li, and Jianlin Cheng, BMC Proceedings, 2014, 8(Suppl 6):S5. [link](http://www.biomedcentral.com/1753-6561/8/S6/S5)
 
@@ -36,12 +36,12 @@ title: Research
 
 * “Wireless Sensor-Based Traffic Light Control”, Malik Tubaishat, Qi Qi, Yi Shang, and Hongchi Shi, In Proc. 5th IEEE Consumer Communications and Networking Conference (CCNC’08), 2008, pp. 702-706. [link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4446459)
 
-### Dissertation 博士论文
+#### Dissertation 博士论文
 
 * “Statistical model-based methods for observation selection in wireless sensor networks and for feature selection in classification.”, Qi Qi, University of Missouri-Columbia, 2012. [ProQuest link](http://gradworks.umi.com/35/30/3530891.html),    [on MOSpace](https://mospace.umsystem.edu/xmlui/handle/10355/15111)
 
 
-### 软件著作权
+#### 软件著作权
 
 * 统计方法辅助优化英语重点单词学习记忆软件 V1.0, 2014.9
 
