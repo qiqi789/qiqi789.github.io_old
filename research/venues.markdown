@@ -13,6 +13,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 <li><a href="#acm-sig">ACM</a></li>
 <li><a href="#ieee">IEEE</a></li>
 <li><a href="#USENIX">USENIX</a></li>
+<li><a href="#EURO-PAR">Conferences</a></li>
 <li><a href="#DL-SP">Digital libraries & Search platforms</a></li>
 <li><a href="#CSCD">Chinese Science Citation DB</a></li>
 <li><a href="#elsevier">Elsevier</a></li>
@@ -106,6 +107,13 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 * [Workshop on Hot Topics in Parallelism](https://www.usenix.org/publications/proceedings/HotPar)
 * [Workshop on Hot Topics in Cloud Computing](https://www.usenix.org/publications/proceedings/HotCloud)
+
+<a name="EURO-PAR">
+
+### Conferences
+
+* [Euro-Par](http://www.europar.org)
+	* [Euro-Par 2014: Parallel Processing](http://www.springer.com/us/book/9783319098722) 
 
 <a name="DL-SP" />
 
@@ -267,6 +275,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Spark](http://spark.apache.org)
 * [PredictionIO](http://prediction.io)
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Scala programming language](http://www.scala-lang.org)
+* [MapR](https://www.mapr.com)
 
 * [CSDN中文IT社区](http://www.csdn.net)
 
