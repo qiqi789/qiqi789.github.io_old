@@ -112,8 +112,11 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### Conferences
 
-* [Euro-Par](http://www.europar.org)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" />[Euro-Par](http://www.europar.org)
 	* [Euro-Par 2014: Parallel Processing](http://www.springer.com/us/book/9783319098722) 
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" />[SC conference series(International Conference for High Performance Computing, Networking, Storage, and Analysis)](http://supercomputing.org)
+	* [SC'14 Proceedings](http://dl.acm.org/citation.cfm?id=2683593)
+	
 
 <a name="DL-SP" />
 
