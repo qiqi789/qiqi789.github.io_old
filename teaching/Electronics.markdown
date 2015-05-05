@@ -8,7 +8,8 @@ title: 计算机电子电路
 <li><a href="/teaching/Electronics/">计算机电子电路</a> <span class="divider"></span></li> 
 </ul>
 
-## 计算机电子电路 (2015年春季学期)
+## 计算机电子电路 
+(2015年春季学期)
 
 ### 讲课幻灯片与作业答案
 
