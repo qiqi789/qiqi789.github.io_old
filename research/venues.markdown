@@ -244,6 +244,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
 * [Jure Leskovec, Stanford](http://cs.stanford.edu/people/jure/)
 * [Parallel and Distributed Systems TU Delft](http://www.pds.ewi.tudelft.nl/research-topics/data-science/)
+* [Bigdata@CSAIL MIT](http://bigdata.csail.mit.edu/)
 
 * [Computing research association](http://www.cra.org)
 * [Society for Industrial and Applied Mathematics](http://www.siam.org)
