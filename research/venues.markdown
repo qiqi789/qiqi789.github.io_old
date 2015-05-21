@@ -116,6 +116,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 	* [Euro-Par 2014: Parallel Processing](http://www.springer.com/us/book/9783319098722) 
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [SC conference series(International Conference for High Performance Computing, Networking, Storage, and Analysis)](http://supercomputing.org)
 	* [SC'14 Proceedings](http://dl.acm.org/citation.cfm?id=2683593)
+* [Multicore venues](http://mcg.cs.tau.ac.il/Venues)
 	
 
 <a name="DL-SP" />
@@ -238,6 +239,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Parallel Computing group, MIT](http://toc.csail.mit.edu/node/137), [Multicore Algorithmics group](http://groups.csail.mit.edu/mag/)
 * [Hagit Attiya, Technion](http://www.cs.technion.ac.il/~hagit/)
 * [Nir Shavit, MIT](http://people.csail.mit.edu/shanir/)
+* [Resources for Multicore Programming Education](http://www.cs.tau.ac.il/~shanir/Resources%20for%20Multicore%20Programming%20Education.htm)
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
 * [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
 * [Jure Leskovec, Stanford](http://cs.stanford.edu/people/jure/)
