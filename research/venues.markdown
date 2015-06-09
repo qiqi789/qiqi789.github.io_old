@@ -216,6 +216,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### Books
 
+* [The Art of Multiprocessor Programming, Revised Peprint](http://booksite.elsevier.com/9780123973375/?ISBN=9780123973375)
+* [Distributed Computing Through Combinatorial Topology](http://www.amazon.com/dp/0124045782/ref=as_sl_pc_tf_lc?tag=mauriherli-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0124045782&adid=11CCVZH2DFHFFRKKTPX1&&ref-refURL=http%3A%2F%2Fcs.brown.edu%2F~mph%2F)
 * [Introduction to Parallel Computing](http://www-users.cs.umn.edu/%7Ekarypis/parbook/)
 * [Principles of Parallel Algorithms and Programming, draft, cmu](http://www.parallel-algorithms-book.com)
 
@@ -237,8 +239,10 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Algorithms and Complexity, CMU](http://theory.cs.cmu.edu)
 * [PROBE on Parallel Thinking, CMU](http://www.cs.cmu.edu/~CompThink/probes/parallel_thinking.html)
 * [Parallel Computing group, MIT](http://toc.csail.mit.edu/node/137), [Multicore Algorithmics group](http://groups.csail.mit.edu/mag/)
+* [Maurice Herlihy](http://cs.brown.edu/~mph/)
 * [Hagit Attiya, Technion](http://www.cs.technion.ac.il/~hagit/)
 * [Nir Shavit, MIT](http://people.csail.mit.edu/shanir/)
+* [Sergio Rajsbaum](http://www.matem.unam.mx/~rajsbaum/)
 * [Resources for Multicore Programming Education](http://www.cs.tau.ac.il/~shanir/Resources%20for%20Multicore%20Programming%20Education.htm)
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
 * [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
