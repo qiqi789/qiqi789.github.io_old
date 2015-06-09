@@ -34,6 +34,7 @@ The following resources are in the fields of parallel, distributed computing, ar
     - <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ACM Symposium on Parallelism in Algorithms and Architectures](http://www.spaa-conference.org), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2612669)
     - <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ACM Symposium on Principles of Distributed Computing](http://www.podc.org), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2611462)
     - [News](http://www.sigact.org/pubs.php), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2696081)
+    - <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ACM SIGACT News Distributed Computing Column](https://parasol.tamu.edu/~welch/sigactNews/)
 - [SIGAI, Artificial Intelligence](http://sigai.acm.org//)
 - [SIGEVO, Genetic and Evolutionary Computation](http://sigevo.hosting.acm.org/wiki/tiki-index.php)
 - [SIGKDD, Data mining, data science and analytics community](http://www.sigkdd.org)
