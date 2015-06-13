@@ -40,6 +40,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 - [SIGKDD, Data mining, data science and analytics community](http://www.sigkdd.org)
     * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [KDD(International Conference on Knowledge Discovery and Data Mining)](http://www.sigkdd.org/conferences), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2623330)
     * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Explorations Newsletter](http://www.sigkdd.org/explorations), [in ACM-DL](http://dl.acm.org/citation.cfm?id=2674026)
+- <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [SIGMOD, Management of Data](http://www.sigmod.org/)
 - [SIGHPC, High performance computing](http://www.sighpc.org)
 - [SIGPLAN, Programming Languages](http://www.sigplan.org)
     * [ACM Symposium on Principles and Practice of Parallel Programming](http://www.sigplan.org/Conferences/PPOPP/)
