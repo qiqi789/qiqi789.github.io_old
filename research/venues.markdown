@@ -221,6 +221,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Distributed Computing Through Combinatorial Topology](http://www.amazon.com/dp/0124045782/ref=as_sl_pc_tf_lc?tag=mauriherli-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0124045782&adid=11CCVZH2DFHFFRKKTPX1&&ref-refURL=http%3A%2F%2Fcs.brown.edu%2F~mph%2F)
 * [Introduction to Parallel Computing](http://www-users.cs.umn.edu/%7Ekarypis/parbook/)
 * [Principles of Parallel Algorithms and Programming, draft, cmu](http://www.parallel-algorithms-book.com)
+* [Computer Architecture: A Quantitative Approach](http://booksite.elsevier.com/9780123838728/)
 
 -------------------
 
