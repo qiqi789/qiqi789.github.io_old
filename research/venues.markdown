@@ -249,6 +249,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
 * [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
 * [Jure Leskovec, Stanford](http://cs.stanford.edu/people/jure/)
+* [David A. Patterson](http://www.eecs.berkeley.edu/Faculty/Homepages/patterson.html)
 * [Parallel and Distributed Systems TU Delft](http://www.pds.ewi.tudelft.nl/research-topics/data-science/)
 * [Bigdata@CSAIL MIT](http://bigdata.csail.mit.edu/)
 
