@@ -120,6 +120,10 @@ The following resources are in the fields of parallel, distributed computing, ar
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [SC conference series(International Conference for High Performance Computing, Networking, Storage, and Analysis)](http://supercomputing.org)
 	* [SC'14 Proceedings](http://dl.acm.org/citation.cfm?id=2683593)
 * [Multicore venues](http://mcg.cs.tau.ac.il/Venues)
+* International conference on parallel architectures and compilation
+* ACM SIGPLAN Symposium on principles and practice of parallel programming
+* Annual symposium on cloud computing
+* ACM SIGPLAN-SIGACT Symposium on principles of programming languages
 	
 
 <a name="DL-SP" />
@@ -275,6 +279,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ASPIRE Short Course on Parallel Programming](https://edge.edx.org/courses/BerkeleyX/ASPIRE101x/2014_2015/info)
 * [Concepts of Operating Systems](http://web.cecs.pdx.edu/~walpole/class/cs533/fall2014/home.html)
 * [Concurrent Systems](http://web.cecs.pdx.edu/~walpole/class/cs510/fall2014/home.html)
+* [Multicore Programming](http://soft.vub.ac.be/~tvcutsem/multicore/)
+
 
 
 ### Resource pages
