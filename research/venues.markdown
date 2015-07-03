@@ -297,6 +297,9 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [PredictionIO](http://prediction.io)
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Scala programming language](http://www.scala-lang.org)
 * [MapR](https://www.mapr.com)
+* [Delite](http://stanford-ppl.github.io/Delite/)
+	* [Delite on github](https://github.com/stanford-ppl/Delite)
+	* [A compelling family of DSLs for Data Science](http://radar.oreilly.com/2014/01/a-compelling-family-of-dsls-for-data-science.html)
 
 * [CSDN中文IT社区](http://www.csdn.net)
 
