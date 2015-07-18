@@ -301,6 +301,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 	* [Delite on github](https://github.com/stanford-ppl/Delite)
 	* [A compelling family of DSLs for Data Science](http://radar.oreilly.com/2014/01/a-compelling-family-of-dsls-for-data-science.html)
 
+* [Datacenter OS](https://mesosphere.com/)
+
 * [CSDN中文IT社区](http://www.csdn.net)
 * [OReilly radar](http://radar.oreilly.com/data)
 
