@@ -41,8 +41,11 @@ title: Research
 * “Statistical model-based methods for observation selection in wireless sensor networks and for feature selection in classification.”, Qi Qi, University of Missouri-Columbia, 2012. [ProQuest link](http://gradworks.umi.com/35/30/3530891.html),    [on MOSpace](https://mospace.umsystem.edu/xmlui/handle/10355/15111)
 
 
-#### 软件著作权
+### 软件著作权
 
-* 文档加密软件 V1.0, 2015.6, 登记申请中。
+* 文档加密软件 V1.0, 2015.9
 * 统计方法辅助优化英语重点单词学习记忆软件 V1.0, 2014.9。
 
+### 专业技术资格
+
+* 副研究员，计算机科学专业，2014.12
