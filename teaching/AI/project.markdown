@@ -1,14 +1,8 @@
 ---
 layout: post
-title: AI course project
+title: 人工智能课程项目---Pacman
 ---
 
-<ul class="breadcrumb">
-<li><a href="/teaching/">Teaching</a> <span class="divider"></span></li>
-<li><a href="/teaching/AI/">AI</a> <span class="divider"></span></li> 
-</ul>
-
-## 人工智能课程项目---Pacman
 
 ### 项目介绍
 
