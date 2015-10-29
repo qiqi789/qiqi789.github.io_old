@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AI course discussion 
+title: 人工智能导论课讨论板 
 tags:
  - 人工智能
 ---
 
-###人工智能导论课试用论坛
+###人工智能导论课讨论板
 可在下面留言。
