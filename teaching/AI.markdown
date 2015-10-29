@@ -102,6 +102,9 @@ title: AI course
 - [I, algorithm: A new dawn for artificial intelligence](http://www.cs.washington.edu/news/TheNewAI_NewScientist.pdf)
 
 
+### 讨论板
+如果有问题或建议，可在下面留言。
+
 <div id="disqus_thread"></div>
 <script type="text/javascript">
 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
