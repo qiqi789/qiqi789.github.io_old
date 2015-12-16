@@ -54,7 +54,7 @@ title: AI course
 |  13     | 11/25  | 贝叶斯网络：语法和语义 | 第14章第1-3节  |[PDF](lecture13.pdf)   |   | |
 |  14     | 12/2  | 贝叶斯网络：精确推断   |第14章第3节   |[PDF](lecture14.pdf)   |   | |
 |  15     | 12/9 | 贝叶斯网络：近似推断 |第14章第4节   | [PDF](lecture15.pdf)   |   | |
-|  16     | 12/16 | 课程复习                  |   |   |   | [作业1答案](HW1_solution_publish.pdf),[作业2答案](HW2_solution_publish.pdf)；[考试范围](final_covers.pdf)  |
+|  16     | 12/16 | 课程复习                  |[PDF](lecture16.pdf)   |   |   | [作业1答案](HW1_solution_publish.pdf),[作业2答案](HW2_solution_publish.pdf)；[考试范围](final_covers.pdf)  |
 |  17     | 12/23 | 期末考试                  |   |    |   |下午第1和2节课时，地点3-101   |
 
 ------
