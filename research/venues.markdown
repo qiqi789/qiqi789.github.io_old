@@ -330,7 +330,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [gnuplot](http://gnuplot.sourceforge.net/)
 * [R, open source Stat software](http://www.r-project.org/)
 	* [R studio, a frontend to R](http://www.rstudio.com/)
-* [Math](../resource/math/)
+* [Math](/resource/math/)
 
 
 <p><a class="btn btn-success" style="float:right" href="#top">go to top</a></p>
