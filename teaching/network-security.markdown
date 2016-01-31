@@ -2,13 +2,24 @@
 layout: default
 title: 网络安全技术
 ---
-<ul class="breadcrumb">
-<li><a href="/teaching/">Teaching</a> <span class="divider"></span></li>
-<li><a href="/teaching/network-security/">网络安全技术</a> <span class="divider"></span></li> 
-</ul>
-
-## 网络安全技术 （2016年春季学期）
-
-### 课程信息
 
 
+
+网络安全技术 （2016年春季学期）
+-------------------------------
+
+课程信息
+--------
+
+课本：计算机网络安全的理论与实践（第2版），王杰著，高等教育出版社
+
+时间：第1-15，第17周；第5，6，7节课
+
+地点：4-511
+
+课程安排
+--------
+
+ 
+
+ 
