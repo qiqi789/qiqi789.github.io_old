@@ -1,5 +1,5 @@
 permalink: pretty
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 exclude: [cv.markdown]
 github: [Repository metadata]
