@@ -19,11 +19,10 @@ in its setup/package.tex, [the site
 link](<https://github.com/dustincys/PlutoThesis>).
 
 Citation styles used in pandoc can be found richly on this site,
-[https://github.com/citation-style-language/styles](<https://github.com/citation-style-language/styles>).
-It includes a few Chinese journal citation styles.
+<https://github.com/citation-style-language/styles>. It includes a few Chinese
+journal citation styles.
 
- 
-
- 
+Other tools such as JabRef for bibliography management in bibtex; LaTeXDraw for
+latex graphics.
 
  
