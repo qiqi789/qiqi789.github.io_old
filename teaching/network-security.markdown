@@ -6,14 +6,8 @@ title: 网络安全技术
 网络安全技术 （2016年春季学期）
 -------------------------------
 
-课程信息
---------
-
-时间：第1-15，第17周；第5，6，7节课，每周四
-
-地点：4-511
-
-课本：计算机网络安全的理论与实践（第2版），王杰著，高等教育出版社
+ 
+-
 
 课程安排
 --------
@@ -39,11 +33,37 @@ title: 网络安全技术
 
  
 
-参考资料
--------- 
+实验
+----
 
-- [TED > 日常生活中的网络犯罪——我们该做些什么](http://open.163.com/movie/2014/3/3/L/M9KC5G9MO_M9KGSBV3L.html)
-- [网易公开课](http://c.open.163.com/search/search.htm?query=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8)
-- [Introduction to Computer Security(presentation, projects)](http://www.securitybook.net/)
-- [Introduction to Network Security: Theory and Practice (slides)](http://www.cs.uml.edu/~wang/NetSec/)
-- [SEED labs](http://www.cis.syr.edu/~wedu/seed/labs.html)
+实验内容：包括书后每章的实践练习，[SEED
+labs](<http://www.cis.syr.edu/~wedu/seed/labs.html>) 的相关实验。
+
+ 
+
+课程信息
+--------
+
+时间：第1-15，第17周；第5，6，7节课，每周四
+
+地点：4-511
+
+课本：计算机网络安全的理论与实践（第2版），王杰著，高等教育出版社
+
+ 
+
+参考资料
+--------
+
+-   [TED \>
+    日常生活中的网络犯罪——我们该做些什么](<http://open.163.com/movie/2014/3/3/L/M9KC5G9MO_M9KGSBV3L.html>)
+
+-   [网易公开课](<http://c.open.163.com/search/search.htm?query=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8>)
+
+-   [Introduction to Computer Security(presentation,
+    projects)](<http://www.securitybook.net/>)
+
+-   [Introduction to Network Security: Theory and Practice
+    (slides)](<http://www.cs.uml.edu/~wang/NetSec/>)
+
+-   [SEED labs](<http://www.cis.syr.edu/~wedu/seed/labs.html>)
