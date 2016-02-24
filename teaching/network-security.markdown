@@ -37,7 +37,19 @@ title: 网络安全技术
 ----
 
 实验内容：包括书后每章的实践练习，[SEED
-labs](<http://www.cis.syr.edu/~wedu/seed/labs.html>) 的相关实验。
+labs](<http://www.cis.syr.edu/~wedu/seed/labs.html>)
+的相关实验；可能会用到网络安全实验室。
+
+ 
+
+成绩
+----
+
+平时：30% （平时作业、课堂提问、实验）
+
+期末考试： 70%
+
+自选课程项目，可占20%
 
  
 
