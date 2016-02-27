@@ -4,28 +4,28 @@ title: Home page
 ---
 
 <div class="row">
-  
+
     <img src="/images/Qi_photo.png" style="display: block; width: 270px; height: 220px; float:left; margin-right:7px; margin-top:2%"  alt="That's me!" class="avatar" />
 
  <h2>About me</h2>
 <p>
-我从事计算机科学的应用研究。主要研究领域包括并行分布式计算，大数据挖掘，人工智能，云计算平台应用服务系统等。我毕业于美国密苏里大学哥伦比亚分校，获得计算机科学博士学位，现任教于海南大学计算机科学系。</p>
+我的研究领域主要是机器学习和人工智能。我毕业于美国密苏里大学哥伦比亚分校，获得计算机科学博士学位，现任教于海南大学计算机科学系。</p>
 
 </div>
 
 
 <div id="posts">
     <h2>Recent posts</h2>
-    
+
     <ul class="posts">
     {% for post in site.posts limit:12 %}
     <li> <a href="{{ post.url }}">{{ post.title }}</a> <abbr>{{ post.date | date_to_string }}</abbr> </li>
     <!-- <li><span>{{ post.date | date_to_string }}</span> <span class="seperator">  </span> <a href="{{ post.url }}">{{ post.title }}</a></li> -->
     {% endfor %}
     </ul>
-    
-   
-    
+
+
+
     <img class="inline-image" style="vertical-align: middle" alt="tags" src="/images/Book2.png" /> <a href="/posts">Archive of posting</a>
 
 </div>
@@ -55,5 +55,3 @@ title: Home page
 
 </div>
 -->
-
-
