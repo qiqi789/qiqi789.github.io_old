@@ -32,3 +32,18 @@ title: 大数据技术（研究生专题课）
 | 11   | 5/5  |      |        |
 | 12   | 5/12 |      |        |
 | 13   | 5/19 |      |        |
+
+参考
+----
+
+### 开放数据
+
+<https://github.com/caesar0301/awesome-public-datasets>
+
+<http://archive.ics.uci.edu/ml/index.html>
+
+<http://webscope.sandbox.yahoo.com/#datasets>
+
+ 
+
+ 
