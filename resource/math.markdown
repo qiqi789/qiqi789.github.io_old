@@ -7,3 +7,4 @@ title: Math
 
 * [logistic regression -- function plots](logistic regression -- function plots.html)
 * [solving recursion_equations](recursion_eq.html)
+* [derivatives](derivative.html)
