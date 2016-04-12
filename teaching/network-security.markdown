@@ -9,24 +9,24 @@ title: 网络安全技术
 课程安排
 --------
 
-| 周期 | 日期 | 内容                   | 课件                  | 说明 |
-|------|------|------------------------|-----------------------|------|
-| 1    | 2/25 | 网络安全概论           | [PDF](<Chapter1.pdf>) |      |
-| 2    | 3/3  | 网络安全概论           |                       |      |
-| 3    | 3/10 | 常规加密算法           | [PDF](<Chapter2.pdf>) |      |
-| 4    | 3/17 | 常规加密算法           |                       |      |
-| 5    | 3/24 | 公钥密码体系和密钥管理 |                       |      |
-| 6    | 3/31 | 公钥密码体系和密钥管理 | [PDF](<Chapter3.pdf>) |      |
-| 7    | 4/7  | 数据认证               |                       |      |
-| 8    | 4/14 | 数据认证               |                       |      |
-| 9    | 4/21 | 实用网络安全协议       |                       |      |
-| 10   | 4/28 | 实用网络安全协议       |                       |      |
-| 11   | 5/5  | 无线网安全性           |                       |      |
-| 12   | 5/12 | 无线网安全性           |                       |      |
-| 13   | 5/19 | 网络边防               |                       |      |
-| 14   | 5/26 | 抗恶意软件             |                       |      |
-| 15   | 6/2  | 入侵检测系统           |                       |      |
-| 17   | 6/16 |                        |                       |      |
+| 周期 | 日期 | 内容                   | 课件                | 说明 |
+|------|------|------------------------|---------------------|------|
+| 1    | 2/25 | 网络安全概论           | [PDF](Chapter1.pdf) |      |
+| 2    | 3/3  | 网络安全概论           |                     |      |
+| 3    | 3/10 | 常规加密算法           | [PDF](Chapter2.pdf) |      |
+| 4    | 3/17 | 常规加密算法           |                     |      |
+| 5    | 3/24 | 公钥密码体系和密钥管理 |                     |      |
+| 6    | 3/31 | 公钥密码体系和密钥管理 | [PDF](Chapter3.pdf) |      |
+| 7    | 4/7  | 数据认证               |                     |      |
+| 8    | 4/14 | 数据认证               | [PDF](Chapter4.pdf) |      |
+| 9    | 4/21 | 实用网络安全协议       |                     |      |
+| 10   | 4/28 | 实用网络安全协议       |                     |      |
+| 11   | 5/5  | 无线网安全性           |                     |      |
+| 12   | 5/12 | 无线网安全性           |                     |      |
+| 13   | 5/19 | 网络边防               |                     |      |
+| 14   | 5/26 | 抗恶意软件             |                     |      |
+| 15   | 6/2  | 入侵检测系统           |                     |      |
+| 17   | 6/16 |                        |                     |      |
 
  
 
@@ -44,7 +44,7 @@ title: 网络安全技术
 实验内容：在虚拟机上按照实验讲义内容练习网络安全技术。
 
 可选内容：包括书后每章的实践练习，[SEED
-labs](<http://www.cis.syr.edu/~wedu/seed/labs.html>) 的相关实验。
+labs](http://www.cis.syr.edu/~wedu/seed/labs.html) 的相关实验。
 
 成绩
 ----
@@ -68,7 +68,7 @@ labs](<http://www.cis.syr.edu/~wedu/seed/labs.html>) 的相关实验。
 ------------
 
 文档加密软件（V1.0），使用当今先进的AES-256加密算法，可用于文件的批量加密和相应解密。该软件以海南大学为著作权人进行注册，登记号为2015SR169732。该软件仅限课堂教学及个人研究使用，下载链接是
-[文档加密软件（V1.0）](<文档加密软件包.zip>)，下载并解压后，文件夹里包含程序和使用说明文档。
+[文档加密软件（V1.0）](文档加密软件包.zip)，下载并解压后，文件夹里包含程序和使用说明文档。
 
  
 
@@ -76,14 +76,14 @@ labs](<http://www.cis.syr.edu/~wedu/seed/labs.html>) 的相关实验。
 --------
 
 -   [TED \>
-    日常生活中的网络犯罪——我们该做些什么](<http://open.163.com/movie/2014/3/3/L/M9KC5G9MO_M9KGSBV3L.html>)
+    日常生活中的网络犯罪——我们该做些什么](http://open.163.com/movie/2014/3/3/L/M9KC5G9MO_M9KGSBV3L.html)
 
--   [网易公开课](<http://c.open.163.com/search/search.htm?query=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8>)
+-   [网易公开课](http://c.open.163.com/search/search.htm?query=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8)
 
 -   [Introduction to Computer Security(presentation,
-    projects)](<http://www.securitybook.net/>)
+    projects)](http://www.securitybook.net/)
 
 -   [Introduction to Network Security: Theory and Practice
-    (slides)](<http://www.cs.uml.edu/~wang/NetSec/>)
+    (slides)](http://www.cs.uml.edu/~wang/NetSec/)
 
--   [SEED labs](<http://www.cis.syr.edu/~wedu/seed/labs.html>)
+-   [SEED labs](http://www.cis.syr.edu/~wedu/seed/labs.html)
