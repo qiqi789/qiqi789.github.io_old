@@ -27,7 +27,7 @@ title: 大数据技术（研究生专题课）
 | 6    | 3/31 | 并行分布式体系结构                 |                                                    |
 | 7    | 4/7  | Spark                              |                                                    |
 | 8    | 4/14 | 计算机体系结构和并行计算的发展趋势 |                                                    |
-| 9    | 4/21 | Scala: 结合面向对象和函数式编程    |                                                    |
+| 9    | 4/21 | 大数据智慧云与物联网的应用         |                                                    |
 | 10   | 4/28 |                                    |                                                    |
 | 11   | 5/5  |                                    |                                                    |
 | 12   | 5/12 |                                    |                                                    |
@@ -37,6 +37,9 @@ title: 大数据技术（研究生专题课）
 ----
 
 [Homepage of Kai Hwang](http://gridsec.usc.edu/hwang.html)
+
+[http://www.kdnuggets.com/ （Data mining, Analitics, Big Data, Data
+Science）](http://www.kdnuggets.com/)
 
 ### 开放数据
 
