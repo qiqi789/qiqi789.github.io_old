@@ -43,6 +43,8 @@ title: 网络安全技术
 
 实验内容：在虚拟机上按照实验讲义内容练习网络安全技术。
 
+-   [实验手册(包括lab1-lab8)](lab.zip)
+
 可选内容：包括书后每章的实践练习，[SEED
 labs](http://www.cis.syr.edu/~wedu/seed/labs.html) 的相关实验。
 
