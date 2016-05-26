@@ -77,6 +77,20 @@ labs](http://www.cis.syr.edu/~wedu/seed/labs.html) 的相关实验。
 参考资料
 --------
 
+-   [Application of Artificial Intelligence in Cyber
+    Security](http://www.cyberisk.biz/application-artificial-intelligence-in-cyber-security/)
+
+-   [WhatsApp Message Hacked By John McAfee And
+    Crew](http://cybersecurityventures.com/whatsapp-message-hacked-by-john-mcafee-and-crew/)
+
+-   [Who are the cyberwar
+    superpowers?](https://www.weforum.org/agenda/2016/05/who-are-the-cyberwar-superpowers?utm_content=buffer4493b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+-   [10 HOT STARTUPS USING ARTIFICIAL INTELLIGENCE IN CYBER
+    SECURITY](http://blog.ventureradar.com/2016/03/11/10-hot-startups-using-artificial-intelligence-in-cyber-security/)
+
+-   [DeepInstinct](http://www.deepinstinct.com/#/about-us)
+
 -   [TED \>
     日常生活中的网络犯罪——我们该做些什么](http://open.163.com/movie/2014/3/3/L/M9KC5G9MO_M9KGSBV3L.html)
 
