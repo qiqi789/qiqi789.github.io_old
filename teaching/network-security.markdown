@@ -77,6 +77,16 @@ labs](http://www.cis.syr.edu/~wedu/seed/labs.html) 的相关实验。
 参考资料
 --------
 
+-   [Virus bulletin -- covering the global threat
+    landscape](https://www.virusbulletin.com/)
+
+-   [AV-Test, the independent IT-Security
+    Institute](https://www.av-test.org/en/)
+
+-   [VirusTotal](https://www.virustotal.com/)
+
+-   [Security Week](http://www.securityweek.com/)
+
 -   [Application of Artificial Intelligence in Cyber
     Security](http://www.cyberisk.biz/application-artificial-intelligence-in-cyber-security/)
 
@@ -88,6 +98,8 @@ labs](http://www.cis.syr.edu/~wedu/seed/labs.html) 的相关实验。
 
 -   [10 HOT STARTUPS USING ARTIFICIAL INTELLIGENCE IN CYBER
     SECURITY](http://blog.ventureradar.com/2016/03/11/10-hot-startups-using-artificial-intelligence-in-cyber-security/)
+
+-   [SentinelOne](https://sentinelone.com/company/leadership-team/)
 
 -   [DeepInstinct](http://www.deepinstinct.com/#/about-us)
 
