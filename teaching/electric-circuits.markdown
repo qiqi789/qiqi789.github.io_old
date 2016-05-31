@@ -37,4 +37,13 @@ title: 电路原理
 
  
 
+参考资料
+--------
+
+-   [Faraday's Law
+    （法拉第定律）](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/farlaw.html#c1)
+
+-   [Transformer and Faraday's
+    Law](http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/transf.html#c1)
+
  
