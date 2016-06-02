@@ -87,8 +87,14 @@ labs](http://www.cis.syr.edu/~wedu/seed/labs.html) 的相关实验。
 
 -   [Security Week](http://www.securityweek.com/)
 
+-   [World economic forum -- Cyber
+    Security](https://www.weforum.org/agenda/archive/cyber-security)
+
 -   [Application of Artificial Intelligence in Cyber
     Security](http://www.cyberisk.biz/application-artificial-intelligence-in-cyber-security/)
+
+-   [Applying Deep Learning to
+    Cybersecurity](http://blogs.infosecurityeurope.com/applying-deep-learning-to-cybersecurity/)
 
 -   [WhatsApp Message Hacked By John McAfee And
     Crew](http://cybersecurityventures.com/whatsapp-message-hacked-by-john-mcafee-and-crew/)
@@ -102,6 +108,9 @@ labs](http://www.cis.syr.edu/~wedu/seed/labs.html) 的相关实验。
 -   [SentinelOne](https://sentinelone.com/company/leadership-team/)
 
 -   [DeepInstinct](http://www.deepinstinct.com/#/about-us)
+
+-   [patternEx -- An Artificial Intelligence Approach to
+    InfoSec](https://www.patternex.com/technology)
 
 -   [TED \>
     日常生活中的网络犯罪——我们该做些什么](http://open.163.com/movie/2014/3/3/L/M9KC5G9MO_M9KGSBV3L.html)
