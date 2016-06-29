@@ -5,7 +5,7 @@ title: AI course
 
 <ul class="breadcrumb">
 <li><a href="/teaching/">Teaching</a> <span class="divider"></span></li>
-<li><a href="/teaching/AI/">AI</a> <span class="divider"></span></li> 
+<li><a href="/teaching/AI/">AI</a> <span class="divider"></span></li>
 </ul>
 
 ## 人工智能 （2015年秋季学期）
@@ -78,15 +78,15 @@ title: AI course
 
 |课后作业+课堂测验| 20% |
 |课堂考勤 | 10% |
-|期末考试 | 70%| 
+|期末考试 | 70%|
 | 总共 | 100% |
-  
+
 #### 准则规范
 作业都应该通过自己的思考和努力完成，不允许作业抄袭、考试作弊。作业晚交将被扣掉该次作业总分数的15%。
 
 #### 课本参考：
   - Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell and Peter Norvig. Prentice Hall, 2009.
-  
+
 #### 课程交流：
 我的电子邮件地址是：qqi@hainu.edu.cn
 
@@ -95,6 +95,7 @@ title: AI course
 
 ### 参考
 
+- [Artificial intelligence just made a huge leap in warfare](http://www.msn.com/en-us/news/technology/artificial-intelligence-just-made-a-huge-leap-in-warfare/ar-AAhJK16?ocid=UE01DHP)
 - [Stephen Hawking warns artificial intelligence could end mankind](http://www.bbc.com/news/technology-30290540)
 - [The Three Breakthroughs That Have Finally Unleashed AI on the World](http://www.wired.com/2014/10/future-of-artificial-intelligence)
 - [Tools for Learning Artificial Intelligence](http://www.aispace.org/index.shtml)
@@ -124,5 +125,3 @@ dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
