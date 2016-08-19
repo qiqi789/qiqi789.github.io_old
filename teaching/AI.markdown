@@ -3,19 +3,12 @@ layout: default
 title: AI course
 ---
 
-<<<<<<< HEAD
-=======
-<ul class="breadcrumb">
-<li><a href="/teaching/">Teaching</a> <span class="divider"></span></li>
-<li><a href="/teaching/AI/">AI</a> <span class="divider"></span></li>
-</ul>
->>>>>>> origin/master
 
-## 人工智能 （2015年秋季学期）
+## 人工智能 （2016年秋季学期）
 
 ### 更新通知
 
-#### 2015/9/1
+#### 2016/8/19
 
 > 欢迎来到人工智能导论课，2016年秋季学期!
 
@@ -70,11 +63,6 @@ title: AI course
 |期末考试 | 70%|
 | 总共 | 100% |
 
-<<<<<<< HEAD
-=======
-#### 准则规范
-作业都应该通过自己的思考和努力完成，不允许作业抄袭、考试作弊。作业晚交将被扣掉该次作业总分数的15%。
->>>>>>> origin/master
 
 #### 课本参考：
   - Artificial Intelligence: A Modern Approach, 3rd edition, Stuart J. Russell and Peter Norvig. Prentice Hall, 2009.
@@ -98,25 +86,3 @@ title: AI course
 - [Machine intellience research institute](http://intelligence.org)
 - [Less Wrong Discussion](http://lesswrong.com/r/discussion/)
 - [I, algorithm: A new dawn for artificial intelligence](http://www.cs.washington.edu/news/TheNewAI_NewScientist.pdf)
-<<<<<<< HEAD
-=======
-
-
-### 讨论板
-如果有问题或建议，可在下面留言。
-
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-var disqus_shortname = 'hrsq'; // required: replace example with your forum shortname
-
-/* * * DON'T EDIT BELOW THIS LINE * * */
-(function() {
-var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
->>>>>>> origin/master
