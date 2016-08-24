@@ -77,6 +77,13 @@ title: AI course
 
 ### 参考
 
+-   [Deep Learning Helps to Map Mars and Analyze its Surface
+    Chemistry](http://www.umass.edu/newsoffice/article/deep-learning-helps-map-mars-and-analyze)
+
+-   [Software That Beat World’s Best Human ‘Go’ Player Has Roots in UMass
+    Amherst Computer
+    Science](http://www.umass.edu/newsoffice/article/software-beat-world%E2%80%99s-best-human-%E2%80%98go%E2%80%99)
+
 -   [Machine learning and Data mining -- CPSC
     340](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
 
