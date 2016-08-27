@@ -79,6 +79,9 @@ title: AI course
 
 ### 参考
 
+-   [Computational Machine Learning - NYU
+    course](http://www.harchaoui.eu/zaid/teaching/nyu/fall2015/)
+
 -   [Deep Learning Helps to Map Mars and Analyze its Surface
     Chemistry](http://www.umass.edu/newsoffice/article/deep-learning-helps-map-mars-and-analyze)
 
