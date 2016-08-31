@@ -92,6 +92,8 @@ title: AI course
 -   [Machine learning and Data mining -- CPSC
     340](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
 
+-   [Techcrunch - AI news](https://techcrunch.com/artificial-intelligence-2/)
+
 -   [Artificial intelligence just made a huge leap in
     warfare](http://www.msn.com/en-us/news/technology/artificial-intelligence-just-made-a-huge-leap-in-warfare/ar-AAhJK16?ocid=UE01DHP)
 
