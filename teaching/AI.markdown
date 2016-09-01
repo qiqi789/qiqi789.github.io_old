@@ -82,17 +82,19 @@ title: AI course
 -   [Computational Machine Learning - NYU
     course](http://www.harchaoui.eu/zaid/teaching/nyu/fall2015/)
 
+-   [Machine learning and Data mining -- CPSC
+    340](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
+
+-   [Techcrunch - AI news](https://techcrunch.com/artificial-intelligence-2/)
+
+- [How Artificial Intelligence is Reshaping Management](https://cmr.berkeley.edu/blog/2016/6/ai/)
+
 -   [Deep Learning Helps to Map Mars and Analyze its Surface
     Chemistry](http://www.umass.edu/newsoffice/article/deep-learning-helps-map-mars-and-analyze)
 
 -   [Software That Beat World’s Best Human ‘Go’ Player Has Roots in UMass
     Amherst Computer
     Science](http://www.umass.edu/newsoffice/article/software-beat-world%E2%80%99s-best-human-%E2%80%98go%E2%80%99)
-
--   [Machine learning and Data mining -- CPSC
-    340](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
-
--   [Techcrunch - AI news](https://techcrunch.com/artificial-intelligence-2/)
 
 -   [Artificial intelligence just made a huge leap in
     warfare](http://www.msn.com/en-us/news/technology/artificial-intelligence-just-made-a-huge-leap-in-warfare/ar-AAhJK16?ocid=UE01DHP)
