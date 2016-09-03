@@ -8,6 +8,10 @@ title: AI course
 
 ### 更新通知
 
+#### 2016/9/3
+
+>  推荐一个多智能体协作演化建模软件 [NetLogo](http://ccl.northwestern.edu/netlogo/index.shtml); 可以下载[中文手册](http://ccl.northwestern.edu/netlogo/4.0.4/docs/NetLogo_manual_chinese.pdf)
+
 #### 2016/8/19
 
 >   欢迎来到人工智能导论课，2016年秋季学期!
