@@ -85,6 +85,12 @@ title: AI course
 
 ### 参考
 
+-   [LiveBook: Optimization models and
+    applications](http://livebooklabs.com/keeppies/c5a5868ce26b8125)
+
+-   [HyperText-book: Optimization Models -
+    Berkeley](https://inst.eecs.berkeley.edu/~ee127a/book/login/l_intro_main.html)
+
 -   [Computational Machine Learning - NYU
     course](http://www.harchaoui.eu/zaid/teaching/nyu/fall2015/)
 
