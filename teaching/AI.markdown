@@ -8,6 +8,11 @@ title: AI course
 
 ### 更新通知
 
+#### 2016/11/7
+
+> 以往作业和答案已贴出，可帮助复习期末考试
+> [HW1](HW1.pdf), [HW1_sol](HW1_solution_publish.pdf);[HW2](HW2.pdf), [HW2_sol](HW2_solution_publish.pdf);[HW3](HW3.pdf), [HW3_sol](HW3_solution_publish.pdf)
+
 #### 2016/9/3
 
 >   推荐一个多智能体协作演化建模软件
@@ -41,7 +46,7 @@ title: AI course
 | 13   | 11/17 | 贝叶斯网络：语法和语义           | 第14章第1-3节          | [PDF](lecture13.pdf) |      |                                         |
 | 14   | 11/24 | 贝叶斯网络：精确推断             | 第14章第3节            | [PDF](lecture14.pdf) |      |                                         |
 | 15   | 12/1  | 贝叶斯网络：近似推断             | 第14章第4节            | [PDF](lecture15.pdf) |      |                                         |
-| 16   | 12/8  | 课程复习                         |                        |                      |      |                                         |
+| 16   | 12/8  | 期末考试                         |                        |                      |      |                                         |
 
 ### 课程信息
 
