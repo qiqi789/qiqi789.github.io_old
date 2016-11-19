@@ -1,6 +1,6 @@
 ---
 title: 机器学习
-laylout: post
+layout: post
 ---
 
 参考课程
@@ -23,4 +23,4 @@ Python
 People
 --------
 
--[Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais/)
+- [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais/)
