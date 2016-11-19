@@ -4,11 +4,12 @@ layout: default
 
 <div id="content">
 
-
+{% if page.tags != empty %}
 <h1>{{ page.title }}</h1>
 <div class="tags">
     Tags: {{ page.tags }}.
 </div>
+{% endif %}
 
 {{ content }}
 
@@ -35,7 +36,7 @@ layout: default
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'hrsq'; // required: replace example with your forum shortname
-    
+
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
