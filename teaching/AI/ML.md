@@ -1,5 +1,6 @@
 ---
 title: 机器学习
+laylout: post
 ---
 
 参考课程
@@ -7,5 +8,19 @@ title: 机器学习
 
 -   [Machine learning and computational statistics, David Rosenberg,
     NYU](https://davidrosenberg.github.io/ml2016/)
+-   [Machine learning, Stanford](http://cs229.stanford.edu/materials.html)
+-   [Advanced topics in machine learning,Andreas Krause, Caltech](http://courses.cms.caltech.edu/cs253/)
 
--    
+Python
+--------
+
+- [Python Language Reference, 3.5](https://docs.python.org/3.5/reference/index.html)
+- [Python Numpy Tutorial, Stanford](http://cs231n.github.io/python-numpy-tutorial)
+- [scikit-learn](http://scikit-learn.org/stable/index.html)
+- [CVXOPT](http://cvxopt.org/)
+- [CVX, matlab-based](http://cvxr.com/)
+
+People
+--------
+
+-[Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais/)
