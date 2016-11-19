@@ -10,8 +10,10 @@ title: AI course
 
 #### 2016/11/7
 
-> 以往作业和答案已贴出，可帮助复习期末考试
-> [HW1](HW1.pdf), [HW1_sol](HW1_solution_publish.pdf);[HW2](HW2.pdf), [HW2_sol](HW2_solution_publish.pdf);[HW3](HW3.pdf), [HW3_sol](HW3_solution_publish.pdf)
+>   以往作业和答案已贴出，可帮助复习期末考试 [HW1](HW1.pdf),
+>   [HW1\_sol](HW1_solution_publish.pdf);[HW2](HW2.pdf),
+>   [HW2\_sol](HW2_solution_publish.pdf);[HW3](HW3.pdf),
+>   [HW3\_sol](HW3_solution_publish.pdf)
 
 #### 2016/9/3
 
@@ -144,3 +146,5 @@ title: AI course
 
 -   [I, algorithm: A new dawn for artificial
     intelligence](http://www.cs.washington.edu/news/TheNewAI_NewScientist.pdf)
+
+-   [machine learning resources](ML/)
