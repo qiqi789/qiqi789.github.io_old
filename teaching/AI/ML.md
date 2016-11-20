@@ -18,6 +18,7 @@ Python
 - [Python Language Reference, 3.5](https://docs.python.org/3.5/reference/index.html)
 - [SciPy.org Documentation, Numpy, Scipy, Matplotlib](http://www.scipy.org/docs.html)
 - [Python Numpy Tutorial, Stanford](http://cs231n.github.io/python-numpy-tutorial)
+- [Numpy for matlab users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)
 - [scikit-learn](http://scikit-learn.org/stable/index.html)
 - [CVXOPT](http://cvxopt.org/)
 - [CVX, matlab-based](http://cvxr.com/)
