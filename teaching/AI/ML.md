@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 机器学习
-tag: machine learning
+tags: machine learning
 ---
 
 参考课程
