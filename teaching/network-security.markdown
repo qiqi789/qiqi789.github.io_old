@@ -77,6 +77,24 @@ labs](http://www.cis.syr.edu/~wedu/seed/labs.html) 的相关实验。
 参考资料
 --------
 
+-   [国家互联网应急中心](http://www.cert.org.cn/)
+
+-   [Microsoft's security development lifecycle
+    (SDL)](https://www.microsoft.com/en-us/sdl/default.aspx)
+
+-   [WebGoat, a deliberately insecure web application maintained by OWASP
+    designed to teach web application security
+    lessons](https://github.com/WebGoat/WebGoat)
+
+-   [cert.org, SEI, CMU](www.cert.org)
+
+-   [netstat, 网络连接扫描软件](https://linux.cn/article-2434-1.html)
+
+-   [ 科来网络安全分析系统（免费版）](http://www.colasoft.com.cn/)
+
+-   [Snort, an open-source, free and lightweight network intrusion detection
+    system (NIDS) software](https://www.snort.org/)
+
 -   [Virus bulletin -- covering the global threat
     landscape](https://www.virusbulletin.com/)
 
