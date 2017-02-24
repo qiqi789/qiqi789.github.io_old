@@ -5,22 +5,22 @@ title: 大数据技术（研究生专题课）
 
  
 
-大数据技术(Big data and machine learning) （2017年春季学期--研究生专题课）
---------------------------------------------------------------------------
+大数据技术 （2016年春季学期--研究生专题课）
+-------------------------------------------
 
 课程信息
 --------
 
-时间：第2-12周；第1，2，3节课，每周五
+时间：第2-13周；第2，3，4节课，每周四
 
-地点：3-501
+地点：4-305
 
 课程安排
 --------
 
 | 周期 | 日期 | 内容                                                                                 | 幻灯片                                             |
 |------|------|--------------------------------------------------------------------------------------|----------------------------------------------------|
-| 2    | 3/3  | Machine learning and big data                                                        |                                                    |
+| 2    | 3/3  |                                                                                      |                                                    |
 | 3    | 3/10 | Hadoop,MapReduce                                                                     |                                                    |
 | 4    | 3/17 | BigTable,HBase                                                                       |                                                    |
 | 5    | 3/24 | NoSQL 数据库                                                                         | [PDF1](NoSQL.pdf),[PDF2](Presentation_MongoDB.pdf) |
@@ -44,8 +44,7 @@ Science）](http://www.kdnuggets.com/)
 [Seven steps machine learning with
 python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
-开放数据
---------
+### 开放数据
 
 <https://github.com/caesar0301/awesome-public-datasets>
 
@@ -53,7 +52,6 @@ python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.htm
 
 <http://webscope.sandbox.yahoo.com/#datasets>
 
-以往课程网页
-------------
+ 
 
--   [2016](2016/big-data/)
+ 
