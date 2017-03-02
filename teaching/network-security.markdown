@@ -88,6 +88,9 @@ labs](http://www.cis.syr.edu/~wedu/seed/labs.html) 的相关实验。
 
 -   [科来网络安全分析系统（免费版）](http://www.colasoft.com.cn/)
 
+-   [ShieldsUP -- free vulnerable ports
+    profiling](https://www.grc.com/x/ne.dll?bh0bkyd2)
+
 -   [Snort, an open-source, free and lightweight network intrusion detection
     system (NIDS) software](https://www.snort.org/)
 
