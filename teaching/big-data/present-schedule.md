@@ -38,24 +38,24 @@ XRDS, 2016. 22(4): p. 56-58.
 
 匡汉宝
 
-157.   Assunção, M.D., et al., Big Data computing and clouds: Trends and future
-directions. Journal of Parallel and Distributed Computing, 2015. 79–80: p. 3-15.
+1.  Assunção, M.D., et al., Big Data computing and clouds: Trends and future
+    directions. Journal of Parallel and Distributed Computing, 2015. 79–80: p.
+    3-15.
 
-179.   马建光 and 姜巍, 大数据的概念、特征及其应用. 国防科技, 2013(02): p.
-10-17.
+2.  马建光 and 姜巍, 大数据的概念、特征及其应用. 国防科技, 2013(02): p. 10-17.
 
-198. 窦万春 and 江澄, 大数据应用的技术体系及潜在问题. 中兴通讯技术, 2013(04): p.
-8-16.
+3.  窦万春 and 江澄, 大数据应用的技术体系及潜在问题. 中兴通讯技术, 2013(04): p.
+    8-16.
 
-210.  涂新莉, 刘波, and 林伟伟, 大数据研究综述. 计算机应用研究, 2014(06): p.
-1612-1616+1623.
+4.  涂新莉, 刘波, and 林伟伟, 大数据研究综述. 计算机应用研究, 2014(06): p.
+    1612-1616+1623.
 
  
 
 刘志辉
 
-263. 余凯, et al., 深度学习的昨天、今天和明天. 计算机研究与发展, 2013(09): p.
-1799-180
+1.  余凯, et al., 深度学习的昨天、今天和明天. 计算机研究与发展, 2013(09): p.
+    1799-180
 
  
 
@@ -96,9 +96,8 @@ v.29(03): p. 323-328.
 
 李梦洋
 
-336. Domingos, P.M., A few useful things to know about machine learning. Commun.
-ACM, 2012. 55(10): p. 78-87.  
-
+1.  Domingos, P.M., A few useful things to know about machine learning. Commun.
+    ACM, 2012. 55(10): p. 78-87.
 
 吴庆洲
 
@@ -121,3 +120,47 @@ and 董力, 大数据背景下医学数据挖掘的研究进展及应用. 中
 
 250. 周攀 and 王开正, 数据挖掘的研究进展及在临床医学中的应用. 国际检验医学杂志,
 2012. v.33(10): p. 1230-1232.
+
+ 
+
+欧明望
+
+1.  马建光 and 姜巍, 大数据的概念、特征及其应用. 国防科技, 2013(02): p. 10-17.
+
+2.  Blum, A., On-line Algorithms in Machine Learning. 1996. p. 306-325.
+
+3.  Domingos, P., A few useful things to know about machine learning. Commun.
+    ACM, 2012. 55(10): p. 78-87.
+
+ 
+
+陈柔如
+
+蒋昌俊, 丁., 王俊丽, 闫春钢, 面向互联网金融行业的大数据资源服务平台. 科学通报,
+2014. 59(36): p. 3547-3553.
+
+ 
+
+张大卫
+
+184.     陈全 and 邓倩妮, 云计算及其关键技术. 计算机应用, 2009(09)
+
+ 
+
+高驰
+
+226. 李国杰 and 程学旗,
+大数据研究:未来科技及经济社会发展的重大战略领域——大数据的研究现状与科学思考.
+中国科学院院刊, 2012(06): p. 647-657.
+
+182. 雷秀丽, et al., “天河一号”大规模科学与工程计算应用. 计算机工程与科学,
+2012(08): p. 176-183.
+
+190. 邹贤才, et al., OpenMP并行计算在卫星重力数据处理中的应用. 测绘学报,
+2010(06): p. 636-641.
+
+ 
+
+ 
+
+ 
