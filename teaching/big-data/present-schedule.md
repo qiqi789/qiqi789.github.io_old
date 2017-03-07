@@ -5,7 +5,6 @@
 
 洪江水
 
-  
 7.Truong, L., C. Markley, and A. Fox, An Extensible Framework for Composing
 Stencils with Common Scientific Computing Patterns, in Proceedings of the Second
 Workshop on Optimizing Stencil Computations. 2014, ACM: Portland, Oregon, USA.
@@ -18,3 +17,107 @@ code-generating DSLs. Commun. ACM, 2014. 57(6): p. 56-63.
 Training Time. 2012. p. 1019-1027.
 
  
+
+张晨
+
+181.顾荣, et al., Hadoop MapReduce短作业执行性能优化. 计算机研究与发展,
+2014(06): p. 1270-1280.
+
+ 
+
+李弘
+
+34.    Mart, et al., TensorFlow: a system for large-scale machine learning, in
+Proceedings of the 12th USENIX conference on Operating Systems Design and
+Implementation. 2016, USENIX Association: Savannah, GA, USA. p. 265-283.
+
+160.   Saxena, A., Convolutional neural networks: an illustration in TensorFlow.
+XRDS, 2016. 22(4): p. 56-58.
+
+ 
+
+匡汉宝
+
+157.   Assunção, M.D., et al., Big Data computing and clouds: Trends and future
+directions. Journal of Parallel and Distributed Computing, 2015. 79–80: p. 3-15.
+
+179.   马建光 and 姜巍, 大数据的概念、特征及其应用. 国防科技, 2013(02): p.
+10-17.
+
+198. 窦万春 and 江澄, 大数据应用的技术体系及潜在问题. 中兴通讯技术, 2013(04): p.
+8-16.
+
+210.  涂新莉, 刘波, and 林伟伟, 大数据研究综述. 计算机应用研究, 2014(06): p.
+1612-1616+1623.
+
+ 
+
+刘志辉
+
+263. 余凯, et al., 深度学习的昨天、今天和明天. 计算机研究与发展, 2013(09): p.
+1799-180
+
+ 
+
+高原
+
+266.于勐, et al., 并行面向对象语言综述. 软件学报, 2001. 12(6): p. 822.
+
+ 
+
+姜懿芮
+
+184.陈全 and 邓倩妮, 云计算及其关键技术. 计算机应用, 2009(09).
+
+ 
+
+张瑞芝
+
+113. LeCun, Y., Y. Bengio, and G. Hinton, Deep learning. Nature, 2015.
+521(7553): p. 436-444.
+
+183. 陈功, et al., 数据挖掘与医学数据资源开发利用. 北京生物医学工程, 2010.
+v.29(03): p. 323-328.
+
+ 
+
+郑超
+
+大数据技术—大数据的概念、特征及其应用
+
+ 
+
+陶方舰
+
+刘持标, et al., 物联网应用中基于非法接入点的无线拒绝服务攻击研究.
+网络安全技术与应用, 2014(07): p. 166-170.
+
+ 
+
+李梦洋
+
+336. Domingos, P.M., A few useful things to know about machine learning. Commun.
+ACM, 2012. 55(10): p. 78-87.  
+
+
+吴庆洲
+
+基于共同用户的跨网络分析_社交媒体大数据中的多源问题_桑基韬.
+
+基于Hadoop的贝叶斯过滤MapReduce模型_曾青华
+
+ 
+
+王子尧
+
+193. 迪莉娅, 我国大数据产业发展研究. 科技进步与对策, 2014(04): p. 56-60.
+
+200.    秦文哲, 陈进,
+and 董力, 大数据背景下医学数据挖掘的研究进展及应用. 中国胸心血管外科临床杂志,
+2016. v.23(01): p. 55-60.
+
+247. 姚刚, 张晓祥, and 汪火明, 基于WEB的医学数据挖掘集成. 生物医学工程学杂志,
+2014. v.31(03): p. 563-566.
+
+250. 周攀 and 王开正, 数据挖掘的研究进展及在临床医学中的应用. 国际检验医学杂志,
+2012. v.33(10): p. 1230-1232.
