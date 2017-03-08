@@ -26,6 +26,7 @@
 | 20 | 高原   |
 | 21 | 高驰   |
 | 22 | 陈柔如 |
+| 23 | 曹瑞   |
 
  
 
@@ -253,6 +254,11 @@ Domingos, P., A few useful things to know about machine learning. Commun. ACM,
     1-1.
 
  
+
+曹瑞
+
+窦万春 and 江澄, 大数据应用的技术体系及潜在问题. 中兴通讯技术, 2013(04): p.
+8-16.
 
  
 
