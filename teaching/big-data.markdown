@@ -67,6 +67,9 @@ Science）](http://www.kdnuggets.com/)
 [Seven steps machine learning with
 python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
+[Spark - decision trees for handwritten digit
+recognition](https://docs.cloud.databricks.com/docs/latest/featured_notebooks/DecisionTrees-Example.html)
+
 开放数据
 --------
 
