@@ -56,6 +56,9 @@ title: 大数据技术（研究生专题课）
 参考
 ----
 
+[machine learning and data
+visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
 [Homepage of Kai Hwang](http://gridsec.usc.edu/hwang.html)
 
 [http://www.kdnuggets.com/ （Data mining, Analitics, Big Data, Data
