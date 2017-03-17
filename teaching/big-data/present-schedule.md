@@ -5,14 +5,14 @@
 
 | 顺序 | 演讲人 | 题目                                                 | 幻灯片                             |
 |------|--------|------------------------------------------------------|------------------------------------|
-| 1    | 郑超   | 大数据的概念、特征及其应用                           | [PPT](review-ppt/zhengchao.pptx)   |
-| 2    | 张霞文 | 数据挖掘与医学数据资源开发利用                       | [PPT](review-ppt/zhangxiawen.pptx) |
-| 3    | 张瑞芝 | 大数据技术                                           | [PPT](review-ppt/zhangruizhi.ppt)  |
+| 1    | 郑超   | 大数据的概念、特征及其应用                           | [PPT](present-schedule/zhengchao.pptx)   |
+| 2    | 张霞文 | 数据挖掘与医学数据资源开发利用                       | [PPT](present-schedule/zhangxiawen.pptx) |
+| 3    | 张瑞芝 | 大数据技术                                           | [PPT](present-schedule/zhangruizhi.ppt)  |
 | 4    | 张大卫 |                                                      |                                    |
-| 5    | 张晨   | HadoopMapReduce 短作业执行性能优化                   | [PPT](review-ppt/zhangchen.pptx)   |
-| 6    | 吴庆洲 | 基于共同用户的跨网络分析: 社交媒体大数据中的多源问题 | [PPT](review-ppt/wuqingzhou.pptx)  |
-| 7    | 王子尧 | 数据挖掘的研究进展及在临床医学中的应用               | [PPT](review-ppt/wangziyao.pptx)   |
-| 8    | 陶方舰 | 物联网应用中基于非法接入点的无线拒绝服务攻击研究     | [PPT](review-ppt/taofangjian.pptx) |
+| 5    | 张晨   | HadoopMapReduce 短作业执行性能优化                   | [PPT](present-schedule/zhangchen.pptx)   |
+| 6    | 吴庆洲 | 基于共同用户的跨网络分析: 社交媒体大数据中的多源问题 | [PPT](present-schedule/wuqingzhou.pptx)  |
+| 7    | 王子尧 | 数据挖掘的研究进展及在临床医学中的应用               | [PPT](present-schedule/wangziyao.pptx)   |
+| 8    | 陶方舰 | 物联网应用中基于非法接入点的无线拒绝服务攻击研究     | [PPT](present-schedule/taofangjian.pptx) |
 | 9    | 欧明望 |                                                      |                                    |
 | 10   | 罗竞宇 |                                                      |                                    |
 | 11   | 龙宇   |                                                      |                                    |
