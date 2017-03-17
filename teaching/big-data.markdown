@@ -28,8 +28,8 @@ title: 大数据技术（研究生专题课）
 
 文献调研汇报从第4周开始。
 
-大数据竞赛 
------------
+大数据竞赛
+----------
 
 [大数据挑战赛](http://www.c4top.org/)
 
@@ -61,19 +61,23 @@ title: 大数据技术（研究生专题课）
 参考
 ----
 
-[machine learning and data
-visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+-   [machine learning and data
+    visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
-[Homepage of Kai Hwang](http://gridsec.usc.edu/hwang.html)
+-   [Homepage of Kai Hwang](http://gridsec.usc.edu/hwang.html)
 
-[http://www.kdnuggets.com/ （Data mining, Analitics, Big Data, Data
-Science）](http://www.kdnuggets.com/)
+-   [http://www.kdnuggets.com/ （Data mining, Analitics, Big Data, Data
+    Science）](http://www.kdnuggets.com/)
 
-[Seven steps machine learning with
-python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
+-   [Seven steps machine learning with
+    python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
-[Spark - decision trees for handwritten digit
-recognition](https://docs.cloud.databricks.com/docs/latest/featured_notebooks/DecisionTrees-Example.html)
+-   [Spark - decision trees for handwritten digit
+    recognition](https://docs.cloud.databricks.com/docs/latest/featured_notebooks/DecisionTrees-Example.html)
+
+-   [Scala programming language website](http://www.scala-lang.org/)
+
+-   [Scala center](https://scala.epfl.ch/)
 
 开放数据
 --------
