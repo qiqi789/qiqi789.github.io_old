@@ -79,6 +79,12 @@ title: 大数据技术（研究生专题课）
 
 -   [Scala center](https://scala.epfl.ch/)
 
+-   [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais/)
+
+-   [Ben Recht](https://people.eecs.berkeley.edu/~brecht/)
+
+-   [Jorge Nocedal](http://users.iems.northwestern.edu/~nocedal)
+
 开放数据
 --------
 
