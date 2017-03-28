@@ -46,6 +46,8 @@ title: 电路原理
 -   [Transformer and Faraday's
     Law](http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/transf.html#c1)
 
+##  数学应用
+- [用Mathematica求解线性方程组](solve_linear_equations.html)
  
 
 以往课程网页
