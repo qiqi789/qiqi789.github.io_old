@@ -15,12 +15,12 @@
 | 8    | 陶方舰 | 物联网应用中基于非法接入点的无线拒绝服务攻击研究     | [PPT](taofangjian.pptx) |
 | 9    | 欧明望 | A few useful things to know about machine learning   | [PPT](ou.pptx)          |
 | 10   | 罗竞宇 | 数据挖掘在医学上的应用                               | [PPT](luo.pptx)         |
-| 11   | 龙宇   |                                                      |                         |
+| 11   | 龙宇   | 机器学习在遗传学和基因组学中的应用                   | [PPT](longyu.pptx)      |
 | 12   | 卡雅   | Bitcoin                                              | [PPT](kaya.ppt)         |
 | 13   | 刘志辉 | 深度学习                                             | [PPT](liuzhihui.ppt)    |
 | 14   | 李梦洋 | 大数据环境下并行计算模型的研究进展                   | [PPT](limengyang.pptx)  |
-| 15   | 李弘   |                                                      |                         |
-| 16   | 匡汉宝 |                                                      |                         |
+| 15   | 李弘   | CNN and TensorFlow                                   | [PPT](TensorFlow.pptx)  |
+| 16   | 匡汉宝 | 大数据研究综述                                       | [PPT](kuanghanbao.pptx) |
 | 17   | 姜懿芮 |                                                      |                         |
 | 18   | 胡建政 |                                                      |                         |
 | 19   | 洪江水 |                                                      |                         |
