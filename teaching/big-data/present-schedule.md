@@ -21,14 +21,14 @@
 | 14   | 李梦洋 | 大数据环境下并行计算模型的研究进展                   | [PPT](limengyang.pptx)  |
 | 15   | 李弘   | CNN and TensorFlow                                   | [PPT](TensorFlow.pptx)  |
 | 16   | 匡汉宝 | 大数据研究综述                                       | [PPT](kuanghanbao.pptx) |
-| 17   | 姜懿芮 |                                                      |                         |
-| 18   | 胡建政 |                                                      |                         |
+| 17   | 姜懿芮 | 一种车辆识别的快速学习算法                           | [PPT](jiangyirui.pptx)  |
+| 18   | 胡建政 | 基于云计算及数据挖掘技术的海量数据处理研究           | [PPT](hujianzheng.pptx) |
 | 19   | 洪江水 |                                                      |                         |
-| 20   | 郭威   |                                                      |                         |
+| 20   | 郭威   | 网络大数据：现状与展望                               | [PPT](guowei.pptx)      |
 | 21   | 高原   |                                                      |                         |
 | 22   | 高驰   |                                                      |                         |
 | 23   | 陈柔如 |                                                      |                         |
-| 24   | 曹瑞   |                                                      |                         |
+| 24   | 曹瑞   | 大数据应用的技术体系及潜在问题                       | [PPT](caorui.ppt)       |
 
  
 
