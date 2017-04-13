@@ -61,6 +61,9 @@ title: 大数据技术（研究生专题课）
 参考
 ----
 
+-   [Big Data Analysis with Scala and Spark, on
+    Coursera](https://www.coursera.org/learn/scala-spark-big-data/home/welcome)
+
 -   [machine learning and data
     visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
