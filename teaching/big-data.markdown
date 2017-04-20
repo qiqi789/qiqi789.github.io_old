@@ -43,20 +43,20 @@ title: 大数据技术（研究生专题课）
 课程安排（有可能改变）
 ----------------------
 
-| 周期 | 日期 | 内容                                                                                 | 幻灯片 |
-|------|------|--------------------------------------------------------------------------------------|--------|
-| 2    | 3/3  | Hadoop,MapReduce                                                                     |        |
-| 3    | 3/10 | Spark                                                                                |        |
-| 4    | 3/17 | 文献调研报告                                                                         |        |
-| 5    | 3/24 | 文献调研报告                                                                         |        |
-| 6    | 3/31 | Machine learning and big data                                                        |        |
-| 7    | 4/7  | Machine learning                                                                     |        |
-| 8    | 4/14 | Machine learning                                                                     |        |
-| 9    | 4/21 | Storm; 大数据智慧云与物联网的应用                                                    |        |
-| 10   | 4/28 | Distributed and Cloud Computing: Enabling Technologies and Distributed System Models |        |
-| 11   | 5/5  | Computer Clusters for Scalable parallel Computing                                    |        |
-| 12   | 5/12 | 课程项目汇报                                                                         |        |
-| 13   | 5/19 | 课程项目汇报                                                                         |        |
+| 周期 | 日期 | 内容                                   | 幻灯片 |
+|------|------|----------------------------------------|--------|
+| 2    | 3/3  | Hadoop,MapReduce                       |        |
+| 3    | 3/10 | Spark                                  |        |
+| 4    | 3/17 | 文献调研报告                           |        |
+| 5    | 3/24 | 文献调研报告                           |        |
+| 6    | 3/31 | 文献调研报告                           |        |
+| 7    | 4/7  | 文献调研报告                           |        |
+| 8    | 4/14 | Big Data Analysis with Scala and Spark |        |
+| 9    | 4/21 | Big Data Analysis with Scala and Spark |        |
+| 10   | 4/28 | Big Data Analysis with Scala and Spark |        |
+| 11   | 5/5  | Big Data Analysis with Scala and Spark |        |
+| 12   | 5/12 | 课程项目汇报                           |        |
+| 13   | 5/19 | 课程项目汇报                           |        |
 
 参考
 ----
