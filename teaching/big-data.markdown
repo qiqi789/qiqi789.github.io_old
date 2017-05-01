@@ -61,6 +61,7 @@ title: 大数据技术（研究生专题课）
 参考
 ----
 - [K-Means clustering visualization](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+- [Bigdata -- Kmeans](http://alaska.epfl.ch/~dockermoocs/bigdata/kmeans/kmeans.html)
 
 -   [Big Data Analysis with Scala and Spark, on
     Coursera](https://www.coursera.org/learn/scala-spark-big-data/home/welcome)
