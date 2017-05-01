@@ -55,8 +55,8 @@ title: 大数据技术（研究生专题课）
 | 9    | 4/21 | Big Data Analysis with Scala and Spark |        |
 | 10   | 4/28 | Big Data Analysis with Scala and Spark |        |
 | 11   | 5/5  | Big Data Analysis with Scala and Spark |        |
-| 12   | 5/12 | 课程项目汇报                           |        |
-| 13   | 5/19 | 课程项目汇报                           |        |
+| 12   | 5/12 | Big Data Analysis with Scala and Spark |        |
+| 13   | 5/19 | Machine learning                       |        |
 
 参考
 ----
