@@ -30,6 +30,16 @@ title: 网络安全技术
 
  
 
+课程设计汇报
+------------
+
+-   Security in open environment -- IEEE 802.11 issues
+
+    -   许若梦， [幻灯片PDF](Security_in_open_environment_Xu.pdf)
+
+ 
+-
+
 实验
 ----
 
@@ -70,6 +80,9 @@ labs](http://www.cis.syr.edu/~wedu/seed/labs.html) 的相关实验。
 
 参考资料
 --------
+
+-   [Machine Learning & Cyber Security --
+    resources](http://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html)
 
 -   [国家互联网应急中心](http://www.cert.org.cn/)
 
