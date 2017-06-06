@@ -116,7 +116,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 ### Conferences
 
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Euro-Par](http://www.europar.org)
-	* [Euro-Par 2014: Parallel Processing](http://www.springer.com/us/book/9783319098722) 
+	* [Euro-Par 2014: Parallel Processing](http://www.springer.com/us/book/9783319098722)
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [SC conference series(International Conference for High Performance Computing, Networking, Storage, and Analysis)](http://supercomputing.org)
 	* [SC'14 Proceedings](http://dl.acm.org/citation.cfm?id=2683593)
 * [Multicore venues](http://mcg.cs.tau.ac.il/Venues)
@@ -124,7 +124,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * ACM SIGPLAN Symposium on principles and practice of parallel programming
 * Annual symposium on cloud computing
 * ACM SIGPLAN-SIGACT Symposium on principles of programming languages
-	
+
 
 <a name="DL-SP" />
 
@@ -142,10 +142,10 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 <a name="CSCD" />
 
-### Chinese Science Citation Database 
+### Chinese Science Citation Database
 
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [中国科学院文献情报中心（国家科学图书馆)](http://www.las.ac.cn) (校园订阅)
-* [中国科学引文数据库](http://sciencechina.cn/) 
+* [中国科学引文数据库](http://sciencechina.cn/)
 * Web of Science searching database includes CSCD.
 
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [维普期刊资源整合服务平台](http://cqvip.com) (校园订阅)
@@ -242,6 +242,11 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 ### People, Lab, Organization
 
+* [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais/)
+* [Avrim Blum](http://www.cs.cmu.edu/~avrim/)
+* [Ben Recht](https://people.eecs.berkeley.edu/~brecht/)
+* [Jorge Nocedal](http://users.iems.northwestern.edu/~nocedal)
+* [Ran El-Yaniv](http://www.cs.technion.ac.il/~rani/)
 * <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ampLab, UC Berkeley](https://amplab.cs.berkeley.edu)
 * [Parallel Computing Lab, UC Berkeley](http://parlab.eecs.berkeley.edu)
 * [Algorithms and Complexity, CMU](http://theory.cs.cmu.edu)
@@ -335,4 +340,3 @@ The following resources are in the fields of parallel, distributed computing, ar
 ## [Writing tool](/resource/writing/)
 
 <p><a class="btn btn-success" style="float:right" href="#top">go to top</a></p>
-
