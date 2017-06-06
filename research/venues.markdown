@@ -257,7 +257,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Nir Shavit, MIT](http://people.csail.mit.edu/shanir/)
 * [Sergio Rajsbaum](http://www.matem.unam.mx/~rajsbaum/)
 * [Resources for Multicore Programming Education](http://www.cs.tau.ac.il/~shanir/Resources%20for%20Multicore%20Programming%20Education.htm)
-* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
+* [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
 * [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
 * [Jure Leskovec, Stanford](http://cs.stanford.edu/people/jure/)
 * [David A. Patterson](http://www.eecs.berkeley.edu/Faculty/Homepages/patterson.html)
