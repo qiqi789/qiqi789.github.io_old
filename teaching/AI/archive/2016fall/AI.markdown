@@ -94,9 +94,6 @@ title: AI course
 我的电子邮件地址是：qqi@hainu.edu.cn
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#### 以往课程网页
-- [2016 秋季学期](archive/2016fall/AI)
-
 ### 参考
 
 -   [LiveBook: Optimization models and
