@@ -85,6 +85,10 @@ title: AI course
 
 ### 参考
 
+-  [pytorch, tensors and dynamic neural nets in python](http://pytorch.org/)
+
+-  [fast.ai. neural nets, deep learning](http://www.fast.ai/)
+
 -   [LiveBook: Optimization models and
     applications](http://livebooklabs.com/keeppies/c5a5868ce26b8125)
 
