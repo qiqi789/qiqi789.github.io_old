@@ -83,6 +83,11 @@ title: AI course
 #### 以往课程网页
 - [2016 秋季学期](archive/2016fall/AI)
 
+#### Python 参考
+- [Python documentation](https://docs.python.org/3/index.html)
+- [Numpy manual](https://docs.scipy.org/doc/numpy/)
+- [Numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+
 ### 参考
 
 -  [pytorch, tensors and dynamic neural nets in python](http://pytorch.org/)
