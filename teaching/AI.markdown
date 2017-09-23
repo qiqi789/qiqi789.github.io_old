@@ -89,6 +89,7 @@ title: AI course
 - [NumPy for Matlab users](https://docs.scipy.org/doc/numpy-1.13.0/user/numpy-for-matlab-users.html)
 - [Numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [CVXOPT user's guide](http://cvxopt.org/userguide/index.html)
+- [Python data analysis library -- pandas](http://pandas.pydata.org/)
 
 ### 参考
 
