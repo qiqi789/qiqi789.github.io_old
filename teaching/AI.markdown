@@ -83,6 +83,13 @@ title: AI course
 #### 以往课程网页
 - [2016 秋季学期](archive/2016fall/AI)
 
+#### 机器学习参考
+- [NIPS workshops on optimization for machine learning](http://opt-ml.org/)
+- [NIPS papers](https://papers.nips.cc/)
+- [Kaggle competitions](https://www.kaggle.com/competitions)
+- [Kaggle datasets](https://www.kaggle.com/datasets)
+- [Challenges in machine learning](http://www.chalearn.org/challenges.html)
+
 #### Python 参考
 - [Python documentation](https://docs.python.org/3/index.html)
 - [Numpy manual](https://docs.scipy.org/doc/numpy/)
@@ -90,10 +97,11 @@ title: AI course
 - [Numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [CVXOPT user's guide](http://cvxopt.org/userguide/index.html)
 - [Python data analysis library -- pandas](http://pandas.pydata.org/)
+- [pytorch, tensors and dynamic neural nets in python](http://pytorch.org/)
+
 
 ### 参考
 
--  [pytorch, tensors and dynamic neural nets in python](http://pytorch.org/)
 
 -  [fast.ai. neural nets, deep learning](http://www.fast.ai/)
 
