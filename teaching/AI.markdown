@@ -102,6 +102,7 @@ title: AI course
 
 ### 参考
 
+- [Neural Networks demos in browser](http://playground.tensorflow.org/)
 
 -  [fast.ai. neural nets, deep learning](http://www.fast.ai/)
 
