@@ -99,6 +99,12 @@ title: AI course
 - [Python data analysis library -- pandas](http://pandas.pydata.org/)
 - [pytorch, tensors and dynamic neural nets in python](http://pytorch.org/)
 
+#### Scala 参考
+- [Scala main website](http://www.scala-lang.org/)
+
+#### 工具
+- [Atom, a modern text editor(for markdown, Scala, etc.)](https://atom.io/)
+
 
 ### 参考
 
