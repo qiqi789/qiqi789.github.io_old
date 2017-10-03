@@ -106,6 +106,8 @@ title: AI course
 - [Atom, a modern text editor(for markdown, Scala, etc.)](https://atom.io/)
 - [Texts, a rich editor for markdown (purchase)](http://www.texts.io/)
 
+#### R 参考
+- [R for Data Science (an online book)](http://r4ds.had.co.nz/)
 
 ### 参考
 
