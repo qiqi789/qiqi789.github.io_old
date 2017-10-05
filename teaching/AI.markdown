@@ -105,6 +105,9 @@ title: AI course
 - [CVXOPT user's guide](http://cvxopt.org/userguide/index.html)
 - [Python data analysis library -- pandas](http://pandas.pydata.org/)
 - [pytorch, tensors and dynamic neural nets in python](http://pytorch.org/)
+- [Keras -- Python Deep Learning library (high level)](https://keras.io/)
+  - [Keras blog](https://blog.keras.io/index.html)
+  
 
 #### Scala 参考
 - [Scala main website](http://www.scala-lang.org/)
