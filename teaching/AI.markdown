@@ -84,6 +84,8 @@ title: AI course
 - [2016 秋季学期](archive/2016fall/AI)
 
 #### 机器学习参考
+- [Machine learning group](https://groups.google.com/forum/#!categories/ml-news/cfp)
+- [COLT (Computational Learning Theory) group](https://groups.google.com/forum/#!forum/learning-theory)
 - [NIPS workshops on optimization for machine learning](http://opt-ml.org/)
 - [NIPS papers](https://papers.nips.cc/)
 - [Kaggle competitions](https://www.kaggle.com/competitions)
@@ -91,6 +93,9 @@ title: AI course
 - [Challenges in machine learning](http://www.chalearn.org/challenges.html)
 - [Competitions at Codalab](https://competitions.codalab.org/)
 - [Cybersecurity data mining competition 2017](http://www.csmining.org/cdmc2017/)
+- [kdnuggets](https://www.kdnuggets.com/)
+- [machine learning community - google+](https://plus.google.com/communities/107785538899595981479)
+- [deep learning community - google+](https://plus.google.com/communities/112866381580457264725)
 
 #### Python 参考
 - [Python documentation](https://docs.python.org/3/index.html)
