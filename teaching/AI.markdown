@@ -89,6 +89,7 @@ title: AI course
 - [Kaggle competitions](https://www.kaggle.com/competitions)
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 - [Challenges in machine learning](http://www.chalearn.org/challenges.html)
+- [Competitions at Codalab](https://competitions.codalab.org/)
 
 #### Python 参考
 - [Python documentation](https://docs.python.org/3/index.html)
