@@ -90,6 +90,7 @@ title: AI course
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 - [Challenges in machine learning](http://www.chalearn.org/challenges.html)
 - [Competitions at Codalab](https://competitions.codalab.org/)
+- [Cybersecurity data mining competition 2017](http://www.csmining.org/cdmc2017/)
 
 #### Python 参考
 - [Python documentation](https://docs.python.org/3/index.html)
