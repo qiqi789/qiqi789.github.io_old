@@ -97,6 +97,12 @@ title: AI course
 - [machine learning community - google+](https://plus.google.com/communities/107785538899595981479)
 - [deep learning community - google+](https://plus.google.com/communities/112866381580457264725)
 
+- [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais/)
+- [Avrim Blum](http://www.cs.cmu.edu/~avrim/)
+  - [http://www.machinelearning.com/avrim](http://www.machinelearning.com/avrim)
+- [Berkeley course - The Foundations of Data Science](http://data8.org/)
+  - [The Foundations of Data Science, online book](https://www.inferentialthinking.com/)
+
 #### Python 参考
 - [Python documentation](https://docs.python.org/3/index.html)
 - [Numpy manual](https://docs.scipy.org/doc/numpy/)
@@ -107,7 +113,7 @@ title: AI course
 - [pytorch, tensors and dynamic neural nets in python](http://pytorch.org/)
 - [Keras -- Python Deep Learning library (high level)](https://keras.io/)
   - [Keras blog](https://blog.keras.io/index.html)
-  
+
 
 #### Scala 参考
 - [Scala main website](http://www.scala-lang.org/)
