@@ -21,6 +21,8 @@ title: Research
 
 ### 发表的论文 （Publication）
 
+-  Exploration of Heuristic-Based Feature Selection on Classification Problems. Qi Q., Li N., Li W.. PAAP 2017 proceeding, [Communications in Computer and Information Science, vol 729: 95-107](https://link.springer.com/chapter/10.1007/978-981-10-6442-5_9), Springer.
+
 -   “Reconstruction of metabolic pathways by combining probabilistic graphical
     model-based and knowledge-based methods”, Qi Qi, Jilong Li, and Jianlin
     Cheng, BMC Proceedings, 2014, 8(Suppl 6):S5.

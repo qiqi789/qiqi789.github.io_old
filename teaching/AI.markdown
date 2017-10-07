@@ -100,6 +100,7 @@ title: AI course
 - [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais/)
 - [Avrim Blum](http://www.cs.cmu.edu/~avrim/)
   - [http://www.machinelearning.com/avrim](http://www.machinelearning.com/avrim)
+  - [Foundations of Data Science, the book](http://www.cs.cornell.edu/jeh/book%20June%2014,%202017pdf.pdf)
 - [Berkeley course - The Foundations of Data Science](http://data8.org/)
   - [The Foundations of Data Science, online book](https://www.inferentialthinking.com/)
 
