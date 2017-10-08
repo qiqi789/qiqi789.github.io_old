@@ -103,6 +103,8 @@ title: AI course
   - [Foundations of Data Science, the book](http://www.cs.cornell.edu/jeh/book%20June%2014,%202017pdf.pdf)
 - [Berkeley course - The Foundations of Data Science](http://data8.org/)
   - [The Foundations of Data Science, online book](https://www.inferentialthinking.com/)
+- [Stanford course: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+  - [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
 
 #### Python 参考
 - [Python documentation](https://docs.python.org/3/index.html)
