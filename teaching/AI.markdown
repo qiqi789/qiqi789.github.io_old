@@ -105,6 +105,7 @@ title: AI course
   - [The Foundations of Data Science, online book](https://www.inferentialthinking.com/)
 - [Stanford course: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
   - [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
+  - [Convolutional Neural Networks](http://cs231n.github.io/convolutional-networks/)
 
 #### Python 参考
 - [Python documentation](https://docs.python.org/3/index.html)
