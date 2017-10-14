@@ -109,6 +109,7 @@ title: AI course
 
 #### Python 参考
 - [Python documentation](https://docs.python.org/3/index.html)
+- [Python tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Numpy manual](https://docs.scipy.org/doc/numpy/)
 - [NumPy for Matlab users](https://docs.scipy.org/doc/numpy-1.13.0/user/numpy-for-matlab-users.html)
 - [Numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
