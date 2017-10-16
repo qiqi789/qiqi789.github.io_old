@@ -108,6 +108,7 @@ title: AI course
   - [Convolutional Neural Networks](http://cs231n.github.io/convolutional-networks/)
 
 #### Python 参考
+- [Conda documentation](https://conda.io/docs/commands.html)
 - [Python documentation](https://docs.python.org/3/index.html)
 - [Python tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Numpy manual](https://docs.scipy.org/doc/numpy/)
