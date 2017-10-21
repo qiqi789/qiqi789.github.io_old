@@ -126,6 +126,7 @@ title: AI course
 
 #### 工具
 - [Atom, a modern text editor(for markdown, Scala, etc.)](https://atom.io/)
+  - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
 - [Texts, a rich editor for markdown (purchase)](http://www.texts.io/)
 
 #### R 参考
