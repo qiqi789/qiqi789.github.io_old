@@ -106,6 +106,8 @@ title: AI course
 - [Stanford course: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
   - [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
   - [Convolutional Neural Networks](http://cs231n.github.io/convolutional-networks/)
+- [Machine learning research group -- University of Oxford](http://www.robots.ox.ac.uk/~parg/home)
+  - [Oxford-man institute of quantitative finance](http://www.oxford-man.ox.ac.uk/)
 
 #### Python 参考
 - [Conda documentation](https://conda.io/docs/commands.html)
