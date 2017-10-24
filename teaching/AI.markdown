@@ -129,10 +129,12 @@ title: AI course
 #### Scala 参考
 - [Scala main website](http://www.scala-lang.org/)
 
-#### 工具
+#### 写作工具
 - [Atom, a modern text editor(for markdown, Scala, etc.)](https://atom.io/)
   - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
 - [Texts, a rich editor for markdown (purchase)](http://www.texts.io/)
+- [Markdown Basics](http://rmarkdown.rstudio.com/authoring_basics.html)
+
 
 #### R 参考
 - [R for Data Science (an online book)](http://r4ds.had.co.nz/)
