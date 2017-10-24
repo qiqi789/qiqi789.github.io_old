@@ -83,6 +83,9 @@ title: AI course
 #### 以往课程网页
 - [2016 秋季学期](archive/2016fall/AI)
 
+#### 数学参考
+- [Wolfram mathworld](http://mathworld.wolfram.com/)
+
 #### 机器学习参考
 - [Machine learning group](https://groups.google.com/forum/#!categories/ml-news/cfp)
 - [COLT (Computational Learning Theory) group](https://groups.google.com/forum/#!forum/learning-theory)
