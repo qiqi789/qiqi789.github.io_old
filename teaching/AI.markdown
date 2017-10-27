@@ -85,6 +85,7 @@ title: AI course
 
 #### 数学参考
 - [Wolfram mathworld](http://mathworld.wolfram.com/)
+- [Math Warehouse](http://www.mathwarehouse.com/)
 
 #### 机器学习参考
 - [Machine learning group](https://groups.google.com/forum/#!categories/ml-news/cfp)
@@ -134,6 +135,7 @@ title: AI course
   - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
 - [Texts, a rich editor for markdown (purchase)](http://www.texts.io/)
 - [Markdown Basics](http://rmarkdown.rstudio.com/authoring_basics.html)
+- [Gnuplot](http://gnuplot.info/)
 
 
 #### R 参考
