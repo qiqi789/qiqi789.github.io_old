@@ -143,6 +143,8 @@ title: AI course
 
 ### 参考
 
+- [AI Space -- Tools for Learning Artificial Intelligence](http://www.aispace.org/index.shtml)
+
 - [Neural Networks demos in browser](http://playground.tensorflow.org/)
 
 -  [fast.ai. neural nets, deep learning](http://www.fast.ai/)
