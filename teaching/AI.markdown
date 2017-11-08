@@ -113,6 +113,8 @@ title: AI course
 - [Machine learning research group -- University of Oxford](http://www.robots.ox.ac.uk/~parg/home)
   - [Oxford-man institute of quantitative finance](http://www.oxford-man.ox.ac.uk/)
 
+  - [Distill pub -- online journal, seeking clarity in Machine Learning](https://distill.pub/)
+
 #### Python 参考
 - [Conda documentation](https://conda.io/docs/commands.html)
 - [Python documentation](https://docs.python.org/3/index.html)
