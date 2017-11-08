@@ -139,6 +139,7 @@ title: AI course
 - [Markdown Basics](http://rmarkdown.rstudio.com/authoring_basics.html)
 - [Pandoc](http://pandoc.org/)
 - [Gnuplot](http://gnuplot.info/)
+- [BibDesk - MAC BIBLIOGRAPHY MANAGER](http://bibdesk.sourceforge.net/)
 - [betterbib - python tool for bib conversion according to crossRef or DBLP](https://github.com/nschloe/betterbib)
 
 
