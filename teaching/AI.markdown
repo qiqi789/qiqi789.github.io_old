@@ -137,7 +137,9 @@ title: AI course
   - [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
 - [Texts, a rich editor for markdown (purchase)](http://www.texts.io/)
 - [Markdown Basics](http://rmarkdown.rstudio.com/authoring_basics.html)
+- [Pandoc](http://pandoc.org/)
 - [Gnuplot](http://gnuplot.info/)
+- [betterbib - python tool for bib conversion according to crossRef or DBLP](https://github.com/nschloe/betterbib)
 
 
 #### R 参考
