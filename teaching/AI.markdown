@@ -139,6 +139,7 @@ title: AI course
 - [Texts, a rich editor for markdown (purchase)](http://www.texts.io/)
 - [Markdown Basics](http://rmarkdown.rstudio.com/authoring_basics.html)
 - [Pandoc](http://pandoc.org/)
+- [Latex online guidance](https://www.sharelatex.com/learn/Main_Page)
 - [Gnuplot](http://gnuplot.info/)
 - [EndNote - managing bibliographies](http://endnote.com/)
 - [BibDesk - MAC BIBLIOGRAPHY MANAGER](http://bibdesk.sourceforge.net/)
