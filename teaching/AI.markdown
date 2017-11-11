@@ -114,7 +114,7 @@ title: AI course
   - [Oxford-man institute of quantitative finance](http://www.oxford-man.ox.ac.uk/)
 
   - [Distill pub -- online journal, seeking clarity in Machine Learning](https://distill.pub/)
-  - [Machine learning course at Stanford](http://cs229.stanford.edu/)
+- [Machine learning course at Stanford](http://cs229.stanford.edu/)
 
 #### Python 参考
 - [Conda documentation](https://conda.io/docs/commands.html)
