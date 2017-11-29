@@ -1,6 +1,4 @@
 permalink: pretty
-markdown: kramdown
-highlighter: rouge
 exclude: [cv.markdown]
 github: [Repository metadata]
 
