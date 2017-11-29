@@ -3,3 +3,9 @@ markdown: kramdown
 highlighter: rouge
 exclude: [cv.markdown]
 github: [Repository metadata]
+
+title: Qiqi789.github.io
+description: my blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
