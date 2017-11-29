@@ -1,5 +1,7 @@
 ### Welcome!
-
+ 
+ <img src="/images/Qi_photo.png" style="display: block; width: 270px; height: 220px; float:left; margin-right:7px; margin-top:2%"  alt="That's me!" class="avatar" />
+ 
 我的研究领域是机器学习和人工智能。我在美国密苏里大学哥伦比亚分校获得计算机科学博士学位，现任教于海南大学计算机科学系。
 
 <div id="posts">
